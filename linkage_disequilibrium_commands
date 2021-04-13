@@ -1,0 +1,61 @@
+Downloading the 1000 Genomes VCFs for each chromosome:
+
+wget link_adddress
+
+
+Filtering each of the 1000 Genomes chromosome VCFs by population: 
+
+for file in /path/to/1000Genomes/VCFs/*.vcf.gz; do bcftools view -Oz -S /path/to/population_sample_file $file > /path/to/output/folder/population_name done
+
+(This command creates a population specific VCF file for each chromosome and needs to be repeated for each super population. The sample files in this study 
+were created by copying the 1000 Genomes sample data to Excel and filtering by super population, then copying the samples to new files for each population.)
+
+
+Combining population-filtered VCFs so that there is one VCF for each population:
+
+bcftools concat -Oz /path/to/population/filtered/VCFs/* > /path/to/output/population_file.vcf.gz
+
+(repeated for each super population)
+
+
+Converting population filtered VCFs to PLINK binary files:
+
+/path/to/plink --vcf population.vcf.gz --vcf-half-call 'm' --make-bed --out population
+
+
+Extracting the ALL-associated SNPs from each set of plink files and recoding to flat files:
+
+/path/to/plink --bfile population --extract lda_snps.txt --recode --out population_filtered
+
+
+Finding significant LD SNP pairs (r2 > 0.8) with PLINK:
+
+./path/to/plink --file path/to/filtred/population/file --r2 --ld-window-r2 .8
+
+(This command creates a plink.ld file in the current directory)
+
+
+Finding LD SNP pairs common to all super populations and writing to a file:
+
+join -j1 -o1.1,1.2,1.3,1.4,1.5,1.6,1.7,1.8,2.8 <(<path/to/first/population_plink.ld awk '{print $1"-"$2"-"$3"-"$4"-"$5"-"$6" "$0}' | sort -k1,1) 
+<(<path/to/second/population_plink.ld awk '{print $1"-"$2"-"$3"-"$4"-"$5"-"$6" "$0}' | sort -k1,1) | join -j1 -o1.1,1.2,1.3,1.4,1.5,1.6,1.7,1.8,1.9,2.8 - 
+<(<path/to/third/population_plink.ld awk '{print $1"-"$2"-"$3"-"$4"-"$5"-"$6" "$0}' | sort -k1,1) | join -j1 -o1.1,1.2,1.3,1.4,1.5,1.6,1.7,1.8,1.9,1.10,2.8 - 
+<(<path/to/fourth/population_plink.ld awk '{print $1"-"$2"-"$3"-"$4"-"$5"-"$6" "$0}' | sort -k1,1) | join -j1 -o1.2,1.3,1.4,1.5,1.6,1.7,1.8,1.9,1.10,1.11,2.8 - 
+<(<path/to/fifth/population_plink.ld awk '{print $1"-"$2"-"$3"-"$4"-"$5"-"$6" "$0}' | sort -k1,1) > path/to/output/file.txt
+
+(This command creates a key for each line out of all columns except the r2 value, joining on common pairs while keeping the individual r2 values of each population.
+The single command is shown across several lines for easier reading.)
+
+
+Finding unique LD SNP pairs for a population and writing to a file: 
+
+awk '{k=""; for(i=1; i<=6; i++) k=k SUBSEP $i} FNR==NR{a[k]; next} !(k in a)' ../path/to/first/population_plink.ld  ..path/to/second/population_plink.ld > tmp1_unique.txt
+awk '{k=""; for(i=1; i<=6; i++) k=k SUBSEP $i} FNR==NR{a[k]; next} !(k in a)' ../path/to/third/population_plink.ld tmp1_unique.txt > tmp2_unique.txt
+awk '{k=""; for(i=1; i<=6; i++) k=k SUBSEP $i} FNR==NR{a[k]; next} !(k in a)' ../path/to/fourth/population_plink.ld tmp2_unique.txt > tmp3_unique.txt
+awk '{k=""; for(i=1; i<=6; i++) k=k SUBSEP $i} FNR==NR{a[k]; next} !(k in a)' ../path/to/fifth/population_plink.ld tmp3_unique.txt > path/to/second/population_unique.txt
+
+(This command compares two populations, creating a line key from the first 6 columns to exclude comparison of population specific r2 values.
+The reusulting unique lines of the second population are stored in a temporary file that is then compared to the next population, and so on, 
+to ensure the proper comparison of all lines of each population. This series of commands needs to be repeated for each super population.)
+
+
