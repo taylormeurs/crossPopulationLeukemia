@@ -1,0 +1,1737 @@
+SNP,risk allele,population1,population2,odds ratio
+rs72772090,G,East Asia,Europe,1.82E+17
+rs72772090,G,East Asia,America,1.31E+17
+rs4987856,C,East Asia,Europe,1.30E+17
+rs17481869,C,East Asia,Europe,8.83E+16
+rs72772090,G,East Asia,South Asia,8.13E+16
+rs4987852,T,East Asia,Europe,6.96E+16
+rs145145722,T,East Asia,Africa,5.55E+16
+rs4987856,C,East Asia,America,5.51E+16
+rs75094162,T,East Asia,Africa,4.54E+16
+rs75094162,T,Europe,Africa,4.53E+16
+rs75094162,T,South Asia,Africa,4.41E+16
+rs117233659,A,Africa,South Asia,4.33E+16
+rs149940960,T,Europe,Africa,4.28E+16
+rs149940960,T,South Asia,Africa,4.16E+16
+rs17481869,C,East Asia,America,3.92E+16
+rs3731249,C,Africa,Europe,3.37E+16
+rs117233659,A,East Asia,South Asia,3.30E+16
+rs73152871,A,East Asia,Europe,3.10E+16
+rs72926690,C,East Asia,Europe,2.89E+16
+rs17481869,C,East Asia,South Asia,2.75E+16
+rs10508343,A,America,Europe,2.8757E+14
+rs2901286,A,East Asia,Africa,2.69521E+14
+rs6021191,T,Africa,Europe,2.06204E+14
+rs2622849,T,Africa,East Asia,1.74067E+14
+rs61610071,G,East Asia,Europe,1.5729E+14
+rs12530134,A,America,East Asia,1.56667E+14
+rs7142143,C,Africa,East Asia,1.26065E+14
+rs7142143,C,Africa,South Asia,1.26065E+14
+rs10508343,A,South Asia,Europe,1.25432E+14
+rs41322152,C,Africa,East Asia,1.22241E+14
+rs41322152,C,Africa,South Asia,1.22241E+14
+rs41322152,C,Africa,Europe,1.22241E+14
+rs6021191,T,East Asia,Europe,1.16279E+14
+rs61610071,G,America,Europe,1.08626E+14
+rs74709575,C,East Asia,America,1.07692E+14
+rs74709575,C,East Asia,Africa,1.07692E+14
+rs9849262,T,Africa,East Asia,1.06276E+14
+rs9849262,T,Africa,South Asia,1.06276E+14
+rs9849262,T,Africa,Europe,1.06276E+14
+rs17837497,A,Africa,East Asia,1.03506E+14
+rs17837497,A,Africa,South Asia,1.03506E+14
+rs17837497,A,Africa,Europe,1.03506E+14
+rs12530134,A,Europe,East Asia,8.87446E+13
+rs17481869,A,Europe,East Asia,8.75676E+13
+rs12530134,A,South Asia,East Asia,7.11939E+13
+rs4987852,C,Europe,East Asia,6.90755E+13
+rs189434316,T,Europe,East Asia,5.89474E+13
+rs17079534,A,Africa,East Asia,5.76E+13
+rs61610071,G,South Asia,Europe,5.61555E+13
+rs2901286,A,America,Africa,5.15152E+13
+rs10508343,A,East Asia,Europe,4.13223E+13
+rs116783514,C,Africa,East Asia,4.01259E+13
+rs116783514,C,Africa,South Asia,4.01259E+13
+rs116783514,C,Africa,Europe,4.01259E+13
+rs17481869,A,America,East Asia,3.89222E+13
+rs6021191,T,America,Europe,3.89222E+13
+rs61610071,G,Africa,Europe,3.76766E+13
+rs6021191,T,South Asia,Europe,3.71156E+13
+rs1805465,T,Africa,East Asia,3.68627E+13
+rs71372609,C,Europe,East Asia,3.60453E+13
+rs2622849,T,Europe,East Asia,3.49794E+13
+rs117233659,C,South Asia,East Asia,3.2735E+13
+rs117233659,C,South Asia,Africa,3.2735E+13
+rs73152871,G,Europe,East Asia,3.07377E+13
+rs2622849,T,America,East Asia,2.96736E+13
+rs112141546,T,Africa,East Asia,2.9595E+13
+rs112141546,T,Africa,South Asia,2.9595E+13
+rs112141546,T,Africa,Europe,2.9595E+13
+rs72926690,T,Europe,East Asia,2.86299E+13
+rs17481869,A,South Asia,East Asia,2.73109E+13
+rs148297606,C,South Asia,East Asia,2.62329E+13
+rs148297606,C,South Asia,Africa,2.62329E+13
+rs113650570,A,Europe,Africa,2.54842E+13
+rs3731249,T,Europe,Africa,2.54842E+13
+rs2901286,A,South Asia,Africa,2.19436E+13
+rs7254272,A,Africa,East Asia,1464.35503
+rs359312,T,East Asia,Africa,420
+rs7578199,T,East Asia,Europe,369.4157609
+rs11755724,G,Europe,East Asia,288.2899729
+rs11755724,A,East Asia,Europe,288.2899729
+rs7128311,C,East Asia,Africa,278.621826
+rs34531324,T,Europe,East Asia,276.9569075
+rs6901152,T,Europe,East Asia,257.28471
+rs11083846,A,Europe,East Asia,249.8759305
+rs7578199,T,East Asia,America,238.7361854
+rs7578199,T,East Asia,Africa,218.8324125
+rs13397985,G,Europe,East Asia,204.7727273
+rs13397985,T,East Asia,Europe,204.7727273
+rs6971925,T,America,Europe,189.2979452
+rs13397985,G,South Asia,East Asia,176.7091346
+rs13397985,T,East Asia,South Asia,176.7091346
+rs11755724,G,America,East Asia,162.2556818
+rs11755724,A,East Asia,America,162.2556818
+rs359312,T,America,Africa,159.391771
+rs11083846,A,South Asia,East Asia,157.1205674
+rs60218192,A,Africa,East Asia,156.0346878
+rs123509,T,Europe,East Asia,149.0850515
+rs11083846,A,America,East Asia,144.3311367
+rs6971925,T,East Asia,Europe,137.096956
+rs73005220,G,East Asia,Africa,133.7301255
+rs77551289,A,East Asia,Europe,131.2494382
+rs563507,A,Africa,East Asia,130.3009524
+rs13397985,G,America,East Asia,129.3544715
+rs13397985,T,East Asia,America,129.3544715
+rs34531324,T,America,East Asia,122.0113086
+rs6901152,T,America,East Asia,119.9706458
+rs7865267,T,Africa,Europe,118
+rs13397985,G,Africa,East Asia,116.421097
+rs13397985,T,East Asia,Africa,116.421097
+rs4459895,C,East Asia,Europe,111.0995146
+rs34004493,G,Europe,East Asia,109.6042216
+rs74709575,C,East Asia,Europe,108.2307692
+rs7254272,A,Europe,East Asia,105.1947115
+rs7254272,A,America,East Asia,104.0991304
+rs34531324,T,South Asia,East Asia,93.38659218
+rs7254272,A,Africa,South Asia,88.93376599
+rs7142143,C,Africa,America,87.36286201
+rs1496766,C,Africa,Europe,79.12434326
+rs7128311,C,America,Africa,76.62549351
+rs123509,T,America,East Asia,75.90878939
+rs10508343,A,America,Africa,75.7458256
+rs8023845,G,East Asia,Europe,73.4969697
+rs11748968,C,South Asia,Africa,73.48608007
+rs34004493,G,South Asia,East Asia,71.99378882
+rs11753479,G,East Asia,America,67.39542484
+rs73188336,T,Africa,Europe,66.59879032
+rs7142143,C,Africa,Europe,63.28449744
+rs7607659,T,Africa,Europe,62.53372781
+rs123509,T,South Asia,East Asia,61.14449541
+rs11753479,G,East Asia,Europe,59.8676307
+rs8023845,G,East Asia,Africa,57.96362023
+rs17079534,A,Africa,Europe,57.888
+rs6125048,T,East Asia,Europe,56.5589872
+rs17079534,A,Africa,South Asia,56.2752
+rs11755724,G,South Asia,East Asia,56.12295082
+rs11755724,A,East Asia,South Asia,56.12295082
+rs145145722,T,Europe,Africa,55.34317638
+rs77551289,A,East Asia,America,55.09422492
+rs7578199,T,East Asia,South Asia,54.25646552
+rs7128311,C,East Asia,Europe,52.49243652
+rs112769843,C,East Asia,Africa,52.12412587
+rs4459895,C,East Asia,America,51.0984127
+rs6489882,G,Europe,Africa,49.61570463
+rs3731714,C,Africa,Europe,49.44955888
+rs3731714,T,Europe,Africa,49.44955888
+rs16868899,G,East Asia,Europe,48.25208333
+rs16868899,A,Europe,East Asia,48.25208333
+rs2953196,G,Africa,East Asia,48.24147106
+rs72772090,G,Africa,Europe,47.60985915
+rs17007695,C,East Asia,Africa,47.46360153
+rs11083846,A,Africa,East Asia,47.04117181
+rs11155133,G,Africa,Europe,46.86238293
+rs35229355,T,East Asia,Europe,46.23138173
+rs1881797,C,Africa,East Asia,46.22148066
+rs3770745,T,East Asia,Europe,45.11952191
+rs888096,A,Africa,Europe,45.06923337
+rs34004493,G,America,East Asia,44.88562092
+rs35229355,T,East Asia,America,44.62819672
+rs359312,T,East Asia,South Asia,43.81818182
+rs112769843,C,East Asia,Europe,43.66292135
+rs10849033,G,East Asia,Europe,43.32424573
+rs77551289,A,Africa,Europe,42.94606742
+rs149940960,T,East Asia,Africa,42.88485804
+rs4987856,C,Africa,Europe,42.52805836
+rs6901152,T,South Asia,East Asia,42.45391705
+rs6971925,T,South Asia,Europe,41.74121406
+rs8023845,G,East Asia,America,40.58966074
+rs10849033,G,Africa,Europe,40.30774898
+rs61904987,T,Europe,East Asia,39.87208009
+rs3731714,C,Africa,America,39.27063741
+rs3731714,T,America,Africa,39.27063741
+rs189434316,T,Europe,Africa,38.90526316
+rs4759570,A,Europe,Africa,38.13380008
+rs1496766,C,Africa,America,36.30472855
+rs4459895,C,Africa,Europe,36.27851942
+rs17246404,C,Africa,East Asia,36.25179083
+rs7607659,T,Africa,South Asia,36.24071006
+rs13015798,A,Africa,Europe,35.84960658
+rs10936599,C,Africa,East Asia,35.63788715
+rs13069553,G,East Asia,Africa,35.63788715
+rs13069553,A,Africa,East Asia,35.63788715
+rs11753479,G,Africa,America,35.29215686
+rs60218192,A,South Asia,East Asia,35.22100656
+rs115456075,A,Europe,Africa,35.04693878
+rs115456075,T,Africa,Europe,35.04693878
+rs6550253,A,South Asia,Africa,34.94676806
+rs73188336,T,East Asia,Europe,34.72619325
+rs34531324,T,Africa,East Asia,34.66979656
+rs11748968,C,East Asia,Africa,34.65754574
+rs61904987,T,America,East Asia,34.61844197
+rs6489882,G,South Asia,Africa,34.43071802
+rs12530134,A,America,Africa,34.36222222
+rs72772090,G,Africa,America,34.31921824
+rs11755724,G,Africa,East Asia,34.25250684
+rs11755724,A,East Asia,Africa,34.25250684
+rs6901152,T,Europe,Africa,34.24283377
+rs60086424,T,Africa,Europe,33.83868313
+rs2953196,G,Africa,America,33.76372956
+rs1348850,A,Africa,America,33.76307562
+rs2953196,G,Africa,South Asia,33.64100346
+rs3731714,C,Africa,South Asia,33.58334326
+rs3731714,T,South Asia,Africa,33.58334326
+rs13015798,A,Africa,America,33.51270325
+rs17483466,G,Europe,East Asia,33.37531486
+rs17483466,A,East Asia,Europe,33.37531486
+rs10508343,A,South Asia,Africa,33.03866513
+rs6125048,T,East Asia,Africa,32.74933531
+rs9815073,C,Africa,Europe,32.71660637
+rs6550253,A,Europe,Africa,32.43944917
+rs17007695,C,America,Africa,32.29814815
+rs6489882,G,East Asia,Africa,31.71700496
+rs11753479,G,East Asia,South Asia,31.71086957
+rs149207840,T,South Asia,Africa,31.38738989
+rs11753479,G,Africa,Europe,31.35016685
+rs7682733,G,East Asia,Europe,31.12363636
+rs7682733,A,Europe,East Asia,31.12363636
+rs10260824,C,Africa,Europe,30.87965639
+rs17483466,G,America,East Asia,30.46594982
+rs17483466,A,East Asia,America,30.46594982
+rs4987852,C,Europe,Africa,30.37017357
+rs4987852,T,Africa,Europe,30.37017357
+rs9958208,A,Europe,East Asia,30.18708241
+rs6971925,T,Africa,Europe,29.74299065
+rs1348850,A,Africa,Europe,29.46248844
+rs123509,T,Africa,East Asia,29.39871898
+rs359312,T,East Asia,Europe,28.46280992
+rs2089222,A,America,South Asia,28.34449541
+rs872071,G,Europe,Africa,28.17266817
+rs6683977,C,Europe,Africa,28.14735685
+rs6125048,T,America,Europe,27.93031471
+rs17246404,C,Africa,Europe,27.57014628
+rs563507,A,America,East Asia,27.51975684
+rs60218192,A,America,East Asia,27.51975684
+rs57214277,T,South Asia,Africa,27.34573655
+rs7865267,T,Africa,America,27.22802419
+rs145145722,T,South Asia,Africa,26.87310455
+rs34004493,G,Africa,East Asia,26.82189542
+rs1804772,A,Africa,Europe,26.23780488
+rs1804772,C,Europe,Africa,26.23780488
+rs60086424,T,East Asia,Europe,26.13142516
+rs13015798,A,Africa,South Asia,26.10678138
+rs149207840,T,Europe,Africa,25.97135484
+rs570684,C,Europe,Africa,25.48483578
+rs570684,T,Africa,Europe,25.48483578
+rs6489882,G,America,Africa,25.47473619
+rs3731714,C,Africa,East Asia,25.38529701
+rs3731714,T,East Asia,Africa,25.38529701
+rs13015798,A,Africa,East Asia,25.22954545
+rs3935695,C,East Asia,Europe,25.15743231
+rs112769843,C,East Asia,America,24.89164087
+rs2511713,G,Europe,East Asia,24.65566166
+rs872071,G,America,Africa,24.64080966
+rs4759570,A,South Asia,Africa,24.42575758
+rs76473307,A,East Asia,Africa,24.33061917
+rs563507,A,Europe,East Asia,24.10208333
+rs7682733,G,East Asia,Africa,24.06521739
+rs7682733,A,Africa,East Asia,24.06521739
+rs71372609,C,Europe,Africa,23.78990731
+rs872071,G,South Asia,Africa,23.71389717
+rs267585,T,Africa,East Asia,22.98943925
+rs2953196,G,Africa,Europe,22.88083491
+rs2521269,C,East Asia,Africa,22.82149362
+rs2390536,A,Europe,East Asia,22.55315871
+rs73005220,G,South Asia,Africa,22.30240175
+rs4759570,A,East Asia,Africa,22.02911208
+rs4759570,A,America,Africa,21.51687764
+rs61904987,T,South Asia,East Asia,21.50707291
+rs2511713,G,Africa,East Asia,21.3164
+rs72772090,G,Africa,South Asia,21.24662983
+rs9958208,A,South Asia,East Asia,21.14855876
+rs1496766,C,East Asia,Europe,20.74380165
+rs73188336,T,Africa,America,20.65524194
+rs7941765,C,Africa,Europe,20.48483678
+rs7941765,T,Europe,Africa,20.48483678
+rs7607659,T,East Asia,Europe,20.43726335
+rs9958208,A,America,East Asia,20.33021807
+rs1496766,C,South Asia,Europe,20.29361702
+rs73152871,G,Europe,Africa,20.28688525
+rs73152871,A,Africa,Europe,20.28688525
+rs11748968,C,Europe,Africa,20.2753304
+rs9272131,T,America,Africa,19.99933572
+rs8023845,G,East Asia,South Asia,19.96208017
+rs17483466,G,South Asia,East Asia,19.84597156
+rs17483466,A,East Asia,South Asia,19.84597156
+rs17246404,C,Africa,South Asia,19.80987929
+rs9815073,C,Africa,America,19.77837929
+rs35923643,G,America,East Asia,19.74401473
+rs57214277,T,East Asia,Africa,19.50086462
+rs12530134,A,Europe,Africa,19.46464646
+rs2511713,G,America,East Asia,19.35456238
+rs563507,A,Africa,South Asia,19.22930403
+rs2901286,A,East Asia,Europe,19.09751709
+rs72926690,C,Africa,Europe,18.89570552
+rs72926690,T,Europe,Africa,18.89570552
+rs936094,C,South Asia,East Asia,18.76790281
+rs7128311,C,East Asia,South Asia,18.73409643
+rs4459895,C,East Asia,South Asia,18.66914104
+rs1881797,C,Africa,South Asia,18.61670144
+rs2089222,A,America,Europe,18.61127553
+rs735665,A,America,East Asia,18.4092081
+rs11020478,G,South Asia,Africa,18.26756543
+rs117483095,T,South Asia,Africa,18.26091587
+rs7865267,T,East Asia,Europe,18.20021375
+rs73192661,C,Africa,Europe,18.15053763
+rs2239630,A,Africa,Europe,18.06394859
+rs1348850,A,Africa,South Asia,18.04740834
+rs4987856,C,Africa,America,18.02735562
+rs77551289,A,Africa,America,18.02735562
+rs10260824,C,Africa,America,17.97572254
+rs9378805,C,Europe,Africa,17.72406664
+rs16976734,G,East Asia,Africa,17.58819219
+rs7865267,T,Africa,South Asia,17.49568311
+rs888096,A,Africa,South Asia,17.46200608
+rs267759,A,East Asia,Europe,17.42176871
+rs2651823,A,East Asia,Africa,17.38362761
+rs2089222,A,Africa,South Asia,17.24794239
+rs1348850,A,Africa,East Asia,17.1683474
+rs2622849,T,Africa,South Asia,16.84973357
+rs1986582,G,Africa,South Asia,16.81361738
+rs4459895,C,Africa,America,16.68571429
+rs359312,T,America,South Asia,16.62918477
+rs11753479,G,Africa,South Asia,16.60565217
+rs60218192,A,Europe,East Asia,16.52566735
+rs10260824,C,Africa,South Asia,16.46669419
+rs7254272,A,South Asia,East Asia,16.4656811
+rs17246404,C,Africa,America,16.38148789
+rs11155133,G,East Asia,Europe,16.38131313
+rs888096,A,Africa,America,16.25159329
+rs6125048,T,America,Africa,16.17248269
+rs6901152,T,America,Africa,15.96727175
+rs4525246,C,Africa,East Asia,15.91993383
+rs117483095,T,Europe,Africa,15.8479231
+rs16868899,G,Africa,Europe,15.78854167
+rs16868899,A,Europe,Africa,15.78854167
+rs4845725,G,South Asia,Africa,15.72946058
+rs4845725,A,Africa,South Asia,15.72946058
+rs9378805,C,America,Africa,15.68426166
+rs61904987,T,Europe,Africa,15.61557286
+rs12530134,A,South Asia,Africa,15.61518802
+rs936094,C,Africa,East Asia,15.541013
+rs11155133,G,America,Europe,15.34142395
+rs3770745,T,East Asia,South Asia,15.30991736
+rs149207840,T,America,Africa,15.185674
+rs821931,G,Africa,Europe,15.09820808
+rs9958208,A,Africa,East Asia,14.88301282
+rs7128311,C,South Asia,Africa,14.87244538
+rs112769843,C,East Asia,South Asia,14.65848453
+rs57214277,T,America,Africa,14.61871859
+rs7128311,C,America,Europe,14.43626622
+rs9378805,C,South Asia,Africa,14.3681969
+rs10936599,C,Africa,America,14.26557945
+rs35923643,G,Europe,East Asia,14.23389021
+rs13069553,G,America,Africa,14.17594655
+rs13069553,A,Africa,America,14.17594655
+rs872071,G,East Asia,Africa,14.07099491
+rs7254272,A,Africa,America,14.06692855
+rs6550253,A,America,Africa,14.05880288
+rs7254272,A,Africa,Europe,13.9204244
+rs4525246,C,America,East Asia,13.72752002
+rs73331351,G,East Asia,Europe,13.56838906
+rs61904987,T,America,Africa,13.55802862
+rs2239630,A,Africa,America,13.43886921
+rs1292034,G,South Asia,Africa,13.43197097
+rs1292034,A,Africa,South Asia,13.43197097
+rs73005220,G,America,Africa,13.33808096
+rs35923643,G,America,Africa,13.33776686
+rs735665,A,America,Africa,13.33776686
+rs11748968,C,America,Africa,13.33553792
+rs9815073,C,Africa,East Asia,13.28900256
+rs10849033,G,America,Europe,13.26511751
+rs57214277,T,Europe,Africa,13.24589226
+rs735665,A,Europe,East Asia,13.17687723
+rs3800461,C,Europe,Africa,13.15472607
+rs72951801,G,Africa,Europe,12.97214931
+rs72951801,A,Europe,Africa,12.97214931
+rs7941765,C,Africa,South Asia,12.96968715
+rs7941765,T,South Asia,Africa,12.96968715
+rs3770745,T,Africa,Europe,12.89816733
+rs4896310,A,Europe,East Asia,12.87635054
+rs73005220,G,East Asia,Europe,12.76488055
+rs267759,A,East Asia,South Asia,12.60204082
+rs3770745,T,East Asia,America,12.46701847
+rs11020478,G,East Asia,Africa,12.36502505
+rs2041840,C,East Asia,Europe,12.30824891
+rs2901286,A,East Asia,South Asia,12.28247571
+rs9849262,T,Africa,America,12.18633194
+rs73192661,C,Africa,America,12.18078872
+rs1292034,G,Europe,Africa,12.0683022
+rs1292034,A,Africa,Europe,12.0683022
+rs60086424,T,South Asia,Europe,12.02913165
+rs2390536,A,Europe,Africa,11.98788587
+rs7607659,T,East Asia,South Asia,11.84418331
+rs1879352,C,Europe,Africa,11.80394477
+rs888096,A,Africa,East Asia,11.76946824
+rs35923643,G,South Asia,East Asia,11.76281287
+rs17857135,T,East Asia,Africa,11.75285266
+rs1569175,T,America,South Asia,11.74495477
+rs6683977,C,South Asia,Africa,11.71893299
+rs10949482,T,Africa,South Asia,11.61259025
+rs2239630,A,Africa,East Asia,11.55571007
+rs73192661,C,Africa,East Asia,11.40479744
+rs6125048,T,South Asia,Europe,11.36550388
+rs2089222,A,Africa,Europe,11.32516926
+rs4525246,C,Europe,East Asia,11.32100974
+rs936094,C,Europe,East Asia,11.29833952
+rs9272131,T,Europe,Africa,11.11394125
+rs2089222,A,East Asia,South Asia,11.05384615
+rs9391997,G,Europe,Africa,10.94430693
+rs10508343,A,East Asia,Africa,10.88429752
+rs735665,A,South Asia,East Asia,10.87571429
+rs1881797,C,America,East Asia,10.86706076
+rs359312,T,America,Europe,10.80175638
+rs73188336,T,East Asia,America,10.77013441
+rs72951801,G,Africa,America,10.71181102
+rs72951801,A,America,Africa,10.71181102
+rs11155133,G,South Asia,Europe,10.66120977
+rs2239630,A,Africa,South Asia,10.59381538
+rs17134658,G,Africa,East Asia,10.57183635
+rs17134658,T,East Asia,Africa,10.57183635
+rs2041840,C,East Asia,South Asia,10.56187767
+rs4266947,T,America,South Asia,10.55637584
+rs73005220,G,Europe,Africa,10.47641026
+rs6763508,C,Africa,East Asia,10.47237687
+rs7941765,C,Africa,America,10.47189745
+rs7941765,T,America,Africa,10.47189745
+rs16976734,G,East Asia,Europe,10.42174818
+rs1804772,A,East Asia,Europe,10.41999827
+rs1804772,C,Europe,East Asia,10.41999827
+rs9976326,T,South Asia,Africa,10.38042903
+rs9815073,C,Africa,South Asia,10.31223385
+rs12711846,G,Africa,East Asia,10.26645768
+rs12748152,C,Africa,Europe,10.26538049
+rs9308731,A,Africa,South Asia,10.25954883
+rs2139953,A,Africa,Europe,10.2474997
+rs60086424,T,Africa,America,10.23871528
+rs3800461,C,South Asia,Africa,10.18534961
+rs2777899,G,Europe,Africa,10.14248993
+rs2777899,T,Africa,Europe,10.14248993
+rs17007695,C,South Asia,Africa,10.13209013
+rs58055674,C,Europe,East Asia,10.09910309
+rs7682733,G,East Asia,America,10.09714286
+rs7682733,A,America,East Asia,10.09714286
+rs60440889,C,Africa,America,10.07706553
+rs60440889,T,America,Africa,10.07706553
+rs73005220,G,East Asia,America,10.02618937
+rs7682733,G,South Asia,Europe,9.984105572
+rs7682733,A,Europe,South Asia,9.984105572
+rs35603048,T,South Asia,Africa,9.807146427
+rs76473307,A,East Asia,South Asia,9.675241158
+rs10069690,T,Africa,East Asia,9.64929596
+rs9391997,G,America,Africa,9.646231981
+rs35923643,G,Europe,Africa,9.615486608
+rs1804772,A,Africa,America,9.589261518
+rs1804772,C,America,Africa,9.589261518
+rs17481869,A,Europe,Africa,9.559459459
+rs17481869,C,Africa,Europe,9.559459459
+rs735665,A,Europe,Africa,9.546859136
+rs6893857,C,Africa,East Asia,9.529439696
+rs4525246,C,South Asia,East Asia,9.526937851
+rs60218192,A,Africa,Europe,9.441959861
+rs17134658,G,Africa,South Asia,9.44126473
+rs17134658,T,South Asia,Africa,9.44126473
+rs9391997,G,South Asia,Africa,9.368510898
+rs2390536,A,America,East Asia,9.361061947
+rs3935695,C,East Asia,America,9.328235867
+rs12638862,A,Africa,East Asia,9.31963995
+rs17007695,C,East Asia,Europe,9.182192486
+rs3800461,C,Europe,East Asia,9.161147903
+rs35229355,T,East Asia,Africa,9.039123227
+rs4896310,A,America,East Asia,9.00330033
+rs10260824,C,Africa,East Asia,8.990522314
+rs73188336,T,South Asia,Europe,8.983333333
+rs35229355,T,South Asia,Europe,8.979591837
+rs73192661,C,Africa,South Asia,8.978265306
+rs149207840,T,South Asia,East Asia,8.950144431
+rs3935695,C,Africa,Europe,8.900797856
+rs10046301,C,Africa,Europe,8.895089937
+rs1679013,C,Africa,East Asia,8.853904282
+rs9378805,C,East Asia,Africa,8.811422414
+rs1292034,G,America,Africa,8.77099626
+rs1292034,A,Africa,America,8.77099626
+rs6763508,C,Africa,America,8.757494647
+rs11020478,G,Europe,Africa,8.755596605
+rs1804772,A,Africa,South Asia,8.735937157
+rs1804772,C,South Asia,Africa,8.735937157
+rs35229355,T,South Asia,America,8.668202765
+rs73331351,G,East Asia,America,8.668085106
+rs10949482,T,Africa,East Asia,8.656219232
+rs72951801,G,Africa,East Asia,8.613298338
+rs72951801,A,East Asia,Africa,8.613298338
+rs570684,C,Europe,America,8.608034745
+rs570684,T,America,Europe,8.608034745
+rs6893857,C,Africa,Europe,8.605526418
+rs6683977,C,America,Africa,8.577205373
+rs73062673,C,South Asia,Africa,8.534608641
+rs61904987,T,South Asia,Africa,8.423068553
+rs11755724,G,Europe,Africa,8.416609455
+rs11755724,A,Africa,Europe,8.416609455
+rs75870332,A,South Asia,America,8.404929577
+rs131821,A,East Asia,Europe,8.395215262
+rs11020478,G,America,Africa,8.370174777
+rs41322152,C,Africa,America,8.361290323
+rs4896310,A,South Asia,East Asia,8.343387471
+rs17505102,G,Africa,South Asia,8.335513948
+rs17505102,C,South Asia,Africa,8.335513948
+rs637868,C,East Asia,Africa,8.320559933
+rs10936599,C,Africa,Europe,8.31892442
+rs13069553,G,Europe,Africa,8.31892442
+rs13069553,A,Africa,Europe,8.31892442
+rs9308731,A,Africa,America,8.309477225
+rs6763508,C,Africa,South Asia,8.285304686
+rs11715604,A,Africa,Europe,8.176392987
+rs11715604,T,Europe,Africa,8.176392987
+rs1879352,C,South Asia,Africa,8.174272487
+rs10849033,G,South Asia,Europe,8.164694449
+rs10936599,C,Africa,South Asia,8.125160937
+rs924607,T,Europe,Africa,8.089819005
+rs4723619,C,East Asia,Europe,8.078593838
+rs7607659,T,America,Europe,8.047226516
+rs267759,A,America,Europe,7.988838031
+rs34531324,T,Europe,Africa,7.988420325
+rs16976734,G,South Asia,Africa,7.986280488
+rs6763508,C,Africa,Europe,7.966080459
+rs1879352,C,America,Africa,7.958110724
+rs4723619,C,America,Europe,7.948061022
+rs35923643,G,South Asia,Africa,7.946188143
+rs17079534,A,Africa,America,7.93728
+rs4266947,T,Africa,South Asia,7.909090909
+rs60086424,T,East Asia,America,7.906697227
+rs9272131,T,South Asia,Africa,7.882198287
+rs8024033,C,East Asia,Africa,7.880729786
+rs735665,A,South Asia,Africa,7.87962963
+rs7607659,T,Africa,America,7.770842251
+rs16868899,G,South Asia,Europe,7.7625
+rs16868899,A,Europe,South Asia,7.7625
+rs7682733,G,South Asia,Africa,7.719845722
+rs7682733,A,Africa,South Asia,7.719845722
+rs637868,C,East Asia,Europe,7.612713223
+rs6428370,G,Africa,East Asia,7.607955293
+rs4653367,G,Europe,East Asia,7.488340274
+rs4653367,G,Africa,East Asia,7.427110262
+rs73188336,T,Africa,South Asia,7.41359447
+rs149207840,T,Europe,East Asia,7.405756824
+rs13069553,G,South Asia,Africa,7.364293749
+rs13069553,A,Africa,South Asia,7.364293749
+rs2511714,G,Africa,East Asia,7.349782293
+rs821931,G,East Asia,Europe,7.318530811
+rs391855,A,South Asia,Africa,7.293220339
+rs3755397,G,Europe,Africa,7.292000973
+rs2777899,G,America,Africa,7.281960528
+rs2777899,T,Africa,America,7.281960528
+rs6445754,C,Africa,Europe,7.278267163
+rs2089222,A,East Asia,Europe,7.258064516
+rs3942852,T,South Asia,Africa,7.247377229
+rs3942852,C,Africa,South Asia,7.247377229
+rs1569175,T,Africa,South Asia,7.095192308
+rs3800461,C,South Asia,East Asia,7.093229745
+rs2139953,A,East Asia,Europe,7.088456435
+rs924607,T,South Asia,Africa,7.065321564
+rs4845725,G,South Asia,East Asia,7.043478261
+rs4845725,A,East Asia,South Asia,7.043478261
+rs738408,T,America,Africa,7.015040825
+rs738409,G,America,Africa,7.015040825
+rs58055674,C,South Asia,East Asia,6.992907801
+rs1881797,C,Africa,Europe,6.978646682
+rs12748152,C,Africa,America,6.968133536
+rs10508343,A,America,East Asia,6.959183673
+rs570684,C,Europe,East Asia,6.954385965
+rs570684,T,East Asia,Europe,6.954385965
+rs3824662,A,America,Africa,6.93547518
+rs3824662,C,Africa,America,6.93547518
+rs10069690,T,Africa,America,6.921597871
+rs2777899,G,South Asia,Africa,6.903197442
+rs2777899,T,Africa,South Asia,6.903197442
+rs1569175,T,America,Europe,6.834130244
+rs630662,A,Africa,East Asia,6.830119177
+rs73331351,G,Africa,Europe,6.815446577
+rs7578199,T,South Asia,Europe,6.808695652
+rs35603048,T,Europe,Africa,6.808157895
+rs3096696,A,Africa,East Asia,6.797237346
+rs3130284,C,Africa,East Asia,6.797237346
+rs60440889,C,Africa,East Asia,6.760416667
+rs60440889,T,East Asia,Africa,6.760416667
+rs17134658,G,Africa,Europe,6.752873711
+rs17134658,T,Europe,Africa,6.752873711
+rs7865267,T,South Asia,Europe,6.744520877
+rs12711846,G,Africa,South Asia,6.701229385
+rs9976326,T,America,Africa,6.693019451
+rs16976734,G,East Asia,America,6.673653069
+rs11715604,A,Africa,America,6.628862974
+rs11715604,T,America,Africa,6.628862974
+rs12748152,C,Africa,South Asia,6.623415682
+rs1881797,C,Europe,East Asia,6.623272787
+rs2466035,C,Africa,South Asia,6.610936791
+rs9272131,T,East Asia,Africa,6.599284436
+rs6683977,C,Europe,East Asia,6.598757507
+rs6125048,T,South Asia,Africa,6.580964686
+rs3755397,G,South Asia,Africa,6.54180602
+rs4896310,A,Africa,East Asia,6.531772575
+rs58055674,C,America,East Asia,6.508250825
+rs1679013,C,America,East Asia,6.5015625
+rs7865267,T,Africa,East Asia,6.483440338
+rs74709575,C,East Asia,South Asia,6.475
+rs2466029,G,Africa,South Asia,6.464763412
+rs2191566,G,East Asia,South Asia,6.462850741
+rs1292034,G,East Asia,Africa,6.461368485
+rs1292034,A,Africa,East Asia,6.461368485
+rs267585,T,Europe,East Asia,6.455689503
+rs3096696,A,Europe,East Asia,6.453103493
+rs41271473,G,East Asia,South Asia,6.449851254
+rs7254272,A,Europe,South Asia,6.388725186
+rs3130284,C,Europe,East Asia,6.37365152
+rs6971925,T,America,Africa,6.36445566
+rs7254272,A,America,South Asia,6.322187938
+rs17857135,T,America,Africa,6.319965517
+rs2511713,G,South Asia,East Asia,6.301231803
+rs936094,C,America,East Asia,6.300035932
+rs4748813,T,Africa,South Asia,6.292039695
+rs11022157,A,Europe,Africa,6.291329314
+rs28665337,A,South Asia,East Asia,6.256926952
+rs28665337,C,East Asia,South Asia,6.256926952
+rs58055674,C,Europe,Africa,6.250595774
+rs2139953,A,Africa,South Asia,6.250069245
+rs17007695,C,America,Europe,6.248320896
+rs267585,T,America,East Asia,6.212733447
+rs75870332,A,Africa,America,6.198266219
+rs3096696,A,South Asia,East Asia,6.195077911
+rs3130284,C,South Asia,East Asia,6.154822335
+rs1036935,A,Africa,East Asia,6.138084633
+rs4459895,C,Africa,South Asia,6.096235419
+rs267759,A,Africa,Europe,6.093610094
+rs10949482,T,Africa,Europe,6.074589496
+rs4987852,C,Europe,South Asia,6.072360158
+rs4987852,T,South Asia,Europe,6.072360158
+rs6901152,T,Europe,South Asia,6.060329126
+rs56929051,G,South Asia,Africa,6.060104444
+rs56929051,C,Africa,South Asia,6.060104444
+rs6550253,A,East Asia,Africa,6.028466483
+rs73005220,G,East Asia,South Asia,5.996220813
+rs6793295,C,East Asia,Europe,5.978079908
+rs6793295,T,Europe,East Asia,5.978079908
+rs2521269,C,America,Africa,5.977895094
+rs570684,C,Europe,South Asia,5.965886288
+rs570684,T,South Asia,Europe,5.965886288
+rs75777619,G,South Asia,East Asia,5.959883346
+rs4459895,C,South Asia,Europe,5.950970874
+rs3800461,C,America,Africa,5.950075643
+rs2466029,G,Africa,Europe,5.907684604
+rs76473307,A,America,Africa,5.891191082
+rs2622849,T,Africa,America,5.8660746
+rs2390536,A,South Asia,East Asia,5.843457944
+rs17483466,G,Africa,East Asia,5.839271576
+rs17483466,A,East Asia,Africa,5.839271576
+rs1359742,G,Europe,East Asia,5.834859438
+rs6550253,A,South Asia,East Asia,5.796958175
+rs343604,T,East Asia,Europe,5.786676116
+rs267759,A,America,South Asia,5.778728017
+rs3942852,T,America,Africa,5.75736748
+rs3942852,C,Africa,America,5.75736748
+rs2191566,G,East Asia,Europe,5.743184818
+rs72951801,G,Africa,South Asia,5.734167844
+rs72951801,A,South Asia,Africa,5.734167844
+rs806321,T,East Asia,Africa,5.727086195
+rs806321,C,Africa,East Asia,5.727086195
+rs17483466,G,Europe,Africa,5.715664091
+rs17483466,A,Africa,Europe,5.715664091
+rs4748813,T,Africa,America,5.706376819
+rs1986582,G,Africa,Europe,5.679339478
+rs60218192,A,Africa,America,5.669915208
+rs6901152,T,South Asia,Africa,5.650325759
+rs7941765,C,Africa,East Asia,5.640868392
+rs7941765,T,East Asia,Africa,5.640868392
+rs4987856,C,South Asia,Europe,5.608611366
+rs2466035,C,Africa,Europe,5.597181034
+rs1986582,G,Africa,America,5.596481481
+rs3942852,T,East Asia,Africa,5.58383477
+rs3942852,C,Africa,East Asia,5.58383477
+rs6021191,T,Africa,South Asia,5.555735141
+rs11748968,C,South Asia,America,5.51054487
+rs10046301,C,East Asia,Europe,5.466163301
+rs924607,T,America,Africa,5.435735151
+rs9391997,G,East Asia,Africa,5.419255719
+rs2511714,G,Europe,East Asia,5.413333333
+rs563507,A,Africa,Europe,5.40621118
+rs2777899,G,East Asia,Africa,5.393386425
+rs2777899,T,Africa,East Asia,5.393386425
+rs6550253,A,Europe,East Asia,5.381044957
+rs6858698,C,Africa,East Asia,5.350490796
+rs3935695,C,South Asia,Europe,5.32232383
+rs11083846,A,Europe,Africa,5.311855995
+rs10849033,G,East Asia,South Asia,5.306291129
+rs6586163,A,South Asia,Africa,5.301458761
+rs6021191,T,Africa,America,5.297866367
+rs637868,C,East Asia,America,5.296194982
+rs3942852,T,Europe,Africa,5.26852644
+rs3942852,C,Africa,Europe,5.26852644
+rs10069690,T,Africa,South Asia,5.266767971
+rs3755397,G,America,Africa,5.262579426
+rs10046301,C,Africa,South Asia,5.261457551
+rs6684897,G,America,East Asia,5.248213304
+rs2901286,A,East Asia,America,5.231886205
+rs17483466,G,America,Africa,5.217423
+rs17483466,A,Africa,America,5.217423
+rs2521269,C,East Asia,South Asia,5.209570957
+rs924607,T,East Asia,Africa,5.201399603
+rs2139953,A,Africa,America,5.186443119
+rs76473307,A,Europe,Africa,5.183796143
+rs77551289,A,South Asia,Europe,5.180898876
+rs1986582,G,East Asia,South Asia,5.177443609
+rs6428370,G,Africa,America,5.171908202
+rs73062673,C,South Asia,East Asia,5.171257868
+rs17007695,C,Europe,Africa,5.169092415
+rs267585,T,Africa,South Asia,5.167967256
+rs7128311,C,America,South Asia,5.152178511
+rs35229355,T,East Asia,South Asia,5.148494784
+rs11755724,G,Europe,South Asia,5.136757221
+rs11755724,A,South Asia,Europe,5.136757221
+rs10069690,T,Africa,Europe,5.126100462
+rs35229355,T,Africa,Europe,5.114586954
+rs6858698,C,Africa,South Asia,5.109065023
+rs12711846,G,Africa,America,5.102939602
+rs1359742,G,America,East Asia,5.096566757
+rs391855,A,America,Africa,5.086236326
+rs123509,T,Europe,Africa,5.071141082
+rs17857135,T,Europe,Africa,5.05165077
+rs6586163,A,Europe,Africa,5.049026474
+rs1569175,T,East Asia,South Asia,5.047534517
+rs391855,A,East Asia,Africa,5.036136251
+rs9976326,T,Europe,Africa,5.012671423
+rs17032980,G,Africa,East Asia,4.999677701
+rs17032980,A,East Asia,Africa,4.999677701
+rs75870332,A,South Asia,East Asia,4.992472074
+rs6125048,T,East Asia,South Asia,4.976373051
+rs2622849,T,Africa,Europe,4.97628252
+rs2390536,A,America,Africa,4.975770522
+rs757978,T,Africa,East Asia,4.972858355
+rs9273363,A,America,Africa,4.965158046
+rs9880772,A,Africa,Europe,4.953780936
+rs35229355,T,Africa,America,4.937226277
+rs10849033,G,Africa,South Asia,4.936834958
+rs2521269,C,Europe,Africa,4.917216032
+rs2651823,A,America,Africa,4.882502113
+rs1879352,C,Europe,East Asia,4.863593896
+rs13069553,G,East Asia,South Asia,4.839281046
+rs13069553,A,South Asia,East Asia,4.839281046
+rs6445754,C,Africa,East Asia,4.79234205
+rs2651823,A,Europe,Africa,4.791208791
+rs9392017,G,Africa,South Asia,4.787652715
+rs2041840,C,East Asia,Africa,4.756227758
+rs11755724,G,America,Africa,4.737045455
+rs11755724,A,Africa,America,4.737045455
+rs563507,A,Africa,America,4.734814815
+rs16976734,G,South Asia,Europe,4.732209158
+rs3935695,C,East Asia,South Asia,4.726775956
+rs17505102,G,America,South Asia,4.723242349
+rs17505102,C,South Asia,America,4.723242349
+rs4845725,G,America,Africa,4.716064019
+rs4845725,A,Africa,America,4.716064019
+rs17134658,G,Africa,America,4.712918913
+rs17134658,T,America,Africa,4.712918913
+rs9273363,A,East Asia,Africa,4.70170068
+rs17007695,C,East Asia,South Asia,4.684482759
+rs7607659,T,America,South Asia,4.663678516
+rs6586163,A,East Asia,Africa,4.661961678
+rs12621643,T,Africa,South Asia,4.660645604
+rs10028805,G,South Asia,Africa,4.657617642
+rs630662,A,Europe,East Asia,4.656628057
+rs17032980,G,Africa,America,4.654408335
+rs17032980,A,America,Africa,4.654408335
+rs821931,G,Africa,America,4.64641648
+rs2521269,C,East Asia,Europe,4.641141141
+rs821931,G,Africa,South Asia,4.611131663
+rs6971925,T,East Asia,Africa,4.609387053
+rs131821,A,East Asia,America,4.587131199
+rs1439112,G,Africa,East Asia,4.581213481
+rs1439112,A,East Asia,Africa,4.581213481
+rs12786200,C,South Asia,East Asia,4.580653351
+rs12786200,T,East Asia,South Asia,4.580653351
+rs79050301,C,Africa,South Asia,4.575970372
+rs7944004,T,East Asia,Europe,4.57469676
+rs2041840,C,East Asia,America,4.545454545
+rs6893857,C,Africa,America,4.539041361
+rs6971925,T,America,South Asia,4.535036881
+rs2546191,A,Africa,Europe,4.534278015
+rs11636802,G,Europe,East Asia,4.533569845
+rs142215530,G,Europe,East Asia,4.533569845
+rs391855,A,Europe,Africa,4.51463509
+rs1036935,A,South Asia,East Asia,4.512396694
+rs35603048,T,East Asia,Africa,4.510763052
+rs4617118,G,Africa,East Asia,4.48622617
+rs7090445,C,South Asia,Africa,4.485726155
+rs7090445,T,Africa,South Asia,4.485726155
+rs4653367,G,Europe,South Asia,4.485001402
+rs806321,C,America,East Asia,4.47135991
+rs806321,T,East Asia,America,4.47135991
+rs1439112,G,Africa,America,4.451644539
+rs1439112,A,America,Africa,4.451644539
+rs267585,T,South Asia,East Asia,4.448449092
+rs4653367,G,Africa,South Asia,4.448328831
+rs3824662,A,East Asia,Africa,4.445249003
+rs3824662,C,Africa,East Asia,4.445249003
+rs282708,A,East Asia,Europe,4.437479462
+rs2239633,A,Europe,Africa,4.437391304
+rs2239633,G,Africa,Europe,4.437391304
+rs60218192,A,Africa,South Asia,4.430159812
+rs757978,T,Europe,East Asia,4.425110132
+rs7944004,T,East Asia,South Asia,4.410359801
+rs267759,A,Africa,South Asia,4.407814408
+rs7578199,T,South Asia,America,4.400142602
+rs11155133,G,Africa,South Asia,4.395597119
+rs72742684,T,Europe,East Asia,4.388198895
+rs10936599,C,South Asia,East Asia,4.386114618
+rs2521269,C,South Asia,Africa,4.380685821
+rs1881797,C,America,South Asia,4.376943852
+rs3770745,T,Africa,South Asia,4.376595041
+rs9880772,A,East Asia,Europe,4.368376068
+rs10949482,T,America,South Asia,4.367658423
+rs73331351,G,Africa,America,4.354007739
+rs149207840,T,America,East Asia,4.330209554
+rs806321,C,South Asia,East Asia,4.329700165
+rs806321,T,East Asia,South Asia,4.329700165
+rs58055674,C,South Asia,Africa,4.328091274
+rs2139953,A,East Asia,South Asia,4.323332017
+rs207954,C,America,Africa,4.321205922
+rs6684897,G,America,South Asia,4.312665607
+rs2651823,A,East Asia,South Asia,4.311467715
+rs3755397,G,Europe,East Asia,4.310722101
+rs4245595,C,South Asia,Africa,4.301864914
+rs10936599,C,Europe,East Asia,4.283953713
+rs13069553,G,East Asia,Europe,4.283953713
+rs13069553,A,Europe,East Asia,4.283953713
+rs570684,C,South Asia,Africa,4.27176023
+rs570684,T,Africa,South Asia,4.27176023
+rs73331351,G,East Asia,South Asia,4.267477204
+rs31490,A,Africa,East Asia,4.266360178
+rs6683977,C,East Asia,Africa,4.265554056
+rs9290663,T,Africa,America,4.262990911
+rs1881797,C,Africa,America,4.253356238
+rs10821936,C,South Asia,Africa,4.241127299
+rs2511714,G,America,East Asia,4.22907489
+rs12638862,A,Europe,East Asia,4.220736229
+rs67134687,G,East Asia,Europe,4.216854617
+rs67134687,A,Europe,East Asia,4.216854617
+rs1359742,G,Africa,East Asia,4.216714849
+rs7865267,T,East Asia,America,4.199625935
+rs1679013,C,Europe,East Asia,4.19748954
+rs12638862,A,South Asia,East Asia,4.195254237
+rs11715604,A,Africa,South Asia,4.188089815
+rs11715604,T,South Asia,Africa,4.188089815
+rs2511714,G,Africa,South Asia,4.186452698
+rs6445754,C,Africa,America,4.179176584
+rs11022157,A,South Asia,Africa,4.177834918
+rs61610071,G,East Asia,Africa,4.174751244
+rs6793295,C,East Asia,South Asia,4.14566977
+rs6793295,T,South Asia,East Asia,4.14566977
+rs1569175,T,Africa,Europe,4.12853598
+rs1679013,C,Africa,South Asia,4.12530951
+rs17837497,A,Africa,America,4.121967986
+rs17505102,G,Africa,Europe,4.120679321
+rs17505102,C,Europe,Africa,4.120679321
+rs4982731,C,Africa,East Asia,4.12006546
+rs12711846,G,Africa,Europe,4.110264455
+rs31490,A,Africa,South Asia,4.1098922
+rs8024033,C,East Asia,Europe,4.092077574
+rs7705526,A,South Asia,Africa,4.091281377
+rs34004493,G,Europe,Africa,4.086371224
+rs1110701,G,Europe,East Asia,4.052601856
+rs56929051,G,East Asia,Africa,4.048962763
+rs56929051,C,Africa,East Asia,4.048962763
+rs9308731,A,Africa,Europe,4.044609665
+rs7578199,T,South Asia,Africa,4.033296501
+rs2651823,A,South Asia,Africa,4.031951242
+rs1142345,C,Africa,South Asia,4.031270855
+rs1142345,T,South Asia,Africa,4.031270855
+rs630662,A,America,East Asia,4.028571429
+rs738408,T,East Asia,Africa,4.028165982
+rs738409,G,East Asia,Africa,4.028165982
+rs58055674,C,America,Africa,4.028124552
+rs1800682,A,Europe,Africa,4.02668853
+rs11022157,A,America,Africa,4.025549032
+rs1439112,G,Africa,Europe,4.020296193
+rs1439112,A,Europe,Africa,4.020296193
+rs10046301,C,Africa,America,4.007283933
+rs2191566,G,America,South Asia,3.991729971
+rs10873876,T,Africa,South Asia,3.981491515
+rs2466029,G,Africa,America,3.949612168
+rs2511713,G,Europe,South Asia,3.912832036
+rs1496766,C,Africa,South Asia,3.898976864
+rs41271473,G,East Asia,Africa,3.892617923
+rs4982731,C,South Asia,East Asia,3.889468603
+rs73195662,G,South Asia,East Asia,3.876704855
+rs35603048,T,America,Africa,3.876450512
+rs41271473,G,East Asia,Europe,3.871609738
+rs3755397,G,South Asia,East Asia,3.867238621
+rs73188336,T,East Asia,South Asia,3.86562448
+rs2390536,A,Europe,South Asia,3.859556948
+rs11980379,C,Europe,East Asia,3.847326611
+rs11980379,T,East Asia,Europe,3.847326611
+rs4132601,G,Europe,East Asia,3.847326611
+rs4132601,T,East Asia,Europe,3.847326611
+rs888096,A,East Asia,Europe,3.829334721
+rs2521269,C,East Asia,America,3.817647059
+rs10873876,T,Africa,Europe,3.817081
+rs1496766,C,Africa,East Asia,3.814360771
+rs6684897,G,Africa,East Asia,3.811671376
+rs2239633,A,America,Africa,3.810592885
+rs2239633,G,Africa,America,3.810592885
+rs1804772,A,East Asia,America,3.808248779
+rs1804772,C,America,East Asia,3.808248779
+rs12638862,A,Africa,America,3.804380147
+rs2466024,A,Africa,South Asia,3.803029793
+rs28665337,A,Europe,East Asia,3.795918367
+rs28665337,C,East Asia,Europe,3.795918367
+rs4266947,T,America,East Asia,3.781879195
+rs17857135,T,South Asia,Africa,3.778451232
+rs17133805,G,Europe,East Asia,3.773308668
+rs7090445,C,America,Africa,3.77161429
+rs7090445,T,Africa,America,3.77161429
+rs113941845,A,South Asia,East Asia,3.770757107
+rs874460,C,Africa,Europe,3.759183345
+rs6428370,G,Africa,Europe,3.754955446
+rs757978,T,South Asia,East Asia,3.752232143
+rs1800682,A,South Asia,Africa,3.751163408
+rs7944004,T,East Asia,Africa,3.703085376
+rs267585,T,Africa,America,3.700374311
+rs343604,T,South Asia,Europe,3.696726962
+rs113941845,A,Europe,East Asia,3.696398175
+rs8023845,G,South Asia,Europe,3.681829201
+rs75870332,A,Africa,East Asia,3.681728766
+rs2546191,A,Africa,America,3.669157319
+rs570684,C,East Asia,Africa,3.664570231
+rs570684,T,Africa,East Asia,3.664570231
+rs4617118,G,South Asia,East Asia,3.66188152
+rs60086424,T,South Asia,America,3.639705882
+rs60440889,C,Europe,America,3.639037153
+rs60440889,T,America,Europe,3.639037153
+rs1439287,A,Europe,South Asia,3.636684996
+rs7128311,C,East Asia,America,3.636150493
+rs7941765,C,East Asia,Europe,3.631504115
+rs7941765,T,Europe,East Asia,3.631504115
+rs9308731,A,Africa,East Asia,3.630938359
+rs2651823,A,East Asia,Europe,3.628234203
+rs4245595,C,America,Africa,3.625745631
+rs11748968,C,South Asia,Europe,3.624408512
+rs4723619,C,South Asia,Europe,3.62213558
+rs75777619,G,Europe,East Asia,3.621805063
+rs3770745,T,America,Europe,3.619110858
+rs10821936,C,America,Africa,3.616110305
+rs73062673,C,America,Africa,3.613348353
+rs282708,A,East Asia,Africa,3.609482677
+rs757978,T,America,East Asia,3.598746082
+rs9880772,A,South Asia,Europe,3.594233474
+rs2139953,A,East Asia,America,3.587594748
+rs9976326,T,East Asia,Africa,3.581773124
+rs1036935,A,Europe,East Asia,3.575411914
+rs1439287,A,East Asia,South Asia,3.565818606
+rs3770745,T,Africa,America,3.563905013
+rs9273363,A,Europe,Africa,3.563881402
+rs4982731,C,America,East Asia,3.561192722
+rs267585,T,Africa,Europe,3.561112912
+rs2651823,A,East Asia,America,3.560393258
+rs112769843,C,South Asia,Africa,3.555901416
+rs2191566,G,America,Europe,3.547233858
+rs8024033,C,America,Africa,3.527705487
+rs2466029,G,Africa,East Asia,3.524972333
+rs2466035,C,Africa,America,3.523374264
+rs34531324,T,America,Africa,3.519239242
+rs142215530,G,Europe,Africa,3.513884489
+rs9272535,A,Africa,East Asia,3.511193016
+rs1110701,G,South Asia,East Asia,3.507331378
+rs11978267,A,East Asia,Europe,3.499560761
+rs11978267,G,Europe,East Asia,3.499560761
+rs3770745,T,East Asia,Africa,3.498134328
+rs4762284,A,Europe,East Asia,3.491572067
+rs4762284,T,East Asia,Europe,3.491572067
+rs1804772,A,East Asia,South Asia,3.46936226
+rs1804772,C,South Asia,East Asia,3.46936226
+rs79050301,C,Africa,East Asia,3.466706957
+rs73195662,G,South Asia,Africa,3.462734851
+rs9273363,A,South Asia,Africa,3.458298945
+rs874460,C,East Asia,Europe,3.44988345
+rs11022157,A,Europe,East Asia,3.441497608
+rs10260824,C,East Asia,Europe,3.434689922
+rs9392017,G,Africa,East Asia,3.431511821
+rs11636802,G,Europe,Africa,3.429484866
+rs11980379,C,South Asia,East Asia,3.425603101
+rs11980379,T,East Asia,South Asia,3.425603101
+rs4132601,G,South Asia,East Asia,3.425603101
+rs4132601,T,East Asia,South Asia,3.425603101
+rs6586163,A,America,Africa,3.418080878
+rs11978267,A,East Asia,South Asia,3.41793722
+rs11978267,G,South Asia,East Asia,3.41793722
+rs2720680,G,America,Africa,3.414280134
+rs6893857,C,South Asia,East Asia,3.40503003
+rs31490,A,Europe,East Asia,3.401311107
+rs4762284,A,South Asia,East Asia,3.400208442
+rs4762284,T,East Asia,South Asia,3.400208442
+rs17483466,G,South Asia,Africa,3.398706723
+rs17483466,A,Africa,South Asia,3.398706723
+rs305061,C,Europe,Africa,3.390829563
+rs305061,T,Africa,Europe,3.390829563
+rs1476569,G,Africa,South Asia,3.388155777
+rs2396718,C,Europe,Africa,3.384875391
+rs2511713,G,Africa,South Asia,3.382894118
+rs7677291,C,America,East Asia,3.378969796
+rs7677291,T,East Asia,America,3.378969796
+rs1879352,C,South Asia,East Asia,3.368055556
+rs637868,C,East Asia,South Asia,3.350748725
+rs11083846,A,South Asia,Africa,3.340064912
+rs73195662,G,South Asia,America,3.336993823
+rs10873876,T,Africa,America,3.328256217
+rs630662,A,South Asia,East Asia,3.324257426
+rs41307935,C,Africa,Europe,3.319914347
+rs72742684,T,Europe,Africa,3.319516896
+rs802734,A,Africa,Europe,3.317009148
+rs802734,G,Europe,Africa,3.317009148
+rs2003869,G,Africa,East Asia,3.311840818
+rs7690934,C,Africa,East Asia,3.311840818
+rs60086424,T,America,Europe,3.304973545
+rs3935695,C,Africa,America,3.3003663
+rs6793295,C,East Asia,Africa,3.299693713
+rs6793295,T,Africa,East Asia,3.299693713
+rs282708,A,East Asia,America,3.288057848
+rs674313,T,Africa,South Asia,3.287316335
+rs60440889,C,Africa,South Asia,3.284887925
+rs60440889,T,South Asia,Africa,3.284887925
+rs6971925,T,East Asia,South Asia,3.284450611
+rs6683977,C,Europe,America,3.281646599
+rs6445754,C,Africa,South Asia,3.281269531
+rs2003869,G,Europe,East Asia,3.280477408
+rs7690934,C,Europe,East Asia,3.280477408
+rs1879352,C,America,East Asia,3.278990158
+rs31490,A,Europe,South Asia,3.276568646
+rs17505102,G,Africa,East Asia,3.276050831
+rs17505102,C,East Asia,Africa,3.276050831
+rs17133805,G,South Asia,East Asia,3.274811149
+rs821931,G,South Asia,Europe,3.274295593
+rs10849033,G,East Asia,America,3.26602804
+rs28665337,A,South Asia,Africa,3.249599267
+rs28665337,C,Africa,South Asia,3.249599267
+rs821931,G,America,Europe,3.249430642
+rs1986582,G,Africa,East Asia,3.247474747
+rs2396718,C,Europe,East Asia,3.239733629
+rs7682733,G,South Asia,America,3.239047619
+rs7682733,A,America,South Asia,3.239047619
+rs10046301,C,East Asia,South Asia,3.233242877
+rs1800682,A,East Asia,Africa,3.229798422
+rs7705526,A,East Asia,Africa,3.223582646
+rs738408,T,America,Europe,3.22083036
+rs738409,G,America,Europe,3.22083036
+rs11715604,A,Africa,East Asia,3.213037448
+rs11715604,T,East Asia,Africa,3.213037448
+rs4266947,T,America,Europe,3.211409396
+rs7089424,G,South Asia,Africa,3.208862229
+rs7089424,T,Africa,South Asia,3.208862229
+rs17481869,A,Europe,South Asia,3.206320166
+rs17481869,C,South Asia,Europe,3.206320166
+rs4748813,T,Africa,East Asia,3.194625863
+rs17007695,C,America,South Asia,3.187708333
+rs2466024,A,Africa,Europe,3.18491612
+rs4653367,G,America,East Asia,3.184694563
+rs75777619,G,South Asia,Africa,3.184584236
+rs73062673,C,Europe,Africa,3.181667517
+rs7944004,T,East Asia,America,3.181372549
+rs305061,C,Europe,East Asia,3.181123841
+rs305061,T,East Asia,Europe,3.181123841
+rs61037031,A,South Asia,East Asia,3.177966102
+rs61037031,C,East Asia,South Asia,3.177966102
+rs41271473,G,America,South Asia,3.177796461
+rs9815073,C,South Asia,Europe,3.172601287
+rs343604,T,America,Europe,3.171396698
+rs12621643,T,Africa,America,3.160339286
+rs874460,C,America,Europe,3.152810153
+rs6021191,T,East Asia,South Asia,3.132890365
+rs6684897,G,Africa,South Asia,3.132201969
+rs7682733,G,East Asia,South Asia,3.117318436
+rs7682733,A,South Asia,East Asia,3.117318436
+rs17857135,T,East Asia,South Asia,3.110494736
+rs2390536,A,South Asia,Africa,3.106026426
+rs2511714,G,Europe,South Asia,3.08344697
+rs7682733,G,America,Europe,3.082420127
+rs7682733,A,Europe,America,3.082420127
+rs6893857,C,South Asia,Europe,3.074900184
+rs131821,A,Africa,Europe,3.07181354
+rs2511713,G,America,South Asia,3.071552196
+rs11083846,A,America,Africa,3.06818753
+rs60440889,C,South Asia,America,3.067704518
+rs60440889,T,America,South Asia,3.067704518
+rs2296624,C,America,East Asia,3.065401082
+rs7607659,T,Africa,East Asia,3.059789696
+rs11155133,G,Africa,America,3.054630593
+rs9392504,A,Europe,Africa,3.054253962
+rs17032980,G,Africa,Europe,3.045033062
+rs17032980,A,Europe,Africa,3.045033062
+rs8024033,C,East Asia,South Asia,3.039782295
+rs4617118,G,Africa,America,3.03877989
+rs10849033,G,Africa,America,3.038627359
+rs10508343,A,South Asia,East Asia,3.035443038
+rs9272131,T,America,East Asia,3.030530949
+rs16976734,G,South Asia,America,3.030309466
+rs1679013,C,America,South Asia,3.029280276
+rs2466035,C,Africa,East Asia,3.025933844
+rs10028805,G,Europe,Africa,3.024482194
+rs2239633,A,South Asia,Africa,3.017013233
+rs2239633,G,Africa,South Asia,3.017013233
+rs1986582,G,America,South Asia,3.004319309
+rs6021191,T,East Asia,America,2.987477639
+rs936094,C,South Asia,America,2.979015202
+rs112769843,C,South Asia,Europe,2.97867909
+rs34531324,T,Europe,South Asia,2.965703117
+rs570684,C,America,Africa,2.960587002
+rs570684,T,Africa,America,2.960587002
+rs1986582,G,Europe,South Asia,2.960488177
+rs3130284,C,America,East Asia,2.954814689
+rs10018622,G,Africa,America,2.948670618
+rs10018622,A,America,Africa,2.948670618
+rs3770745,T,South Asia,Europe,2.947078084
+rs1110701,G,Africa,East Asia,2.943881962
+rs4723619,C,Africa,Europe,2.939646202
+rs1569175,T,East Asia,Europe,2.937049055
+rs282708,A,East Asia,South Asia,2.929597227
+rs131821,A,South Asia,Europe,2.927076093
+rs75777619,G,South Asia,America,2.925069009
+rs3096696,A,America,East Asia,2.909098589
+rs6793295,C,East Asia,America,2.904155723
+rs6793295,T,America,East Asia,2.904155723
+rs8023845,G,South Asia,Africa,2.903686376
+rs343604,T,East Asia,Africa,2.902118367
+rs9976326,T,South Asia,East Asia,2.89812578
+rs7677291,C,America,Africa,2.897580201
+rs7677291,T,Africa,America,2.897580201
+rs11755724,G,America,South Asia,2.891075388
+rs11755724,A,South Asia,America,2.891075388
+rs3824662,A,America,South Asia,2.889728731
+rs3824662,C,South Asia,America,2.889728731
+rs4748813,T,Africa,Europe,2.889257214
+rs7115578,A,East Asia,South Asia,2.888710597
+rs3824662,A,Europe,Africa,2.888284641
+rs3824662,C,Africa,Europe,2.888284641
+rs61610071,G,America,Africa,2.883120341
+rs2191566,G,Africa,South Asia,2.877570467
+rs738408,T,America,South Asia,2.870163889
+rs738409,G,America,South Asia,2.870163889
+rs7089424,G,America,Africa,2.869504644
+rs7089424,T,Africa,America,2.869504644
+rs131821,A,East Asia,South Asia,2.868123341
+rs7738636,A,South Asia,Africa,2.863911697
+rs11155133,G,Africa,East Asia,2.860722004
+rs1359742,G,South Asia,East Asia,2.86
+rs267759,A,East Asia,Africa,2.859022556
+rs1439112,G,Africa,South Asia,2.853197461
+rs1439112,A,South Asia,Africa,2.853197461
+rs4463516,G,Africa,America,2.847984723
+rs4463516,C,America,Africa,2.847984723
+rs4266947,T,Africa,East Asia,2.833474936
+rs4463516,G,Africa,East Asia,2.83020411
+rs4463516,C,East Asia,Africa,2.83020411
+rs3935695,C,East Asia,Africa,2.826424408
+rs6901152,T,America,South Asia,2.825902864
+rs9308731,A,East Asia,South Asia,2.825591573
+rs898518,A,Africa,East Asia,2.821690004
+rs10028805,G,East Asia,Africa,2.813229195
+rs60086424,T,Africa,South Asia,2.813061167
+rs1036935,A,Africa,America,2.804632517
+rs61610071,G,East Asia,South Asia,2.800980306
+rs2720680,G,South Asia,Africa,2.800761915
+rs6893857,C,Africa,South Asia,2.798636021
+rs1110701,G,America,East Asia,2.787659753
+rs6858698,C,Europe,East Asia,2.784688851
+rs11637565,G,South Asia,East Asia,2.782706525
+rs6858698,C,Africa,America,2.781825005
+rs888096,A,America,Europe,2.773219373
+rs9290663,T,Africa,Europe,2.768402816
+rs6428370,G,South Asia,East Asia,2.765306122
+rs6684897,G,Europe,East Asia,2.764290372
+rs9272535,A,America,East Asia,2.759577465
+rs1044873,C,South Asia,Africa,2.759417808
+rs6428370,G,Africa,South Asia,2.751216305
+rs4723619,C,East Asia,Africa,2.748151745
+rs10018622,G,Africa,Europe,2.747872318
+rs10018622,A,Europe,Africa,2.747872318
+rs6683977,C,South Asia,East Asia,2.747341338
+rs28665337,A,South Asia,America,2.746524862
+rs28665337,C,America,South Asia,2.746524862
+rs1439287,A,Europe,America,2.745424662
+rs131821,A,East Asia,Africa,2.732983351
+rs6546149,G,East Asia,Europe,2.732622884
+rs61037031,A,Africa,East Asia,2.727576975
+rs61037031,C,East Asia,Africa,2.727576975
+rs898518,A,Europe,East Asia,2.722382953
+rs1476569,G,Africa,East Asia,2.714967642
+rs7818688,A,Europe,East Asia,2.714831804
+rs7818688,C,East Asia,Europe,2.714831804
+rs2041840,C,America,Europe,2.707814761
+rs4723619,C,America,Africa,2.703747484
+rs7865267,T,East Asia,South Asia,2.69851841
+rs3935695,C,America,Europe,2.696912114
+rs9392504,A,America,Africa,2.693955953
+rs34531324,T,South Asia,Africa,2.693600813
+rs1439287,A,East Asia,America,2.691925848
+rs34004493,G,South Asia,Africa,2.684142477
+rs73062673,C,South Asia,Europe,2.682432591
+rs2003869,G,South Asia,East Asia,2.680709534
+rs7690934,C,South Asia,East Asia,2.680709534
+rs17423910,G,Europe,Africa,2.672793516
+rs802734,G,South Asia,Africa,2.672630377
+rs802734,A,Africa,South Asia,2.672630377
+rs1881797,C,Europe,South Asia,2.667666424
+rs6858698,C,Europe,South Asia,2.659037638
+rs10949482,T,Africa,America,2.658767955
+rs2296624,C,South Asia,East Asia,2.651260057
+rs9392017,G,Europe,South Asia,2.647728917
+rs12786200,C,America,East Asia,2.644885622
+rs12786200,T,East Asia,America,2.644885622
+rs16976734,G,America,Africa,2.635466964
+rs359312,T,East Asia,America,2.635016835
+rs67134687,G,East Asia,South Asia,2.62541908
+rs67134687,A,South Asia,East Asia,2.62541908
+rs4463516,G,Africa,South Asia,2.618836527
+rs4463516,C,South Asia,Africa,2.618836527
+rs7176508,A,South Asia,East Asia,2.617970402
+rs6546149,G,Africa,Europe,2.615353955
+rs1800682,A,America,Africa,2.614087464
+rs17133805,G,Europe,Africa,2.608346967
+rs11748968,C,East Asia,America,2.598886221
+rs8024033,C,South Asia,Africa,2.592530984
+rs2041840,C,Africa,Europe,2.587817392
+rs6546149,G,East Asia,America,2.583356286
+rs123509,T,America,Africa,2.582044117
+rs207954,C,Europe,Africa,2.581128157
+rs888096,A,South Asia,Europe,2.580988299
+rs1576377,C,South Asia,East Asia,2.571400719
+rs802734,G,America,Africa,2.571352644
+rs802734,A,Africa,America,2.571352644
+rs12786200,C,South Asia,Europe,2.570553453
+rs12786200,T,Europe,South Asia,2.570553453
+rs7558911,A,East Asia,Europe,2.56946259
+rs12621643,T,Africa,Europe,2.568336864
+rs674313,T,Africa,Europe,2.568059949
+rs7818688,A,America,East Asia,2.565456546
+rs7818688,C,East Asia,America,2.565456546
+rs2089222,A,America,East Asia,2.564220183
+rs4406737,G,South Asia,Africa,2.55927092
+rs2239633,A,East Asia,Africa,2.558752074
+rs2239633,G,Africa,East Asia,2.558752074
+rs4463516,G,Africa,Europe,2.558053655
+rs4463516,C,Europe,Africa,2.558053655
+rs2191566,G,Africa,Europe,2.557140754
+rs4406737,G,Europe,Africa,2.55424594
+rs11715604,A,East Asia,Europe,2.544754962
+rs11715604,T,Europe,East Asia,2.544754962
+rs17505102,G,East Asia,South Asia,2.544378698
+rs17505102,C,South Asia,East Asia,2.544378698
+rs7115578,A,East Asia,Europe,2.544264819
+rs210142,C,South Asia,Europe,2.543808221
+rs210143,C,South Asia,Europe,2.543808221
+rs7818688,A,South Asia,East Asia,2.541520468
+rs7818688,C,East Asia,South Asia,2.541520468
+rs7607659,T,East Asia,America,2.539665475
+rs9272131,T,America,South Asia,2.537278941
+rs9308731,A,Europe,South Asia,2.53659801
+rs7705526,A,Europe,Africa,2.532030365
+rs35603048,T,South Asia,America,2.52992948
+rs1804772,A,Africa,East Asia,2.51802392
+rs1804772,C,East Asia,Africa,2.51802392
+rs76473307,A,South Asia,Africa,2.514729997
+rs13069553,G,East Asia,America,2.513968788
+rs13069553,A,America,East Asia,2.513968788
+rs2296624,C,America,Europe,2.513906448
+rs2466024,A,East Asia,South Asia,2.511538462
+rs11980379,C,America,East Asia,2.511519625
+rs11980379,T,East Asia,America,2.511519625
+rs4132601,G,America,East Asia,2.511519625
+rs4132601,T,East Asia,America,2.511519625
+rs2720680,G,Europe,Africa,2.498845727
+rs10936599,C,America,East Asia,2.498173123
+rs12711846,G,Europe,East Asia,2.49776086
+rs2290400,T,East Asia,Europe,2.493051756
+rs1439287,A,Africa,South Asia,2.490429463
+rs12786200,C,South Asia,Africa,2.48975
+rs12786200,T,Africa,South Asia,2.48975
+rs17133805,G,America,East Asia,2.485919344
+rs6550253,A,South Asia,America,2.485757028
+rs637868,C,South Asia,Africa,2.48319424
+rs4617118,G,South Asia,America,2.480403684
+rs6546149,G,Africa,America,2.472493046
+rs207954,C,East Asia,Africa,2.469293138
+rs936094,C,Africa,America,2.46681339
+rs806321,C,Africa,Europe,2.465287157
+rs806321,T,Europe,Africa,2.465287157
+rs10046301,C,East Asia,America,2.462534784
+rs9815073,C,East Asia,Europe,2.461930926
+rs2720680,G,East Asia,Africa,2.459367107
+rs6125048,T,America,South Asia,2.457463832
+rs140522,C,South Asia,Africa,2.45329702
+rs140522,T,Africa,South Asia,2.45329702
+rs7738636,A,Europe,Africa,2.452812721
+rs12638862,A,America,East Asia,2.449713117
+rs738408,T,South Asia,Africa,2.444125526
+rs738409,G,South Asia,Africa,2.444125526
+rs34004493,G,Europe,America,2.441855975
+rs60440889,C,Europe,East Asia,2.441326531
+rs60440889,T,East Asia,Europe,2.441326531
+rs123509,T,Europe,South Asia,2.438241587
+rs7738636,A,America,Africa,2.421363802
+rs75870332,A,South Asia,Europe,2.417192812
+rs7554607,A,East Asia,Europe,2.415358976
+rs9880772,A,Africa,America,2.411235955
+rs7554607,A,East Asia,America,2.409683143
+rs2390536,A,Europe,America,2.409252159
+rs2511714,G,America,South Asia,2.408890669
+rs4266947,T,Africa,Europe,2.40606523
+rs67134687,G,America,Europe,2.40405096
+rs67134687,A,Europe,America,2.40405096
+rs9392017,G,America,South Asia,2.402167771
+rs6683977,C,Europe,South Asia,2.401870279
+rs3824662,A,America,Europe,2.401243659
+rs3824662,C,Europe,America,2.401243659
+rs3824662,A,South Asia,Africa,2.400043681
+rs3824662,C,Africa,South Asia,2.400043681
+rs9272535,A,South Asia,East Asia,2.39697561
+rs9290663,T,East Asia,America,2.395087323
+rs2546191,A,Africa,South Asia,2.386320676
+rs7682733,G,America,Africa,2.383369012
+rs7682733,A,Africa,America,2.383369012
+rs31490,A,Africa,America,2.380256319
+rs9392504,A,South Asia,Africa,2.378421578
+rs7090445,C,East Asia,Africa,2.365046888
+rs7090445,T,Africa,East Asia,2.365046888
+rs7024024,A,South Asia,Africa,2.362199144
+rs73062673,C,South Asia,America,2.361966743
+rs140522,C,Europe,Africa,2.361756593
+rs140522,T,Africa,Europe,2.361756593
+rs113941845,A,America,East Asia,2.35992042
+rs11978267,A,Africa,Europe,2.35600856
+rs11978267,G,Europe,Africa,2.35600856
+rs12621643,T,Africa,East Asia,2.355234873
+rs4653367,G,Europe,America,2.351352736
+rs926070,A,South Asia,Europe,2.350017355
+rs3096696,A,Africa,America,2.336544169
+rs4546143,C,South Asia,Europe,2.332636527
+rs4546143,T,Europe,South Asia,2.332636527
+rs4653367,G,Africa,America,2.332126399
+rs1569175,T,America,East Asia,2.326869629
+rs17857135,T,East Asia,Europe,2.326537047
+rs2041840,C,America,South Asia,2.323613087
+rs806321,C,Europe,East Asia,2.323090914
+rs806321,T,East Asia,Europe,2.323090914
+rs4546143,C,East Asia,Europe,2.322047526
+rs4546143,T,Europe,East Asia,2.322047526
+rs10873876,T,Africa,East Asia,2.319194029
+rs10018622,G,Africa,South Asia,2.31038212
+rs10018622,A,South Asia,Africa,2.31038212
+rs6550253,A,Europe,America,2.307411908
+rs2290400,T,East Asia,Africa,2.305625626
+rs11978267,A,Africa,South Asia,2.30105716
+rs11978267,G,South Asia,Africa,2.30105716
+rs3130284,C,Africa,America,2.300393785
+rs7941765,C,East Asia,South Asia,2.299235906
+rs7941765,T,South Asia,East Asia,2.299235906
+rs1044873,C,South Asia,Europe,2.297135741
+rs7176508,A,Europe,East Asia,2.296309077
+rs10508343,A,America,South Asia,2.292641827
+rs9308731,A,East Asia,America,2.288520598
+rs9392504,A,Europe,East Asia,2.287710906
+rs11022157,A,South Asia,East Asia,2.285368983
+rs4982731,C,Europe,East Asia,2.278853941
+rs4245595,C,East Asia,Africa,2.276939464
+rs10028805,G,South Asia,America,2.276102825
+rs17032980,G,Africa,South Asia,2.274074074
+rs17032980,A,South Asia,Africa,2.274074074
+rs637868,C,South Asia,Europe,2.271943929
+rs6684897,G,Europe,South Asia,2.271527341
+rs9290663,T,South Asia,America,2.271172899
+rs34531324,T,Europe,America,2.269928179
+rs17133805,G,South Asia,Africa,2.263754302
+rs7558911,A,South Asia,Europe,2.259557371
+rs61037031,A,America,East Asia,2.258852259
+rs61037031,C,East Asia,America,2.258852259
+rs11637565,G,Europe,East Asia,2.254583652
+rs11978267,A,East Asia,America,2.253383459
+rs11978267,G,America,East Asia,2.253383459
+rs821931,G,East Asia,America,2.252250199
+rs2466024,A,Africa,America,2.251033693
+rs7677291,C,America,South Asia,2.250064583
+rs7677291,T,South Asia,America,2.250064583
+rs802734,G,Europe,East Asia,2.247932069
+rs802734,A,East Asia,Europe,2.247932069
+rs2191566,G,East Asia,Africa,2.245940044
+rs72772090,G,South Asia,Europe,2.240819345
+rs821931,G,East Asia,South Asia,2.235146645
+rs8024033,C,East Asia,America,2.233953434
+rs3731217,A,America,East Asia,2.233136095
+rs3731217,C,East Asia,America,2.233136095
+rs9272535,A,Africa,Europe,2.230526253
+rs2052702,A,South Asia,East Asia,2.230469799
+rs4723619,C,East Asia,South Asia,2.230339992
+rs67134687,G,Africa,Europe,2.230331852
+rs67134687,A,Europe,Africa,2.230331852
+rs12638862,A,Africa,South Asia,2.221472031
+rs2041840,C,Africa,South Asia,2.220641694
+rs926070,A,South Asia,Africa,2.220256151
+rs10046301,C,America,Europe,2.219730392
+rs3096696,A,Europe,America,2.21824847
+rs6445754,C,South Asia,Europe,2.218125361
+rs10821936,C,East Asia,Africa,2.215932914
+rs17246404,C,America,East Asia,2.212973026
+rs3731217,A,Africa,East Asia,2.209846154
+rs3731217,C,East Asia,Africa,2.209846154
+rs12638862,A,Africa,Europe,2.208060264
+rs7705526,A,America,Africa,2.206122238
+rs7090445,C,South Asia,Europe,2.205978569
+rs7090445,T,Europe,South Asia,2.205978569
+rs11980379,C,Europe,Africa,2.203122436
+rs11980379,T,Africa,Europe,2.203122436
+rs4132601,G,Europe,Africa,2.203122436
+rs4132601,T,Africa,Europe,2.203122436
+rs16976734,G,East Asia,South Asia,2.202300836
+rs11022157,A,America,East Asia,2.202065204
+rs17032980,G,South Asia,East Asia,2.198555341
+rs17032980,A,East Asia,South Asia,2.198555341
+rs898518,A,South Asia,East Asia,2.197390775
+rs4723619,C,America,South Asia,2.194302463
+rs4245595,C,South Asia,Europe,2.18798815
+rs2466035,C,East Asia,South Asia,2.184759195
+rs11020478,G,South Asia,America,2.182459258
+rs267759,A,East Asia,America,2.180763791
+rs10821936,C,South Asia,Europe,2.178135788
+rs738408,T,Europe,Africa,2.178022448
+rs738409,G,Europe,Africa,2.178022448
+rs4748813,T,Europe,South Asia,2.177736085
+rs210142,C,South Asia,America,2.176689342
+rs210143,C,South Asia,America,2.176689342
+rs2296624,C,South Asia,Europe,2.174273309
+rs4459895,C,America,Europe,2.174226335
+rs35603048,T,South Asia,East Asia,2.174165726
+rs60086424,T,East Asia,South Asia,2.172345097
+rs2546191,A,East Asia,Europe,2.169282107
+rs2052702,A,Europe,East Asia,2.166580645
+rs140522,C,East Asia,Africa,2.165125273
+rs140522,T,Africa,East Asia,2.165125273
+rs4762284,A,Europe,America,2.159425862
+rs4762284,T,America,Europe,2.159425862
+rs3130284,C,Europe,America,2.157039337
+rs2003869,G,America,East Asia,2.15313835
+rs7690934,C,America,East Asia,2.15313835
+rs6546149,G,East Asia,South Asia,2.15061055
+rs4617118,G,Africa,Europe,2.148408877
+rs1679013,C,South Asia,East Asia,2.14624
+rs6901152,T,Europe,America,2.14456385
+rs1576377,C,South Asia,America,2.142118929
+rs113941845,A,South Asia,Africa,2.141292442
+rs7176508,A,South Asia,Africa,2.133672388
+rs3096696,A,South Asia,America,2.12955241
+rs9880772,A,East Asia,America,2.126292135
+rs210142,C,South Asia,Africa,2.124017798
+rs210143,C,South Asia,Africa,2.124017798
+rs11748968,C,South Asia,East Asia,2.120348642
+rs305061,C,South Asia,Africa,2.119721632
+rs305061,T,Africa,South Asia,2.119721632
+rs207954,C,South Asia,Africa,2.119220976
+rs7089424,G,South Asia,Europe,2.115747734
+rs7089424,T,Europe,South Asia,2.115747734
+rs1679013,C,Africa,Europe,2.109333257
+rs2953196,G,Europe,East Asia,2.108378966
+rs2466024,A,East Asia,Europe,2.103333333
+rs4762284,A,South Asia,America,2.102920376
+rs4762284,T,America,South Asia,2.102920376
+rs6893857,C,America,East Asia,2.099438833
+rs113941845,A,Europe,Africa,2.099066382
+rs4406737,G,East Asia,Africa,2.092043292
+rs2546191,A,Africa,East Asia,2.090220539
+rs4617118,G,Europe,East Asia,2.088162183
+rs11020478,G,South Asia,Europe,2.086387286
+rs1292034,G,South Asia,East Asia,2.078812097
+rs1292034,A,East Asia,South Asia,2.078812097
+rs9976326,T,South Asia,Europe,2.070837714
+rs4869818,G,America,Europe,2.070059349
+rs149207840,T,South Asia,America,2.066907922
+rs57214277,T,South Asia,Europe,2.064469196
+rs140522,C,America,Africa,2.063503333
+rs140522,T,Africa,America,2.063503333
+rs821931,G,Africa,East Asia,2.063010797
+rs1036935,A,South Asia,America,2.061818182
+rs6793295,C,America,Europe,2.058457079
+rs6793295,T,Europe,America,2.058457079
+rs6546149,G,Africa,South Asia,2.058318343
+rs391525,G,Africa,South Asia,2.058006831
+rs391525,A,South Asia,Africa,2.058006831
+rs630662,A,Africa,South Asia,2.054630043
+rs9308731,A,Europe,America,2.054457145
+rs9880772,A,America,Europe,2.054457145
+rs1044873,C,South Asia,East Asia,2.05317146
+rs920590,C,South Asia,Europe,2.049425
+rs920590,C,Africa,Europe,2.048613166
+rs17032980,G,South Asia,America,2.046726792
+rs17032980,A,America,South Asia,2.046726792
+rs10028805,G,America,Africa,2.046312492
+rs1359742,G,Europe,South Asia,2.040160643
+rs207954,C,America,South Asia,2.03905396
+rs7090445,C,Europe,Africa,2.033440496
+rs7090445,T,Africa,Europe,2.033440496
+rs3731217,A,South Asia,East Asia,2.026153846
+rs3731217,C,East Asia,South Asia,2.026153846
+rs6428370,G,Europe,East Asia,2.026110669
+rs6125048,T,East Asia,America,2.025003577
+rs674313,T,Africa,East Asia,2.023756295
+rs1044873,C,America,Africa,2.022986912
+rs17505102,G,Europe,South Asia,2.022849462
+rs17505102,C,South Asia,Europe,2.022849462
+rs73192661,C,South Asia,Europe,2.02160852
+rs2236256,C,America,Europe,2.020130723
+rs9391997,G,Europe,East Asia,2.019522145
+rs9392504,A,America,East Asia,2.017838886
+rs7156960,G,East Asia,Africa,2.014379906
+rs7156960,C,Africa,East Asia,2.014379906
+rs9378805,C,Europe,East Asia,2.011487567
+rs6683977,C,America,East Asia,2.010806864
+rs872071,G,Europe,East Asia,2.002180255
+rs11637565,G,South Asia,Africa,1.995563782
+rs343604,T,Africa,Europe,1.993949034
+rs9392017,G,Africa,America,1.993055095
+rs73331351,G,East Asia,Africa,1.990829054
+rs305061,C,South Asia,East Asia,1.98862753
+rs305061,T,East Asia,South Asia,1.98862753
+rs4240807,C,East Asia,Europe,1.979623138
+rs12621643,T,East Asia,South Asia,1.978845362
+rs10018622,G,Africa,East Asia,1.978613272
+rs10018622,A,East Asia,Africa,1.978613272
+rs2139953,A,America,Europe,1.975824176
+rs4748813,T,Europe,America,1.975032472
+rs3935695,C,South Asia,America,1.97348805
+rs7115578,A,America,South Asia,1.972135008
+rs4896310,A,Europe,Africa,1.971340917
+rs4748813,T,East Asia,South Asia,1.969570136
+rs1348850,A,East Asia,America,1.966588562
+rs4245595,C,Europe,Africa,1.966128068
+rs11980379,C,South Asia,Africa,1.961627856
+rs11980379,T,Africa,South Asia,1.961627856
+rs4132601,G,South Asia,Africa,1.961627856
+rs4132601,T,Africa,South Asia,1.961627856
+rs4869818,G,South Asia,Europe,1.959700654
+rs391525,G,Africa,America,1.956180858
+rs391525,A,America,Africa,1.956180858
+rs7941765,C,America,Europe,1.956172401
+rs7941765,T,Europe,America,1.956172401
+rs1679013,C,Europe,South Asia,1.955740989
+rs11715604,A,South Asia,Europe,1.952296476
+rs11715604,T,Europe,South Asia,1.952296476
+rs3731714,C,East Asia,Europe,1.947960619
+rs3731714,T,Europe,East Asia,1.947960619
+rs6489882,G,Europe,America,1.947643511
+rs10821936,C,Europe,Africa,1.947136318
+rs8024033,C,Europe,Africa,1.925850535
+rs13069553,G,America,South Asia,1.924956694
+rs13069553,A,South Asia,America,1.924956694
+rs806321,C,America,Europe,1.924745985
+rs806321,T,Europe,America,1.924745985
+rs6858698,C,Africa,Europe,1.921396279
+rs9815073,C,South Asia,America,1.917952947
+rs73188336,T,Africa,East Asia,1.917825828
+rs61037031,A,South Asia,Europe,1.915913935
+rs61037031,C,Europe,South Asia,1.915913935
+rs10821936,C,South Asia,East Asia,1.913924051
+rs4653367,G,America,South Asia,1.907413266
+rs71597109,C,America,Europe,1.906468198
+rs1476569,G,Africa,America,1.905468141
+rs674313,T,Africa,America,1.900641026
+rs2546191,A,South Asia,Europe,1.900112613
+rs7677291,C,Europe,East Asia,1.899959938
+rs7677291,T,East Asia,Europe,1.899959938
+rs4240807,C,East Asia,America,1.89809671
+rs9392017,G,Europe,East Asia,1.897738541
+rs31490,A,Europe,America,1.897634499
+rs7090445,C,South Asia,East Asia,1.896675359
+rs7090445,T,East Asia,South Asia,1.896675359
+rs6893857,C,America,Europe,1.895890725
+rs4762284,A,Europe,Africa,1.895244036
+rs4762284,T,Africa,Europe,1.895244036
+rs305061,C,Europe,America,1.892303643
+rs305061,T,America,Europe,1.892303643
+rs7973974,C,Europe,East Asia,1.892142744
+rs7089424,G,America,Europe,1.891993958
+rs7089424,T,Europe,America,1.891993958
+rs67134687,G,East Asia,Africa,1.890684839
+rs67134687,A,Africa,East Asia,1.890684839
+rs4245595,C,South Asia,East Asia,1.889318966
+rs926070,A,South Asia,America,1.883885365
+rs10069690,T,Europe,East Asia,1.882385262
+rs2777899,G,Europe,East Asia,1.880542043
+rs2777899,T,East Asia,Europe,1.880542043
+rs1439287,A,Africa,America,1.880087628
+rs6428370,G,South Asia,America,1.879862442
+rs9290663,T,Africa,South Asia,1.876999727
+rs2466035,C,America,South Asia,1.876308418
+rs7176508,A,Europe,Africa,1.871515152
+rs1348850,A,South Asia,America,1.870799118
+rs57214277,T,South Asia,America,1.87059737
+rs9976326,T,America,East Asia,1.868632998
+rs1292034,G,Europe,East Asia,1.867762569
+rs1292034,A,East Asia,Europe,1.867762569
+rs806321,C,South Asia,Europe,1.863766992
+rs806321,T,Europe,South Asia,1.863766992
+rs71597109,C,South Asia,Europe,1.862222292
+rs1476569,G,Africa,Europe,1.859570574
+rs7115578,A,East Asia,Africa,1.858158377
+rs10821936,C,America,Europe,1.857142857
+rs7941765,C,East Asia,America,1.856433571
+rs7941765,T,America,East Asia,1.856433571
+rs4869818,G,America,Africa,1.855821107
+rs7090445,C,America,Europe,1.854794521
+rs7090445,T,Europe,America,1.854794521
+rs7705526,A,South Asia,America,1.85451255
+rs343604,T,South Asia,Africa,1.853972644
+rs4368253,C,East Asia,South Asia,1.85323993
+rs3824662,A,East Asia,South Asia,1.852153375
+rs3824662,C,South Asia,East Asia,1.852153375
+rs7089424,G,South Asia,East Asia,1.851450276
+rs7089424,T,East Asia,South Asia,1.851450276
+rs2466035,C,East Asia,Europe,1.84973675
+rs738408,T,East Asia,Europe,1.849460268
+rs738409,G,East Asia,Europe,1.849460268
+rs4762284,A,South Asia,Africa,1.84565137
+rs4762284,T,Africa,South Asia,1.84565137
+rs4245595,C,America,Europe,1.844104506
+rs4762284,A,Africa,East Asia,1.842280995
+rs4762284,T,East Asia,Africa,1.842280995
+rs7176508,A,America,East Asia,1.840202923
+rs7558911,A,East Asia,America,1.83994528
+rs12786200,C,Africa,East Asia,1.839804539
+rs12786200,T,East Asia,Africa,1.839804539
+rs7554607,A,Africa,Europe,1.83761653
+rs2236256,C,South Asia,Europe,1.836422122
+rs2466029,G,East Asia,South Asia,1.833989831
+rs7554607,A,Africa,America,1.833298329
+rs10069690,T,South Asia,East Asia,1.832109562
+rs8024033,C,America,Europe,1.831764938
+rs4406737,G,America,Africa,1.831345203
+rs131821,A,America,Europe,1.830166807
+rs17246404,C,South Asia,East Asia,1.829985448
+rs1576377,C,Africa,East Asia,1.827393322
+rs343604,T,East Asia,America,1.824645942
+rs1476569,G,Europe,South Asia,1.822009782
+rs71597109,C,East Asia,Europe,1.820754857
+rs12621643,T,Europe,South Asia,1.814655106
+rs6793295,C,Africa,Europe,1.811707518
+rs6793295,T,Europe,Africa,1.811707518
+rs802734,G,South Asia,East Asia,1.811237553
+rs802734,A,East Asia,South Asia,1.811237553
+rs34676223,C,East Asia,America,1.810240416
+rs7558911,A,East Asia,Africa,1.808389214
+rs9392017,G,Africa,Europe,1.808211061
+rs4982731,C,Africa,Europe,1.807955037
+rs210142,C,East Asia,Europe,1.803151092
+rs210143,C,East Asia,Europe,1.803151092
+rs31490,A,America,East Asia,1.792395274
+rs7738636,A,South Asia,East Asia,1.790909091
+rs11637565,G,America,East Asia,1.788250965
+rs4748813,T,East Asia,America,1.786242604
+rs920590,C,East Asia,Europe,1.785159091
+rs9836270,A,East Asia,South Asia,1.784823285
+rs898518,A,America,East Asia,1.782467715
+rs1359742,G,America,South Asia,1.782016349
+rs12786200,C,Europe,East Asia,1.78197164
+rs12786200,T,East Asia,Europe,1.78197164
+rs2052702,A,America,East Asia,1.781699346
+rs9392504,A,South Asia,East Asia,1.781495923
+rs9378805,C,America,East Asia,1.779992029
+rs9391997,G,America,East Asia,1.779992029
+rs2052702,A,South Asia,Africa,1.779980825
+rs9290663,T,Africa,East Asia,1.779889556
+rs7677291,C,America,Europe,1.778442654
+rs7677291,T,Europe,America,1.778442654
+rs11755724,G,Europe,America,1.776763499
+rs11755724,A,America,Europe,1.776763499
+rs9271176,G,East Asia,South Asia,1.761519517
+rs4869818,G,South Asia,Africa,1.756883848
+rs10936599,C,South Asia,America,1.755728847
+rs2546191,A,East Asia,America,1.755392434
+rs12779301,C,Europe,America,1.753104579
+rs872071,G,America,East Asia,1.751177497
+rs9880772,A,South Asia,America,1.74948087
+rs6445754,C,America,Europe,1.741555308
+rs738408,T,America,East Asia,1.74149746
+rs738409,G,America,East Asia,1.74149746
+rs34676223,C,East Asia,Africa,1.740843179
+rs2511714,G,Africa,America,1.737917271
+rs7115578,A,America,Europe,1.736980411
+rs2239633,A,Europe,East Asia,1.734201351
+rs2239633,G,East Asia,Europe,1.734201351
+rs7089424,G,East Asia,Africa,1.733161441
+rs7089424,T,Africa,East Asia,1.733161441
+rs2052702,A,Europe,Africa,1.728995392
+rs9391997,G,South Asia,East Asia,1.728744939
+rs926070,A,East Asia,Europe,1.725399435
+rs12638862,A,Europe,America,1.72295123
+rs9392017,G,America,East Asia,1.721734552
+rs9271176,G,Africa,South Asia,1.721350343
+rs10873876,T,East Asia,South Asia,1.716756539
+rs1036935,A,Africa,Europe,1.716748945
+rs1348850,A,East Asia,Europe,1.716093446
+rs4982731,C,South Asia,Europe,1.706765201
+rs2239630,A,South Asia,Europe,1.705140965
+rs34676223,C,East Asia,South Asia,1.704237517
+rs4240807,C,Africa,Europe,1.704204886
+rs2296624,C,Africa,East Asia,1.703785489
+rs2290400,T,South Asia,Europe,1.703118503
+rs1576377,C,Europe,East Asia,1.700056296
+rs391525,G,Europe,South Asia,1.699626236
+rs391525,A,South Asia,Europe,1.699626236
+rs2466024,A,America,South Asia,1.689459294
+rs7578199,T,Africa,Europe,1.688121776
+rs7554607,A,East Asia,South Asia,1.68668085
+rs872071,G,South Asia,East Asia,1.685303514
+rs7156960,G,South Asia,Africa,1.685206123
+rs7156960,C,Africa,South Asia,1.685206123
+rs2236256,C,America,Africa,1.683637885
+rs2466029,G,East Asia,Europe,1.675952049
+rs3935695,C,Africa,South Asia,1.672351804
+rs4525246,C,Africa,South Asia,1.671044157
+rs4653367,G,South Asia,East Asia,1.669640565
+rs10028805,G,South Asia,East Asia,1.655612579
+rs9378805,C,South Asia,East Asia,1.630633084
+rs926070,A,East Asia,Africa,1.630127837
+rs7677291,C,Europe,Africa,1.629279524
+rs7677291,T,Africa,Europe,1.629279524
+rs10046301,C,Africa,East Asia,1.627300438
+rs11637565,G,Europe,Africa,1.61683075
+rs7705526,A,South Asia,Europe,1.61581055
+rs391855,A,South Asia,Europe,1.615461758
+rs9836270,A,Europe,South Asia,1.603327607
+rs7738636,A,East Asia,Africa,1.599138511
+rs73192661,C,East Asia,Europe,1.591482683
+rs7558911,A,South Asia,Africa,1.590277747
+rs2290400,T,South Asia,Africa,1.575079079
+rs34676223,C,Europe,Africa,1.562445988

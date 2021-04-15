@@ -1,0 +1,1964 @@
+SNP,risk allele,population1,population2,p_value
+rs7254272,A,East Asia,Africa,9.42E-283
+rs7254272,A,South Asia,Africa,8.78E-254
+rs1348850,A,Africa,Europe,5.14E-227
+rs3770745,T,East Asia,Europe,6.89E-217
+rs2521269,C,East Asia,Africa,3.82E-216
+rs888096,A,Africa,Europe,3.85E-211
+rs1348850,A,America,Africa,1.97E-209
+rs7865267,T,Africa,Europe,4.86E-203
+rs11755724,A,East Asia,Europe,3.13E-200
+rs11755724,G,East Asia,Europe,3.13E-200
+rs3935695,C,East Asia,Europe,7.91E-196
+rs7682733,G,East Asia,Africa,1.31E-190
+rs7682733,A,East Asia,Africa,1.31E-190
+rs2651823,A,East Asia,Africa,1.32E-187
+rs10936599,C,East Asia,Africa,2.21E-186
+rs13069553,A,East Asia,Africa,2.21E-186
+rs13069553,G,East Asia,Africa,2.21E-186
+rs57214277,T,South Asia,Africa,2.23E-176
+rs6683977,C,Africa,Europe,6.68E-173
+rs10260824,C,Africa,Europe,7.93E-170
+rs1881797,C,East Asia,Africa,4.44E-169
+rs7682733,A,East Asia,Europe,9.70E-169
+rs7682733,G,East Asia,Europe,9.70E-169
+rs1348850,A,South Asia,Africa,2.38E-168
+rs1348850,A,East Asia,Africa,2.71E-164
+rs7254272,A,Africa,Europe,2.96E-164
+rs3770745,T,Africa,Europe,1.29E-161
+rs2239630,A,Africa,Europe,3.22E-150
+rs7865267,T,South Asia,Africa,6.84E-150
+rs16976734,G,East Asia,Africa,1.55E-145
+rs1292034,A,South Asia,Africa,3.75E-145
+rs1292034,G,South Asia,Africa,3.75E-145
+rs872071,G,Africa,Europe,4.81E-143
+rs10260824,C,South Asia,Africa,2.32E-142
+rs7941765,C,Africa,Europe,1.12E-141
+rs7941765,T,Africa,Europe,1.12E-141
+rs1881797,C,South Asia,Africa,1.73E-139
+rs57214277,T,East Asia,Africa,9.93E-139
+rs60086424,T,Africa,Europe,1.03E-137
+rs9308731,A,South Asia,Africa,9.58E-136
+rs359312,T,East Asia,Africa,7.43E-135
+rs1292034,A,Africa,Europe,1.07E-134
+rs1292034,G,Africa,Europe,1.07E-134
+rs6901152,T,Africa,Europe,4.97E-134
+rs7128311,C,East Asia,Africa,1.17E-133
+rs7254272,A,America,Africa,4.25E-133
+rs11020478,G,South Asia,Africa,7.90E-133
+rs11755724,A,America,East Asia,2.89E-132
+rs11755724,G,America,East Asia,2.89E-132
+rs7865267,T,America,Africa,6.02E-132
+rs9378805,C,Africa,Europe,2.95E-128
+rs6763508,C,East Asia,Africa,9.63E-128
+rs17007695,C,East Asia,Africa,1.12E-125
+rs10849033,G,East Asia,Europe,5.83E-125
+rs10849033,G,Africa,Europe,2.37E-124
+rs10069690,T,East Asia,Africa,2.41E-124
+rs872071,G,South Asia,Africa,5.78E-124
+rs6125048,T,East Asia,Africa,1.99E-123
+rs2953196,G,East Asia,Africa,2.57E-122
+rs1679013,C,East Asia,Africa,3.25E-122
+rs6901152,T,East Asia,Europe,2.24E-121
+rs6893857,C,East Asia,Africa,4.00E-121
+rs73192661,C,Africa,Europe,5.98E-121
+rs3935695,C,Africa,Europe,1.27E-120
+rs821931,G,Africa,Europe,4.44E-120
+rs12638862,A,East Asia,Africa,5.99E-119
+rs872071,G,America,Africa,1.02E-118
+rs2777899,G,Africa,Europe,5.32E-117
+rs2777899,T,Africa,Europe,5.32E-117
+rs11755724,G,Africa,Europe,3.10E-116
+rs11755724,A,Africa,Europe,3.10E-116
+rs10260824,C,America,Africa,6.00E-115
+rs6489882,G,Africa,Europe,2.22E-114
+rs6893857,C,Africa,Europe,9.32E-114
+rs10260824,C,East Asia,Africa,3.07E-111
+rs9815073,C,Africa,Europe,2.53E-110
+rs6763508,C,South Asia,Africa,3.19E-109
+rs6763508,C,Africa,Europe,2.97E-108
+rs9391997,G,Africa,Europe,9.95E-108
+rs3770745,T,East Asia,South Asia,8.33E-107
+rs8024033,C,East Asia,Africa,1.04E-106
+rs60086424,T,East Asia,Europe,2.37E-106
+rs9378805,C,South Asia,Africa,5.73E-106
+rs6445754,C,Africa,Europe,1.30E-105
+rs391855,A,South Asia,Africa,1.32E-105
+rs2239630,A,America,Africa,1.78E-105
+rs6428370,G,East Asia,Africa,6.48E-105
+rs9378805,C,America,Africa,7.81E-105
+rs6125048,T,East Asia,Europe,1.01E-104
+rs888096,A,South Asia,Africa,5.68E-104
+rs4653367,G,East Asia,Africa,1.05E-102
+rs2239630,A,East Asia,Africa,1.92E-102
+rs35229355,T,East Asia,Europe,1.20E-99
+rs57214277,T,Africa,Europe,7.08E-99
+rs7128311,C,East Asia,Europe,1.05E-98
+rs57214277,T,America,Africa,1.83E-98
+rs16976734,G,East Asia,Europe,2.38E-98
+rs9308731,A,America,Africa,1.75E-97
+rs12711846,G,East Asia,Africa,2.10E-97
+rs2466035,C,South Asia,Africa,7.92E-97
+rs2466029,G,South Asia,Africa,2.81E-95
+rs359312,T,East Asia,South Asia,3.96E-95
+rs7607659,T,Africa,Europe,3.99E-95
+rs11020478,G,East Asia,Africa,2.13E-94
+rs7941765,T,South Asia,Africa,2.61E-94
+rs7941765,C,South Asia,Africa,2.61E-94
+rs73005220,G,East Asia,Africa,8.69E-94
+rs2239630,A,South Asia,Africa,2.60E-93
+rs17857135,T,East Asia,Africa,4.41E-93
+rs359312,T,East Asia,Europe,2.55E-92
+rs17246404,C,East Asia,Africa,3.27E-92
+rs9391997,G,South Asia,Africa,1.11E-91
+rs3942852,C,South Asia,Africa,2.39E-91
+rs3942852,T,South Asia,Africa,2.39E-91
+rs13015798,A,Africa,Europe,2.70E-91
+rs7865267,T,East Asia,Africa,4.17E-91
+rs6763508,C,America,Africa,5.61E-91
+rs1881797,C,Africa,Europe,9.52E-91
+rs3731714,C,Africa,Europe,2.44E-90
+rs3731714,T,Africa,Europe,2.44E-90
+rs888096,A,America,Africa,3.78E-90
+rs2953196,G,South Asia,Africa,4.34E-90
+rs7682733,G,America,East Asia,1.50E-89
+rs7682733,A,America,East Asia,1.50E-89
+rs9976326,T,South Asia,Africa,1.97E-89
+rs4748813,T,South Asia,Africa,3.08E-89
+rs3935695,C,America,East Asia,3.87E-89
+rs7607659,T,South Asia,Africa,9.06E-89
+rs2466029,G,Africa,Europe,1.52E-88
+rs11748968,C,South Asia,Africa,1.71E-88
+rs1292034,A,America,Africa,3.59E-88
+rs1292034,G,America,Africa,3.59E-88
+rs4653367,G,East Asia,Europe,3.62E-88
+rs17007695,C,America,Africa,2.02E-86
+rs637868,C,East Asia,Africa,2.42E-86
+rs2953196,G,America,Africa,3.71E-86
+rs806321,C,East Asia,Africa,7.76E-85
+rs806321,T,East Asia,Africa,7.76E-85
+rs9391997,G,America,Africa,1.33E-84
+rs2466035,C,Africa,Europe,3.37E-84
+rs2390536,A,Africa,Europe,5.08E-84
+rs2191566,G,East Asia,South Asia,8.36E-84
+rs6489882,G,South Asia,Africa,1.60E-83
+rs1986582,G,South Asia,Africa,2.02E-83
+rs7128311,C,East Asia,South Asia,3.13E-83
+rs35229355,T,East Asia,Africa,1.09E-82
+rs10046301,C,Africa,Europe,1.49E-82
+rs13015798,A,America,Africa,7.53E-82
+rs10936599,C,America,Africa,8.31E-82
+rs6683977,C,South Asia,Africa,1.43E-81
+rs13069553,A,America,Africa,2.63E-81
+rs13069553,G,America,Africa,2.63E-81
+rs3770745,T,America,East Asia,3.05E-81
+rs2089222,A,America,South Asia,1.39E-80
+rs924607,T,Africa,Europe,1.84E-80
+rs2390536,A,East Asia,Europe,3.16E-80
+rs2511714,G,East Asia,Africa,2.65E-79
+rs10069690,T,America,Africa,3.75E-79
+rs6793295,T,East Asia,Europe,9.38E-79
+rs6793295,C,East Asia,Europe,9.38E-79
+rs2777899,G,South Asia,Africa,2.20E-78
+rs2777899,T,South Asia,Africa,2.20E-78
+rs73192661,C,East Asia,Africa,5.88E-78
+rs6489882,G,East Asia,Africa,7.45E-78
+rs6683977,C,East Asia,Europe,1.11E-77
+rs872071,G,East Asia,Africa,2.15E-77
+rs149207840,T,South Asia,Africa,7.82E-77
+rs10069690,T,South Asia,Africa,1.03E-76
+rs3942852,C,East Asia,Africa,2.23E-76
+rs3942852,T,East Asia,Africa,2.23E-76
+rs60086424,T,America,Africa,2.32E-76
+rs73192661,C,America,Africa,3.33E-76
+rs2191566,G,East Asia,Europe,5.15E-76
+rs10069690,T,Africa,Europe,7.49E-76
+rs12711846,G,South Asia,Africa,1.04E-75
+rs2089222,A,America,Europe,1.47E-75
+rs2139953,A,Africa,Europe,1.72E-75
+rs738408,T,America,Africa,6.75E-74
+rs738409,G,America,Africa,6.75E-74
+rs391855,A,East Asia,Africa,2.41E-73
+rs2777899,G,America,Africa,2.73E-73
+rs2777899,T,America,Africa,2.73E-73
+rs35229355,T,America,East Asia,5.87E-73
+rs6586163,A,South Asia,Africa,6.15E-73
+rs637868,C,East Asia,Europe,1.06E-72
+rs1292034,A,East Asia,Africa,1.70E-72
+rs1292034,G,East Asia,Africa,1.70E-72
+rs3942852,C,Africa,Europe,1.77E-72
+rs3942852,T,Africa,Europe,1.77E-72
+rs17246404,C,Africa,Europe,5.41E-72
+rs6445754,C,East Asia,Africa,2.05E-71
+rs888096,A,East Asia,Africa,4.00E-71
+rs267585,T,East Asia,Africa,4.88E-71
+rs3731714,C,America,Africa,9.12E-71
+rs3731714,T,America,Africa,9.12E-71
+rs7682733,A,South Asia,Africa,3.02E-70
+rs7682733,G,South Asia,Africa,3.02E-70
+rs1679013,C,America,East Asia,9.73E-70
+rs6586163,A,Africa,Europe,1.39E-69
+rs7941765,T,America,Africa,1.71E-69
+rs7941765,C,America,Africa,1.71E-69
+rs7578199,T,East Asia,Europe,3.35E-69
+rs2901286,A,East Asia,Africa,3.52E-69
+rs35603048,T,South Asia,Africa,3.99E-69
+rs17007695,C,East Asia,Europe,1.04E-68
+rs9880772,A,Africa,Europe,1.33E-68
+rs924607,T,South Asia,Africa,2.35E-68
+rs13015798,A,South Asia,Africa,3.71E-68
+rs16976734,G,South Asia,Africa,7.88E-68
+rs1439112,A,East Asia,Africa,1.59E-67
+rs1439112,G,East Asia,Africa,1.59E-67
+rs11155133,G,Africa,Europe,1.95E-67
+rs10508343,A,America,Africa,2.90E-67
+rs10028805,G,South Asia,Africa,6.75E-67
+rs4748813,T,America,Africa,1.36E-66
+rs13015798,A,East Asia,Africa,3.20E-66
+rs2546191,A,Africa,Europe,5.09E-66
+rs9815073,C,America,Africa,5.92E-66
+rs2521269,C,America,Africa,1.32E-65
+rs11755724,G,South Asia,Europe,1.43E-65
+rs11755724,A,South Asia,Europe,1.43E-65
+rs11020478,G,Africa,Europe,1.59E-65
+rs7682733,A,South Asia,Europe,2.12E-65
+rs7682733,G,South Asia,Europe,2.12E-65
+rs936094,C,East Asia,South Asia,2.90E-65
+rs1359742,G,East Asia,Europe,4.17E-65
+rs570684,C,Africa,Europe,1.07E-64
+rs570684,T,Africa,Europe,1.07E-64
+rs9378805,C,East Asia,Africa,1.27E-64
+rs149207840,T,Africa,Europe,1.35E-64
+rs2521269,C,East Asia,South Asia,1.56E-64
+rs6901152,T,America,East Asia,2.23E-64
+rs3935695,C,South Asia,Europe,4.14E-64
+rs391855,A,Africa,Europe,4.67E-64
+rs4525246,C,East Asia,Africa,6.97E-64
+rs3731714,C,South Asia,Africa,1.10E-63
+rs3731714,T,South Asia,Africa,1.10E-63
+rs6901152,T,America,Africa,1.99E-63
+rs2953196,G,Africa,Europe,2.74E-63
+rs6586163,A,East Asia,Africa,6.53E-63
+rs73188336,T,Africa,Europe,2.55E-62
+rs391855,A,America,Africa,1.27E-61
+rs3942852,C,America,Africa,1.58E-61
+rs3942852,T,America,Africa,1.58E-61
+rs34004493,G,East Asia,Europe,1.73E-61
+rs11022157,A,Africa,Europe,2.83E-61
+rs6125048,T,America,Africa,6.62E-61
+rs2511713,G,East Asia,Europe,9.82E-61
+rs6428370,G,America,Africa,9.88E-61
+rs9392017,G,South Asia,Africa,9.96E-61
+rs11755724,A,East Asia,South Asia,1.02E-60
+rs11755724,G,East Asia,South Asia,1.02E-60
+rs60218192,A,East Asia,Africa,1.36E-60
+rs6489882,G,America,Africa,1.64E-60
+rs2041840,C,East Asia,Europe,1.65E-60
+rs359312,T,America,Africa,3.65E-60
+rs7090445,C,South Asia,Africa,4.28E-60
+rs7090445,T,South Asia,Africa,4.28E-60
+rs2521269,C,Africa,Europe,6.96E-60
+rs73192661,C,South Asia,Africa,1.41E-59
+rs16976734,G,America,East Asia,1.66E-59
+rs13069553,A,East Asia,South Asia,2.48E-59
+rs13069553,G,East Asia,South Asia,2.48E-59
+rs1804772,A,Africa,Europe,3.97E-59
+rs1804772,C,Africa,Europe,3.97E-59
+rs821931,G,South Asia,Africa,6.45E-59
+rs1679013,C,South Asia,Africa,9.06E-59
+rs3824662,A,America,Africa,1.02E-58
+rs3824662,C,America,Africa,1.02E-58
+rs12621643,T,South Asia,Africa,1.22E-58
+rs17032980,A,East Asia,Africa,1.44E-58
+rs17032980,G,East Asia,Africa,1.44E-58
+rs2777899,G,East Asia,Africa,1.55E-58
+rs2777899,T,East Asia,Africa,1.55E-58
+rs10046301,C,South Asia,Africa,2.51E-58
+rs6901152,T,South Asia,Europe,6.48E-58
+rs3770745,T,South Asia,Africa,9.89E-58
+rs2239633,A,Africa,Europe,1.08E-57
+rs2239633,G,Africa,Europe,1.08E-57
+rs1439112,A,Africa,Europe,1.13E-57
+rs1439112,G,Africa,Europe,1.13E-57
+rs2651823,A,Africa,Europe,1.14E-57
+rs17857135,T,Africa,Europe,1.34E-57
+rs4245595,C,South Asia,Africa,2.64E-57
+rs131821,A,East Asia,Europe,3.52E-57
+rs123509,T,East Asia,Europe,3.95E-57
+rs10849033,G,East Asia,South Asia,6.80E-57
+rs267759,A,East Asia,Europe,8.04E-57
+rs2521269,C,East Asia,Europe,1.02E-56
+rs10849033,G,South Asia,Africa,1.53E-56
+rs936094,C,East Asia,Africa,1.57E-56
+rs10821936,C,South Asia,Africa,2.09E-56
+rs11020478,G,America,Africa,2.59E-56
+rs1800682,A,Africa,Europe,2.63E-56
+rs73005220,G,East Asia,Europe,3.73E-56
+rs2089222,A,South Asia,Africa,5.42E-56
+rs6550253,A,South Asia,Africa,5.89E-56
+rs4653367,G,South Asia,Africa,7.55E-56
+rs10508343,A,America,Europe,1.05E-55
+rs60086424,T,America,East Asia,6.66E-55
+rs282708,A,East Asia,Europe,9.27E-55
+rs6125048,T,America,Europe,1.37E-54
+rs2511713,G,East Asia,Africa,1.62E-54
+rs821931,G,East Asia,Europe,2.29E-54
+rs34531324,T,East Asia,Europe,3.09E-54
+rs73062673,C,South Asia,Africa,6.34E-54
+rs806321,C,East Asia,South Asia,6.86E-54
+rs806321,T,East Asia,South Asia,6.86E-54
+rs2651823,A,East Asia,South Asia,8.63E-54
+rs10936599,C,East Asia,South Asia,1.57E-53
+rs1569175,T,America,South Asia,1.68E-53
+rs31490,A,East Asia,Africa,2.57E-53
+rs6893857,C,America,Africa,3.95E-53
+rs6683977,C,America,Africa,4.43E-53
+rs10936599,C,East Asia,Europe,5.81E-53
+rs13069553,A,East Asia,Europe,5.81E-53
+rs13069553,G,East Asia,Europe,5.81E-53
+rs11755724,A,America,Africa,6.91E-53
+rs11755724,G,America,Africa,6.91E-53
+rs1439112,G,America,Africa,9.18E-53
+rs1439112,A,America,Africa,9.18E-53
+rs2466024,A,South Asia,Africa,1.07E-52
+rs4459895,C,Africa,Europe,1.29E-52
+rs12638862,A,East Asia,Europe,1.54E-52
+rs6428370,G,Africa,Europe,1.67E-52
+rs6550253,A,Africa,Europe,2.86E-52
+rs7944004,T,East Asia,Europe,2.87E-52
+rs6793295,C,East Asia,South Asia,3.43E-52
+rs6793295,T,East Asia,South Asia,3.43E-52
+rs17857135,T,America,Africa,4.02E-52
+rs17246404,C,South Asia,Africa,5.01E-52
+rs9880772,A,East Asia,Europe,6.44E-52
+rs2139953,A,East Asia,Europe,8.31E-52
+rs563507,A,East Asia,Africa,1.07E-51
+rs2089222,A,Africa,Europe,1.33E-51
+rs12638862,A,East Asia,South Asia,2.18E-51
+rs60086424,T,South Asia,Europe,3.43E-51
+rs2041840,C,East Asia,South Asia,3.51E-51
+rs267759,A,East Asia,South Asia,3.54E-51
+rs12711846,G,Africa,Europe,4.91E-51
+rs2511714,G,East Asia,Europe,5.92E-51
+rs9308731,A,Africa,Europe,6.32E-51
+rs2651823,A,America,Africa,9.81E-51
+rs2521269,C,South Asia,Africa,1.91E-50
+rs31490,A,South Asia,Africa,2.71E-50
+rs1800682,A,South Asia,Africa,3.04E-50
+rs7705526,A,South Asia,Africa,6.06E-50
+rs2511714,G,South Asia,Africa,8.20E-50
+rs35923643,G,America,Africa,1.02E-49
+rs735665,A,America,Africa,1.02E-49
+rs4525246,C,America,East Asia,1.22E-49
+rs11083846,A,East Asia,Europe,1.28E-49
+rs10936599,C,Africa,Europe,1.33E-49
+rs13069553,A,Africa,Europe,1.33E-49
+rs13069553,G,Africa,Europe,1.33E-49
+rs6445754,C,America,Africa,2.11E-49
+rs7944004,T,East Asia,South Asia,3.15E-49
+rs1679013,C,East Asia,Europe,3.56E-49
+rs9976326,T,America,Africa,5.15E-49
+rs3731714,C,East Asia,Africa,7.69E-49
+rs3731714,T,East Asia,Africa,7.69E-49
+rs12711846,G,America,Africa,8.73E-49
+rs3935695,C,East Asia,South Asia,2.73E-48
+rs9391997,G,East Asia,Africa,2.85E-48
+rs17483466,A,East Asia,Europe,3.34E-48
+rs17483466,G,East Asia,Europe,3.34E-48
+rs630662,A,East Asia,Africa,4.45E-48
+rs4653367,G,South Asia,Europe,4.45E-48
+rs1036935,A,East Asia,Africa,4.71E-48
+rs1359742,G,America,East Asia,5.68E-48
+rs10936599,C,South Asia,Africa,6.51E-48
+rs806321,T,America,East Asia,1.07E-47
+rs806321,C,America,East Asia,1.07E-47
+rs10873876,T,South Asia,Africa,1.12E-47
+rs888096,A,East Asia,Europe,1.74E-47
+rs821931,G,America,Africa,2.45E-47
+rs35229355,T,East Asia,South Asia,3.93E-47
+rs6125048,T,East Asia,South Asia,6.30E-47
+rs7578199,T,America,East Asia,1.04E-46
+rs924607,T,East Asia,Africa,1.66E-46
+rs2466029,G,East Asia,Africa,1.82E-46
+rs1359742,G,East Asia,Africa,1.87E-46
+rs1881797,C,America,Africa,1.98E-46
+rs9815073,C,East Asia,Africa,2.13E-46
+rs10873876,T,Africa,Europe,2.64E-46
+rs7607659,T,America,Africa,4.11E-46
+rs343604,T,East Asia,Europe,4.62E-46
+rs2511713,G,America,East Asia,7.32E-46
+rs282708,A,East Asia,Africa,1.88E-45
+rs72772090,G,Africa,Europe,1.97E-45
+rs2466029,G,America,Africa,2.17E-45
+rs149207840,T,East Asia,South Asia,3.39E-45
+rs8024033,C,East Asia,Europe,4.19E-45
+rs35603048,T,Africa,Europe,4.54E-45
+rs11748968,C,East Asia,Africa,6.09E-45
+rs2901286,A,East Asia,Europe,7.76E-45
+rs7578199,T,East Asia,Africa,8.25E-45
+rs4982731,C,East Asia,Africa,1.00E-44
+rs2651823,A,South Asia,Africa,1.88E-44
+rs1804772,A,South Asia,Africa,2.02E-44
+rs1804772,C,South Asia,Africa,2.02E-44
+rs7128311,C,America,Africa,2.42E-44
+rs35923643,G,America,East Asia,2.87E-44
+rs9273363,A,East Asia,Africa,3.21E-44
+rs4459895,C,East Asia,Europe,3.88E-44
+rs6858698,C,East Asia,Africa,4.92E-44
+rs735665,A,America,East Asia,1.25E-43
+rs17007695,C,East Asia,South Asia,1.26E-43
+rs563507,A,South Asia,Africa,1.29E-43
+rs924607,T,America,Africa,1.39E-43
+rs34531324,T,Africa,Europe,1.94E-43
+rs10046301,C,East Asia,Europe,2.00E-43
+rs6021191,T,Africa,Europe,2.51E-43
+rs60218192,A,Africa,Europe,3.02E-43
+rs6793295,C,East Asia,Africa,3.26E-43
+rs6793295,T,East Asia,Africa,3.26E-43
+rs8023845,G,East Asia,Europe,3.35E-43
+rs9308731,A,East Asia,Africa,3.39E-43
+rs2003869,G,East Asia,Africa,3.99E-43
+rs7690934,C,East Asia,Africa,3.99E-43
+rs4759570,A,Africa,Europe,4.13E-43
+rs4525246,C,East Asia,Europe,4.96E-43
+rs2651823,A,East Asia,Europe,6.04E-43
+rs7865267,T,East Asia,Europe,1.02E-42
+rs17483466,G,America,East Asia,1.05E-42
+rs17483466,A,America,East Asia,1.05E-42
+rs17857135,T,South Asia,Africa,1.17E-42
+rs17032980,A,America,Africa,1.48E-42
+rs17032980,G,America,Africa,1.48E-42
+rs6445754,C,South Asia,Africa,1.51E-42
+rs13069553,G,South Asia,Africa,2.07E-42
+rs13069553,A,South Asia,Africa,2.07E-42
+rs7944004,T,East Asia,Africa,2.39E-42
+rs9272131,T,America,Africa,2.43E-42
+rs34004493,G,East Asia,South Asia,2.50E-42
+rs1569175,T,America,Europe,3.14E-42
+rs7254272,A,East Asia,Europe,4.89E-42
+rs1881797,C,America,East Asia,5.36E-42
+rs9273363,A,America,Africa,7.60E-42
+rs637868,C,America,East Asia,8.77E-42
+rs4748813,T,East Asia,Africa,1.10E-41
+rs13397985,T,East Asia,Europe,1.13E-41
+rs13397985,G,East Asia,Europe,1.13E-41
+rs6858698,C,South Asia,Africa,1.14E-41
+rs4762284,A,East Asia,Europe,1.20E-41
+rs4762284,T,East Asia,Europe,1.20E-41
+rs2139953,A,South Asia,Africa,1.69E-41
+rs2466024,A,Africa,Europe,1.85E-41
+rs738408,T,East Asia,Africa,3.58E-41
+rs738409,G,East Asia,Africa,3.58E-41
+rs2546191,A,America,Africa,4.22E-41
+rs2191566,G,America,South Asia,5.92E-41
+rs17246404,C,America,Africa,8.92E-41
+rs7254272,A,America,East Asia,8.93E-41
+rs9880772,A,South Asia,Europe,1.20E-40
+rs10849033,G,America,Europe,1.29E-40
+rs12786200,T,East Asia,South Asia,1.44E-40
+rs12786200,C,East Asia,South Asia,1.44E-40
+rs7941765,C,East Asia,Europe,1.91E-40
+rs7941765,T,East Asia,Europe,1.91E-40
+rs73188336,T,South Asia,Africa,2.08E-40
+rs73188336,T,America,Africa,2.23E-40
+rs1800682,A,East Asia,Africa,2.33E-40
+rs267585,T,South Asia,Africa,3.95E-40
+rs7090445,C,America,Africa,6.44E-40
+rs7090445,T,America,Africa,6.44E-40
+rs6684897,G,East Asia,Africa,6.54E-40
+rs207954,C,America,Africa,9.20E-40
+rs17007695,C,America,Europe,1.00E-39
+rs1986582,G,East Asia,South Asia,1.04E-39
+rs2901286,A,East Asia,South Asia,1.43E-39
+rs4762284,A,East Asia,South Asia,1.49E-39
+rs4762284,T,East Asia,South Asia,1.49E-39
+rs7578199,T,South Asia,Europe,1.60E-39
+rs16976734,G,South Asia,Europe,1.60E-39
+rs11755724,A,East Asia,Africa,1.86E-39
+rs11755724,G,East Asia,Africa,1.86E-39
+rs73005220,G,East Asia,South Asia,2.22E-39
+rs7089424,T,South Asia,Africa,2.96E-39
+rs7089424,G,South Asia,Africa,2.96E-39
+rs2466035,C,America,Africa,3.31E-39
+rs2239633,A,America,Africa,4.56E-39
+rs2239633,G,America,Africa,4.56E-39
+rs936094,C,East Asia,Europe,6.91E-39
+rs8024033,C,America,Africa,7.35E-39
+rs17134658,G,East Asia,Africa,8.25E-39
+rs17134658,T,East Asia,Africa,8.25E-39
+rs73005220,G,America,East Asia,1.36E-38
+rs72772090,G,East Asia,Europe,3.21E-38
+rs6971925,T,America,Europe,3.45E-38
+rs10028805,G,Africa,Europe,3.76E-38
+rs1439287,A,South Asia,Europe,4.55E-38
+rs4245595,C,America,Africa,6.85E-38
+rs10821936,C,America,Africa,7.12E-38
+rs12530134,A,America,Africa,7.36E-38
+rs2003869,G,East Asia,Europe,7.45E-38
+rs7690934,C,East Asia,Europe,7.45E-38
+rs1476569,G,South Asia,Africa,7.96E-38
+rs41271473,G,East Asia,South Asia,9.29E-38
+rs1879352,C,Africa,Europe,1.05E-37
+rs2466035,C,East Asia,Africa,1.64E-37
+rs2622849,T,East Asia,Africa,2.29E-37
+rs9392017,G,East Asia,Africa,2.82E-37
+rs11715604,A,Africa,Europe,3.03E-37
+rs11715604,T,Africa,Europe,3.03E-37
+rs4982731,C,East Asia,South Asia,3.16E-37
+rs359312,T,America,South Asia,3.37E-37
+rs9976326,T,Africa,Europe,5.17E-37
+rs2521269,C,America,East Asia,5.44E-37
+rs1439287,A,East Asia,South Asia,6.17E-37
+rs9392504,A,Africa,Europe,8.78E-37
+rs35923643,G,Africa,Europe,1.18E-36
+rs13397985,G,East Asia,South Asia,1.64E-36
+rs13397985,T,East Asia,South Asia,1.64E-36
+rs17134658,G,South Asia,Africa,1.77E-36
+rs17134658,T,South Asia,Africa,1.77E-36
+rs735665,A,Africa,Europe,2.41E-36
+rs3770745,T,America,Africa,2.83E-36
+rs149207840,T,East Asia,Europe,2.93E-36
+rs3824662,C,East Asia,Africa,3.29E-36
+rs3824662,A,East Asia,Africa,3.29E-36
+rs17505102,C,South Asia,Africa,3.63E-36
+rs17505102,G,South Asia,Africa,3.63E-36
+rs10046301,C,America,Africa,5.43E-36
+rs7941765,C,East Asia,Africa,6.54E-36
+rs7941765,T,East Asia,Africa,6.54E-36
+rs674313,T,South Asia,Africa,7.15E-36
+rs3935695,C,America,Africa,1.15E-35
+rs149207840,T,America,Africa,1.29E-35
+rs3770745,T,America,Europe,1.47E-35
+rs4617118,G,East Asia,Africa,1.63E-35
+rs2191566,G,America,Europe,1.72E-35
+rs4748813,T,Africa,Europe,2.47E-35
+rs8023845,G,East Asia,Africa,2.78E-35
+rs4525246,C,East Asia,South Asia,2.80E-35
+rs17483466,A,Africa,Europe,3.39E-35
+rs17483466,G,Africa,Europe,3.39E-35
+rs2651823,A,America,East Asia,3.73E-35
+rs7682733,G,East Asia,South Asia,5.85E-35
+rs7682733,A,East Asia,South Asia,5.85E-35
+rs6684897,G,America,East Asia,6.13E-35
+rs123509,T,Africa,Europe,7.24E-35
+rs1804772,A,America,Africa,1.05E-34
+rs1804772,C,America,Africa,1.05E-34
+rs9815073,C,South Asia,Africa,1.12E-34
+rs12638862,A,America,Africa,1.29E-34
+rs7705526,A,East Asia,Africa,2.09E-34
+rs31490,A,East Asia,Europe,2.53E-34
+rs11022157,A,South Asia,Africa,4.28E-34
+rs2720680,G,America,Africa,5.11E-34
+rs1439112,A,South Asia,Africa,5.69E-34
+rs1439112,G,South Asia,Africa,5.69E-34
+rs77551289,A,Africa,Europe,6.69E-34
+rs2089222,A,East Asia,South Asia,7.43E-34
+rs1569175,T,South Asia,Africa,7.91E-34
+rs10028805,G,East Asia,Africa,9.07E-34
+rs61610071,G,East Asia,Europe,9.09E-34
+rs898518,A,East Asia,Africa,1.10E-33
+rs17032980,A,Africa,Europe,1.16E-33
+rs17032980,G,Africa,Europe,1.16E-33
+rs1110701,G,East Asia,Europe,1.21E-33
+rs4723619,C,East Asia,Europe,1.26E-33
+rs359312,T,America,Europe,1.27E-33
+rs4987856,C,Africa,Europe,1.39E-33
+rs73188336,T,East Asia,Europe,1.68E-33
+rs3096696,A,East Asia,Africa,1.83E-33
+rs3130284,C,East Asia,Africa,1.83E-33
+rs6586163,A,America,Africa,1.85E-33
+rs12530134,A,America,East Asia,2.75E-33
+rs4896310,A,East Asia,Europe,3.10E-33
+rs11753479,G,America,Africa,3.26E-33
+rs73062673,C,East Asia,South Asia,4.17E-33
+rs305061,C,Africa,Europe,4.21E-33
+rs305061,T,Africa,Europe,4.21E-33
+rs35923643,G,East Asia,Europe,4.37E-33
+rs7607659,T,East Asia,Europe,4.61E-33
+rs58055674,C,East Asia,Europe,4.76E-33
+rs2390536,A,South Asia,Europe,4.81E-33
+rs6893857,C,South Asia,Africa,6.23E-33
+rs1496766,C,Africa,Europe,6.84E-33
+rs11083846,A,East Asia,South Asia,7.20E-33
+rs60440889,C,America,Africa,7.55E-33
+rs60440889,T,America,Africa,7.55E-33
+rs58055674,C,Africa,Europe,9.30E-33
+rs2191566,G,South Asia,Africa,1.66E-32
+rs17134658,T,Africa,Europe,1.77E-32
+rs17134658,G,Africa,Europe,1.77E-32
+rs72772090,G,America,Africa,2.56E-32
+rs735665,A,East Asia,Europe,2.82E-32
+rs10018622,A,Africa,Europe,3.24E-32
+rs10018622,G,Africa,Europe,3.24E-32
+rs31490,A,South Asia,Europe,3.93E-32
+rs9290663,T,America,Africa,5.57E-32
+rs112769843,C,East Asia,Africa,6.00E-32
+rs6428370,G,South Asia,Africa,6.12E-32
+rs10508343,A,South Asia,Africa,6.16E-32
+rs2511714,G,America,East Asia,7.19E-32
+rs11155133,G,South Asia,Africa,8.44E-32
+rs11083846,A,Africa,Europe,1.02E-31
+rs570684,C,South Asia,Africa,1.32E-31
+rs570684,T,South Asia,Africa,1.32E-31
+rs10508343,A,America,East Asia,1.43E-31
+rs73331351,G,East Asia,Europe,1.95E-31
+rs6893857,C,East Asia,South Asia,1.99E-31
+rs34004493,G,Africa,Europe,5.01E-31
+rs74709575,C,East Asia,Africa,5.01E-31
+rs60086424,T,South Asia,Africa,5.59E-31
+rs4463516,G,East Asia,Africa,5.87E-31
+rs4463516,C,East Asia,Africa,5.87E-31
+rs10873876,T,America,Africa,7.87E-31
+rs2239633,A,South Asia,Africa,9.97E-31
+rs2239633,G,South Asia,Africa,9.97E-31
+rs123509,T,America,East Asia,1.05E-30
+rs4723619,C,America,Europe,1.10E-30
+rs11980379,C,East Asia,Europe,1.22E-30
+rs11980379,T,East Asia,Europe,1.22E-30
+rs4132601,G,East Asia,Europe,1.22E-30
+rs4132601,T,East Asia,Europe,1.22E-30
+rs10949482,T,South Asia,Africa,1.31E-30
+rs2390536,A,America,East Asia,1.53E-30
+rs2622849,T,South Asia,Africa,2.07E-30
+rs6683977,C,America,Europe,2.16E-30
+rs11753479,G,Africa,Europe,2.17E-30
+rs7115578,A,East Asia,South Asia,2.20E-30
+rs11083846,A,America,East Asia,4.86E-30
+rs282708,A,America,East Asia,4.91E-30
+rs12621643,T,America,Africa,5.24E-30
+rs11022157,A,East Asia,Europe,6.76E-30
+rs17133805,G,East Asia,Europe,7.18E-30
+rs3096696,A,East Asia,Europe,7.91E-30
+rs10018622,A,America,Africa,8.99E-30
+rs10018622,G,America,Africa,8.99E-30
+rs4653367,G,America,East Asia,9.58E-30
+rs3770745,T,South Asia,Europe,1.10E-29
+rs7677291,C,America,East Asia,1.52E-29
+rs7677291,T,America,East Asia,1.52E-29
+rs267585,T,Africa,Europe,1.65E-29
+rs2089222,A,East Asia,Europe,1.82E-29
+rs3130284,C,East Asia,Europe,2.39E-29
+rs1036935,A,East Asia,South Asia,2.91E-29
+rs131821,A,Africa,Europe,3.35E-29
+rs9308731,A,East Asia,South Asia,3.68E-29
+rs6971925,T,East Asia,Europe,4.18E-29
+rs17483466,G,East Asia,South Asia,6.30E-29
+rs17483466,A,East Asia,South Asia,6.30E-29
+rs2139953,A,America,Africa,6.68E-29
+rs35923643,G,South Asia,Africa,7.11E-29
+rs563507,A,Africa,Europe,8.26E-29
+rs738408,T,America,Europe,8.86E-29
+rs738409,G,America,Europe,8.86E-29
+rs6546149,G,Africa,Europe,9.45E-29
+rs7607659,T,East Asia,South Asia,9.69E-29
+rs10949482,T,East Asia,Africa,1.24E-28
+rs8024033,C,South Asia,Africa,1.31E-28
+rs282708,A,East Asia,South Asia,1.36E-28
+rs735665,A,South Asia,Africa,1.44E-28
+rs4982731,C,America,East Asia,1.99E-28
+rs4987856,C,East Asia,Europe,2.08E-28
+rs9273363,A,Africa,Europe,2.08E-28
+rs11022157,A,America,Africa,2.26E-28
+rs72772090,G,America,East Asia,2.39E-28
+rs7607659,T,East Asia,Africa,3.08E-28
+rs7128311,C,America,Europe,3.29E-28
+rs3096696,A,East Asia,South Asia,4.11E-28
+rs11748968,C,America,South Asia,4.11E-28
+rs6684897,G,South Asia,Africa,4.35E-28
+rs898518,A,East Asia,Europe,4.64E-28
+rs7142143,C,East Asia,Africa,4.91E-28
+rs1476569,G,East Asia,Africa,5.15E-28
+rs60218192,A,South Asia,Africa,5.18E-28
+rs570684,C,East Asia,Africa,5.54E-28
+rs570684,T,East Asia,Africa,5.54E-28
+rs77551289,A,East Asia,Europe,5.58E-28
+rs802734,A,Africa,Europe,5.60E-28
+rs802734,G,Africa,Europe,5.60E-28
+rs4406737,G,Africa,Europe,5.78E-28
+rs2720680,G,South Asia,Africa,5.92E-28
+rs6546149,G,East Asia,Europe,6.12E-28
+rs11978267,A,East Asia,Europe,7.10E-28
+rs11978267,G,East Asia,Europe,7.10E-28
+rs3130284,C,East Asia,South Asia,7.18E-28
+rs2511714,G,South Asia,Europe,7.64E-28
+rs17483466,A,America,Africa,9.03E-28
+rs17483466,G,America,Africa,9.03E-28
+rs4759570,A,South Asia,Africa,9.64E-28
+rs7738636,A,South Asia,Africa,1.02E-27
+rs1044873,C,South Asia,Africa,1.11E-27
+rs1679013,C,America,South Asia,1.11E-27
+rs4406737,G,South Asia,Africa,1.12E-27
+rs10508343,A,South Asia,Europe,1.26E-27
+rs17007695,C,South Asia,Africa,1.28E-27
+rs8024033,C,East Asia,South Asia,1.34E-27
+rs10849033,G,America,East Asia,1.44E-27
+rs11753479,G,America,East Asia,1.55E-27
+rs6893857,C,South Asia,Europe,1.79E-27
+rs28665337,A,East Asia,South Asia,2.76E-27
+rs28665337,C,East Asia,South Asia,2.76E-27
+rs41322152,C,East Asia,Africa,2.83E-27
+rs7142143,C,South Asia,Africa,2.84E-27
+rs13397985,T,America,East Asia,3.12E-27
+rs13397985,G,America,East Asia,3.12E-27
+rs61904987,T,Africa,Europe,3.14E-27
+rs41322152,C,Africa,Europe,3.17E-27
+rs7089424,T,America,Africa,4.09E-27
+rs7089424,G,America,Africa,4.09E-27
+rs12621643,T,Africa,Europe,4.14E-27
+rs2191566,G,Africa,Europe,4.94E-27
+rs630662,A,East Asia,Europe,5.32E-27
+rs9815073,C,South Asia,Europe,5.59E-27
+rs72951801,G,Africa,Europe,5.69E-27
+rs72951801,A,Africa,Europe,5.69E-27
+rs343604,T,East Asia,Africa,6.64E-27
+rs34004493,G,America,East Asia,8.19E-27
+rs35923643,G,East Asia,South Asia,8.69E-27
+rs6550253,A,East Asia,South Asia,8.90E-27
+rs4463516,G,South Asia,Africa,9.42E-27
+rs4463516,C,South Asia,Africa,9.42E-27
+rs7142143,C,Africa,Europe,9.66E-27
+rs7128311,C,America,East Asia,1.05E-26
+rs9273363,A,South Asia,Africa,1.10E-26
+rs112769843,C,East Asia,Europe,1.13E-26
+rs2511713,G,South Asia,Europe,1.24E-26
+rs41322152,C,South Asia,Africa,1.56E-26
+rs11978267,G,East Asia,South Asia,1.56E-26
+rs11978267,A,East Asia,South Asia,1.56E-26
+rs10849033,G,America,Africa,2.18E-26
+rs1110701,G,East Asia,South Asia,2.23E-26
+rs6684897,G,America,South Asia,2.23E-26
+rs2003869,G,East Asia,South Asia,2.33E-26
+rs7690934,C,East Asia,South Asia,2.33E-26
+rs6971925,T,America,Africa,2.58E-26
+rs2139953,A,East Asia,South Asia,2.66E-26
+rs11748968,C,Africa,Europe,2.69E-26
+rs75777619,G,East Asia,South Asia,3.92E-26
+rs4463516,G,Africa,Europe,4.24E-26
+rs4463516,C,Africa,Europe,4.24E-26
+rs806321,T,Africa,Europe,4.31E-26
+rs806321,C,Africa,Europe,4.31E-26
+rs11715604,A,America,Africa,4.52E-26
+rs11715604,T,America,Africa,4.52E-26
+rs305061,C,East Asia,Europe,4.59E-26
+rs305061,T,East Asia,Europe,4.59E-26
+rs6793295,C,America,East Asia,4.92E-26
+rs6793295,T,America,East Asia,4.92E-26
+rs735665,A,East Asia,South Asia,5.28E-26
+rs6901152,T,East Asia,South Asia,6.19E-26
+rs207954,C,Africa,Europe,6.39E-26
+rs6021191,T,East Asia,Europe,7.40E-26
+rs7944004,T,America,East Asia,7.48E-26
+rs34531324,T,America,East Asia,7.74E-26
+rs10046301,C,East Asia,South Asia,8.45E-26
+rs11748968,C,South Asia,Europe,1.14E-25
+rs9976326,T,East Asia,South Asia,1.14E-25
+rs123509,T,East Asia,South Asia,1.41E-25
+rs2390536,A,America,Africa,1.58E-25
+rs67134687,A,East Asia,Europe,1.66E-25
+rs67134687,G,East Asia,Europe,1.66E-25
+rs60218192,A,America,Africa,1.91E-25
+rs11637565,G,East Asia,South Asia,2.06E-25
+rs13397985,G,East Asia,Africa,2.52E-25
+rs13397985,T,East Asia,Africa,2.52E-25
+rs674313,T,Africa,Europe,3.54E-25
+rs888096,A,South Asia,Europe,3.65E-25
+rs35603048,T,East Asia,Africa,3.74E-25
+rs4459895,C,South Asia,Europe,3.98E-25
+rs11753479,G,East Asia,Europe,4.12E-25
+rs7254272,A,South Asia,Europe,4.90E-25
+rs11980379,T,East Asia,South Asia,4.95E-25
+rs4132601,T,East Asia,South Asia,4.95E-25
+rs11980379,C,East Asia,South Asia,4.95E-25
+rs4132601,G,East Asia,South Asia,4.95E-25
+rs4759570,A,East Asia,Africa,4.98E-25
+rs9290663,T,Africa,Europe,6.04E-25
+rs1881797,C,East Asia,Europe,8.15E-25
+rs4463516,G,America,Africa,8.94E-25
+rs4463516,C,America,Africa,8.94E-25
+rs140522,T,South Asia,Africa,1.03E-24
+rs140522,C,South Asia,Africa,1.03E-24
+rs7115578,A,East Asia,Europe,1.21E-24
+rs10849033,G,South Asia,Europe,1.25E-24
+rs7677291,T,America,Africa,1.34E-24
+rs7677291,C,America,Africa,1.34E-24
+rs3800461,C,Africa,Europe,1.67E-24
+rs1569175,T,Africa,Europe,1.68E-24
+rs61904987,T,East Asia,Europe,1.80E-24
+rs10949482,T,Africa,Europe,1.82E-24
+rs9392017,G,South Asia,Europe,2.15E-24
+rs637868,C,South Asia,Africa,2.16E-24
+rs8023845,G,America,East Asia,2.22E-24
+rs11755724,A,America,South Asia,2.43E-24
+rs11755724,G,America,South Asia,2.43E-24
+rs6550253,A,East Asia,Europe,2.69E-24
+rs1879352,C,South Asia,Africa,3.14E-24
+rs2546191,A,South Asia,Africa,3.38E-24
+rs9392504,A,America,Africa,3.46E-24
+rs61610071,G,America,Europe,3.94E-24
+rs1881797,C,America,South Asia,4.18E-24
+rs888096,A,America,Europe,4.19E-24
+rs9958208,A,East Asia,Europe,4.36E-24
+rs9849262,T,East Asia,Africa,4.50E-24
+rs76473307,A,East Asia,Africa,4.50E-24
+rs9849262,T,Africa,Europe,4.97E-24
+rs72951801,G,East Asia,Africa,5.30E-24
+rs72951801,A,East Asia,Africa,5.30E-24
+rs6021191,T,South Asia,Africa,5.31E-24
+rs4266947,T,America,South Asia,5.37E-24
+rs207954,C,East Asia,Africa,5.63E-24
+rs738408,T,America,South Asia,7.11E-24
+rs738409,G,America,South Asia,7.11E-24
+rs4617118,G,East Asia,South Asia,7.36E-24
+rs11155133,G,East Asia,Europe,8.71E-24
+rs9308731,A,South Asia,Europe,9.89E-24
+rs6428370,G,East Asia,South Asia,1.07E-23
+rs343604,T,South Asia,Europe,1.21E-23
+rs4759570,A,America,Africa,1.24E-23
+rs267585,T,America,Africa,1.37E-23
+rs131821,A,America,East Asia,1.38E-23
+rs2466024,A,East Asia,South Asia,1.42E-23
+rs17837497,A,East Asia,Africa,1.63E-23
+rs1986582,G,Africa,Europe,1.64E-23
+rs74709575,C,East Asia,Europe,1.73E-23
+rs17837497,A,Africa,Europe,1.80E-23
+rs9849262,T,South Asia,Africa,2.02E-23
+rs9272131,T,Africa,Europe,2.24E-23
+rs7558911,A,East Asia,Europe,2.44E-23
+rs140522,T,Africa,Europe,2.66E-23
+rs140522,C,Africa,Europe,2.66E-23
+rs17133805,G,East Asia,South Asia,2.89E-23
+rs637868,C,East Asia,South Asia,3.42E-23
+rs4459895,C,America,Africa,3.95E-23
+rs12621643,T,East Asia,Africa,5.09E-23
+rs131821,A,South Asia,Europe,5.39E-23
+rs113941845,A,East Asia,South Asia,6.19E-23
+rs3935695,C,East Asia,Africa,6.23E-23
+rs2290400,T,East Asia,Europe,6.44E-23
+rs7254272,A,America,South Asia,6.55E-23
+rs17837497,A,South Asia,Africa,7.07E-23
+rs1800682,A,America,Africa,1.06E-22
+rs1496766,C,America,Africa,1.25E-22
+rs267759,A,America,Europe,1.27E-22
+rs6125048,T,South Asia,Europe,1.31E-22
+rs6125048,T,South Asia,Africa,1.40E-22
+rs6684897,G,East Asia,Europe,1.97E-22
+rs6683977,C,East Asia,Africa,2.04E-22
+rs2511713,G,South Asia,Africa,2.19E-22
+rs10018622,A,South Asia,Africa,2.19E-22
+rs10018622,G,South Asia,Africa,2.19E-22
+rs2239633,A,East Asia,Africa,2.25E-22
+rs2239633,G,East Asia,Africa,2.25E-22
+rs113941845,A,East Asia,Europe,2.34E-22
+rs2720680,G,Africa,Europe,2.42E-22
+rs1986582,G,South Asia,Europe,2.57E-22
+rs61904987,T,America,Africa,2.88E-22
+rs7176508,A,East Asia,South Asia,3.01E-22
+rs9392504,A,South Asia,Africa,3.80E-22
+rs7682733,A,America,South Asia,4.06E-22
+rs7682733,G,America,South Asia,4.06E-22
+rs267759,A,East Asia,Africa,4.83E-22
+rs12530134,A,Africa,Europe,5.08E-22
+rs1804772,C,East Asia,Europe,5.18E-22
+rs1804772,A,East Asia,Europe,5.18E-22
+rs1359742,G,East Asia,South Asia,5.94E-22
+rs1879352,C,America,Africa,6.36E-22
+rs7738636,A,Africa,Europe,6.61E-22
+rs61037031,A,East Asia,South Asia,9.02E-22
+rs61037031,C,East Asia,South Asia,9.02E-22
+rs9272535,A,East Asia,Africa,1.00E-21
+rs10873876,T,East Asia,Africa,1.00E-21
+rs6683977,C,South Asia,Europe,1.16E-21
+rs9976326,T,East Asia,Africa,1.31E-21
+rs2720680,G,East Asia,Africa,1.36E-21
+rs2290400,T,East Asia,Africa,1.46E-21
+rs17133805,G,Africa,Europe,1.71E-21
+rs6683977,C,East Asia,South Asia,2.01E-21
+rs11155133,G,America,Europe,2.17E-21
+rs7705526,A,Africa,Europe,2.19E-21
+rs60440889,C,East Asia,Africa,2.49E-21
+rs60440889,T,East Asia,Africa,2.49E-21
+rs4459895,C,America,East Asia,2.66E-21
+rs6550253,A,America,Africa,3.43E-21
+rs58055674,C,East Asia,South Asia,4.29E-21
+rs1439287,A,America,Europe,4.42E-21
+rs2041840,C,Africa,Europe,4.54E-21
+rs2296624,C,America,East Asia,4.95E-21
+rs2296624,C,East Asia,South Asia,5.41E-21
+rs1986582,G,America,Africa,5.50E-21
+rs1110701,G,East Asia,Africa,5.68E-21
+rs4896310,A,America,East Asia,6.05E-21
+rs61904987,T,America,East Asia,6.16E-21
+rs2901286,A,America,East Asia,6.34E-21
+rs1439287,A,South Asia,Africa,6.86E-21
+rs6546149,G,America,Africa,7.48E-21
+rs17007695,C,America,South Asia,8.30E-21
+rs6546149,G,America,East Asia,8.83E-21
+rs7554607,A,East Asia,Europe,1.22E-20
+rs4546143,T,East Asia,Europe,1.23E-20
+rs4546143,C,East Asia,Europe,1.23E-20
+rs11155133,G,East Asia,Africa,1.43E-20
+rs4546143,C,South Asia,Europe,1.51E-20
+rs4546143,T,South Asia,Europe,1.51E-20
+rs34531324,T,East Asia,South Asia,1.62E-20
+rs72772090,G,South Asia,Africa,1.67E-20
+rs3824662,A,America,South Asia,1.74E-20
+rs3824662,C,America,South Asia,1.74E-20
+rs1569175,T,East Asia,South Asia,1.91E-20
+rs12530134,A,East Asia,Europe,2.15E-20
+rs73331351,G,America,East Asia,2.50E-20
+rs1439287,A,America,East Asia,2.59E-20
+rs1036935,A,East Asia,Europe,2.60E-20
+rs2191566,G,East Asia,Africa,3.28E-20
+rs1879352,C,East Asia,Europe,3.59E-20
+rs17481869,A,East Asia,Europe,3.72E-20
+rs17481869,C,East Asia,Europe,3.72E-20
+rs4896310,A,East Asia,South Asia,3.96E-20
+rs17032980,A,South Asia,Africa,4.25E-20
+rs17032980,G,South Asia,Africa,4.25E-20
+rs2622849,T,Africa,Europe,4.79E-20
+rs73188336,T,America,East Asia,4.84E-20
+rs7578199,T,South Asia,Africa,5.52E-20
+rs13069553,G,America,East Asia,6.22E-20
+rs13069553,A,America,East Asia,6.22E-20
+rs563507,A,America,Africa,7.23E-20
+rs7090445,T,East Asia,Africa,8.37E-20
+rs7090445,C,East Asia,Africa,8.37E-20
+rs17134658,G,America,Africa,9.78E-20
+rs17134658,T,America,Africa,9.78E-20
+rs10936599,C,America,East Asia,1.07E-19
+rs2041840,C,East Asia,Africa,1.14E-19
+rs7578199,T,America,South Asia,1.21E-19
+rs35229355,T,South Asia,Europe,1.22E-19
+rs72951801,G,South Asia,Africa,1.37E-19
+rs72951801,A,South Asia,Africa,1.37E-19
+rs3935695,C,America,Europe,1.39E-19
+rs630662,A,America,East Asia,1.81E-19
+rs60086424,T,America,South Asia,1.93E-19
+rs16976734,G,America,South Asia,1.96E-19
+rs41271473,G,East Asia,Africa,1.96E-19
+rs7142143,C,America,Africa,2.04E-19
+rs6901152,T,South Asia,Africa,2.09E-19
+rs140522,T,East Asia,Africa,2.12E-19
+rs140522,C,East Asia,Africa,2.12E-19
+rs9392504,A,East Asia,Europe,2.79E-19
+rs28665337,A,South Asia,Africa,4.41E-19
+rs28665337,C,South Asia,Africa,4.41E-19
+rs12638862,A,America,East Asia,4.71E-19
+rs58055674,C,South Asia,Africa,6.20E-19
+rs806321,C,East Asia,Europe,6.48E-19
+rs806321,T,East Asia,Europe,6.48E-19
+rs3770745,T,East Asia,Africa,6.75E-19
+rs72951801,G,America,Africa,8.36E-19
+rs72951801,A,America,Africa,8.36E-19
+rs570684,T,America,Europe,8.38E-19
+rs570684,C,America,Europe,8.38E-19
+rs4987852,C,Africa,Europe,8.84E-19
+rs4987852,T,Africa,Europe,8.84E-19
+rs72772090,G,East Asia,South Asia,9.74E-19
+rs267759,A,America,South Asia,1.07E-18
+rs9815073,C,East Asia,Europe,1.09E-18
+rs1576377,C,East Asia,South Asia,1.22E-18
+rs61610071,G,East Asia,Africa,1.25E-18
+rs4266947,T,South Asia,Africa,1.47E-18
+rs31490,A,America,Africa,1.53E-18
+rs3755397,G,Africa,Europe,1.82E-18
+rs4617118,G,America,Africa,2.10E-18
+rs75777619,G,South Asia,Africa,2.27E-18
+rs4245595,C,East Asia,Africa,2.31E-18
+rs17481869,C,Africa,Europe,2.81E-18
+rs17481869,A,Africa,Europe,2.81E-18
+rs3800461,C,South Asia,Africa,3.24E-18
+rs11978267,A,Africa,Europe,3.54E-18
+rs11978267,G,Africa,Europe,3.54E-18
+rs874460,C,Africa,Europe,3.66E-18
+rs2546191,A,East Asia,Africa,3.74E-18
+rs41271473,G,East Asia,Europe,3.86E-18
+rs4845725,G,South Asia,Africa,3.96E-18
+rs4845725,A,South Asia,Africa,3.96E-18
+rs802734,G,South Asia,Africa,4.00E-18
+rs802734,A,South Asia,Africa,4.00E-18
+rs637868,C,South Asia,Europe,4.29E-18
+rs1986582,G,America,South Asia,4.46E-18
+rs6971925,T,East Asia,Africa,4.78E-18
+rs58055674,C,America,East Asia,4.89E-18
+rs73331351,G,East Asia,South Asia,5.49E-18
+rs7558911,A,South Asia,Europe,5.59E-18
+rs4406737,G,East Asia,Africa,6.18E-18
+rs1679013,C,Africa,Europe,6.23E-18
+rs936094,C,America,East Asia,6.68E-18
+rs2390536,A,East Asia,South Asia,6.89E-18
+rs16976734,G,East Asia,South Asia,6.96E-18
+rs6021191,T,America,Africa,7.26E-18
+rs898518,A,East Asia,South Asia,8.07E-18
+rs1036935,A,America,Africa,8.59E-18
+rs7090445,C,South Asia,Europe,9.03E-18
+rs7090445,T,South Asia,Europe,9.03E-18
+rs267759,A,Africa,Europe,9.86E-18
+rs73005220,G,South Asia,Africa,1.01E-17
+rs3800461,C,East Asia,Europe,1.06E-17
+rs61037031,C,East Asia,Africa,1.07E-17
+rs61037031,A,East Asia,Africa,1.07E-17
+rs2466024,A,America,Africa,1.16E-17
+rs7128311,C,America,South Asia,1.17E-17
+rs6858698,C,America,Africa,1.26E-17
+rs2139953,A,America,East Asia,1.51E-17
+rs359312,T,America,East Asia,1.56E-17
+rs35603048,T,America,Africa,1.76E-17
+rs8023845,G,South Asia,Europe,1.77E-17
+rs4245595,C,South Asia,Europe,1.96E-17
+rs7554607,A,America,East Asia,2.00E-17
+rs2089222,A,America,East Asia,2.09E-17
+rs12530134,A,South Asia,Africa,2.10E-17
+rs821931,G,East Asia,Africa,2.38E-17
+rs11155133,G,America,Africa,2.49E-17
+rs74709575,C,America,East Asia,2.64E-17
+rs7865267,T,America,East Asia,2.68E-17
+rs207954,C,South Asia,Africa,2.69E-17
+rs10821936,C,East Asia,Africa,2.72E-17
+rs10821936,C,South Asia,Europe,2.91E-17
+rs9880772,A,America,Africa,3.44E-17
+rs936094,C,America,South Asia,3.47E-17
+rs6546149,G,South Asia,Africa,3.58E-17
+rs7176508,A,South Asia,Africa,4.02E-17
+rs6546149,G,East Asia,South Asia,4.21E-17
+rs12786200,C,America,East Asia,4.33E-17
+rs12786200,T,America,East Asia,4.33E-17
+rs1044873,C,South Asia,Europe,4.76E-17
+rs6971925,T,America,South Asia,4.91E-17
+rs12748152,C,Africa,Europe,5.35E-17
+rs7738636,A,America,Africa,5.43E-17
+rs11978267,G,South Asia,Africa,5.45E-17
+rs11978267,A,South Asia,Africa,5.45E-17
+rs570684,C,America,Africa,5.82E-17
+rs570684,T,America,Africa,5.82E-17
+rs3824662,C,Africa,Europe,5.94E-17
+rs3824662,A,Africa,Europe,5.94E-17
+rs7941765,T,East Asia,South Asia,6.24E-17
+rs7941765,C,East Asia,South Asia,6.24E-17
+rs7176508,A,East Asia,Europe,6.45E-17
+rs34004493,G,East Asia,Africa,6.48E-17
+rs9958208,A,East Asia,South Asia,6.49E-17
+rs267585,T,East Asia,Europe,6.58E-17
+rs12530134,A,East Asia,South Asia,8.63E-17
+rs75870332,A,East Asia,South Asia,9.48E-17
+rs821931,G,South Asia,Europe,9.76E-17
+rs9392017,G,America,South Asia,9.86E-17
+rs189434316,T,Africa,Europe,1.00E-16
+rs17423910,G,Africa,Europe,1.06E-16
+rs2546191,A,East Asia,Europe,1.11E-16
+rs73062673,C,South Asia,Europe,1.29E-16
+rs920590,C,Africa,Europe,1.30E-16
+rs4723619,C,East Asia,Africa,1.33E-16
+rs2622849,T,America,Africa,1.75E-16
+rs7156960,C,East Asia,Africa,1.87E-16
+rs7156960,G,East Asia,Africa,1.87E-16
+rs9308731,A,America,East Asia,1.92E-16
+rs2466035,C,East Asia,South Asia,1.95E-16
+rs2466024,A,East Asia,Europe,1.96E-16
+rs11637565,G,East Asia,Europe,2.02E-16
+rs4987852,C,East Asia,Europe,2.33E-16
+rs4987852,T,East Asia,Europe,2.33E-16
+rs17505102,G,America,South Asia,2.40E-16
+rs17505102,C,America,South Asia,2.40E-16
+rs41271473,G,America,South Asia,2.83E-16
+rs75870332,A,America,South Asia,3.16E-16
+rs6445754,C,South Asia,Europe,3.24E-16
+rs343604,T,America,Europe,3.47E-16
+rs1804772,C,East Asia,Africa,3.48E-16
+rs1804772,A,East Asia,Africa,3.48E-16
+rs60086424,T,East Asia,South Asia,3.61E-16
+rs7089424,G,South Asia,Europe,4.11E-16
+rs7089424,T,South Asia,Europe,4.11E-16
+rs7024024,A,South Asia,Africa,4.18E-16
+rs34531324,T,South Asia,Europe,4.19E-16
+rs11748968,C,America,Africa,4.23E-16
+rs2901286,A,America,Africa,4.80E-16
+rs2041840,C,America,East Asia,5.35E-16
+rs2052702,A,East Asia,South Asia,5.73E-16
+rs3755397,G,South Asia,Africa,6.23E-16
+rs926070,A,South Asia,Europe,7.14E-16
+rs11753479,G,South Asia,Africa,7.31E-16
+rs9958208,A,America,East Asia,7.34E-16
+rs4987856,C,South Asia,Europe,7.35E-16
+rs11980379,C,Africa,Europe,7.55E-16
+rs4132601,G,Africa,Europe,7.55E-16
+rs11980379,T,Africa,Europe,7.55E-16
+rs4132601,T,Africa,Europe,7.55E-16
+rs1292034,G,East Asia,South Asia,7.80E-16
+rs1292034,A,East Asia,South Asia,7.80E-16
+rs738408,T,South Asia,Africa,7.83E-16
+rs738409,G,South Asia,Africa,7.83E-16
+rs149207840,T,America,East Asia,8.68E-16
+rs210142,C,South Asia,Europe,1.11E-15
+rs210143,C,South Asia,Europe,1.11E-15
+rs6901152,T,America,South Asia,1.11E-15
+rs10018622,A,East Asia,Africa,1.40E-15
+rs10018622,G,East Asia,Africa,1.40E-15
+rs57214277,T,South Asia,Europe,1.43E-15
+rs674313,T,East Asia,Africa,1.46E-15
+rs2511713,G,America,South Asia,1.49E-15
+rs2041840,C,America,Europe,1.53E-15
+rs10028805,G,America,South Asia,1.68E-15
+rs630662,A,East Asia,South Asia,1.75E-15
+rs4896310,A,East Asia,Africa,2.00E-15
+rs11020478,G,South Asia,Europe,2.09E-15
+rs9272131,T,South Asia,Africa,2.14E-15
+rs73195662,G,South Asia,Africa,2.19E-15
+rs17133805,G,South Asia,Africa,2.24E-15
+rs73188336,T,East Asia,South Asia,2.28E-15
+rs76473307,A,Africa,Europe,2.31E-15
+rs3824662,A,America,Europe,2.69E-15
+rs3824662,C,America,Europe,2.69E-15
+rs1110701,G,America,East Asia,2.72E-15
+rs17483466,G,South Asia,Africa,2.78E-15
+rs17483466,A,South Asia,Africa,2.78E-15
+rs570684,C,East Asia,Europe,2.82E-15
+rs570684,T,East Asia,Europe,2.82E-15
+rs77551289,A,South Asia,Europe,2.96E-15
+rs1496766,C,East Asia,Africa,3.02E-15
+rs60218192,A,East Asia,South Asia,3.08E-15
+rs58055674,C,America,Africa,3.29E-15
+rs1496766,C,South Asia,Africa,3.38E-15
+rs926070,A,South Asia,Africa,3.40E-15
+rs112769843,C,America,East Asia,3.53E-15
+rs4748813,T,South Asia,Europe,4.35E-15
+rs2052702,A,East Asia,Europe,4.76E-15
+rs267585,T,America,East Asia,4.88E-15
+rs11637565,G,South Asia,Africa,5.03E-15
+rs757978,T,East Asia,Africa,5.23E-15
+rs12786200,C,South Asia,Africa,5.28E-15
+rs12786200,T,South Asia,Africa,5.28E-15
+rs821931,G,East Asia,South Asia,6.48E-15
+rs11155133,G,South Asia,Europe,7.05E-15
+rs391525,A,South Asia,Africa,7.23E-15
+rs391525,G,South Asia,Africa,7.23E-15
+rs821931,G,America,Europe,7.24E-15
+rs4653367,G,America,Africa,7.39E-15
+rs12786200,T,South Asia,Europe,7.57E-15
+rs12786200,C,South Asia,Europe,7.57E-15
+rs11083846,A,South Asia,Africa,8.36E-15
+rs920590,C,South Asia,Europe,9.15E-15
+rs56929051,C,South Asia,Africa,9.21E-15
+rs56929051,G,South Asia,Africa,9.21E-15
+rs74709575,C,East Asia,South Asia,9.55E-15
+rs1359742,G,South Asia,Europe,9.70E-15
+rs17857135,T,East Asia,South Asia,9.82E-15
+rs2511714,G,America,South Asia,1.08E-14
+rs8024033,C,Africa,Europe,1.10E-14
+rs2041840,C,South Asia,Africa,1.27E-14
+rs67134687,A,East Asia,South Asia,1.39E-14
+rs67134687,G,East Asia,South Asia,1.39E-14
+rs73331351,G,Africa,Europe,1.53E-14
+rs6684897,G,South Asia,Europe,1.64E-14
+rs802734,G,America,Africa,1.81E-14
+rs802734,A,America,Africa,1.81E-14
+rs35229355,T,America,South Asia,1.93E-14
+rs73195662,G,East Asia,South Asia,2.06E-14
+rs11715604,T,South Asia,Africa,2.12E-14
+rs11715604,A,South Asia,Africa,2.12E-14
+rs267759,A,South Asia,Africa,2.49E-14
+rs2296624,C,America,Europe,2.56E-14
+rs9391997,G,East Asia,Europe,2.71E-14
+rs2953196,G,East Asia,Europe,3.02E-14
+rs189434316,T,East Asia,Europe,3.03E-14
+rs41322152,C,America,Africa,3.17E-14
+rs4762284,T,America,Europe,3.42E-14
+rs4762284,A,America,Europe,3.42E-14
+rs2390536,A,America,Europe,3.47E-14
+rs9378805,C,East Asia,Europe,3.80E-14
+rs10046301,C,America,East Asia,3.84E-14
+rs10028805,G,America,Africa,3.92E-14
+rs60440889,C,America,Europe,3.95E-14
+rs60440889,T,America,Europe,3.95E-14
+rs34004493,G,South Asia,Africa,4.12E-14
+rs2003869,G,America,East Asia,4.24E-14
+rs7690934,C,America,East Asia,4.24E-14
+rs35603048,T,America,South Asia,4.38E-14
+rs1679013,C,East Asia,South Asia,4.55E-14
+rs6858698,C,East Asia,Europe,4.62E-14
+rs140522,T,America,Africa,4.66E-14
+rs140522,C,America,Africa,4.66E-14
+rs11020478,G,America,South Asia,4.67E-14
+rs73062673,C,America,Africa,4.68E-14
+rs874460,C,East Asia,Europe,4.97E-14
+rs17079534,A,East Asia,Africa,5.21E-14
+rs872071,G,East Asia,Europe,5.46E-14
+rs9849262,T,America,Africa,5.78E-14
+rs10260824,C,East Asia,Europe,6.22E-14
+rs112769843,C,South Asia,Africa,6.89E-14
+rs9976326,T,South Asia,Europe,7.03E-14
+rs4723619,C,America,Africa,7.09E-14
+rs4987856,C,America,Africa,7.88E-14
+rs77551289,A,America,Africa,7.88E-14
+rs7865267,T,South Asia,Europe,8.29E-14
+rs11753479,G,East Asia,South Asia,8.59E-14
+rs73192661,C,South Asia,Europe,9.58E-14
+rs12638862,A,South Asia,Africa,1.14E-13
+rs4869818,G,South Asia,Europe,1.17E-13
+rs61610071,G,South Asia,Europe,1.25E-13
+rs4617118,G,Africa,Europe,1.28E-13
+rs12638862,A,Africa,Europe,1.29E-13
+rs7865267,T,East Asia,South Asia,1.36E-13
+rs7090445,C,Africa,Europe,1.40E-13
+rs7090445,T,Africa,Europe,1.40E-13
+rs4982731,C,East Asia,Europe,1.43E-13
+rs145145722,T,East Asia,Africa,1.80E-13
+rs17505102,C,Africa,Europe,1.82E-13
+rs17505102,G,Africa,Europe,1.82E-13
+rs2296624,C,South Asia,Europe,1.86E-13
+rs7115578,A,East Asia,Africa,1.94E-13
+rs61904987,T,East Asia,South Asia,2.02E-13
+rs1679013,C,South Asia,Europe,2.04E-13
+rs4266947,T,America,East Asia,2.06E-13
+rs7677291,C,America,South Asia,2.07E-13
+rs7677291,T,America,South Asia,2.07E-13
+rs2511713,G,East Asia,South Asia,2.15E-13
+rs4653367,G,America,Europe,2.20E-13
+rs61904987,T,South Asia,Africa,2.24E-13
+rs17079534,A,Africa,Europe,2.25E-13
+rs35603048,T,East Asia,South Asia,2.61E-13
+rs802734,A,East Asia,Europe,2.68E-13
+rs802734,G,East Asia,Europe,2.68E-13
+rs4987856,C,America,East Asia,2.70E-13
+rs4762284,A,Africa,Europe,2.83E-13
+rs4762284,T,Africa,Europe,2.83E-13
+rs4762284,T,America,South Asia,3.19E-13
+rs4762284,A,America,South Asia,3.19E-13
+rs4869818,G,America,Europe,3.22E-13
+rs28665337,C,East Asia,Europe,3.76E-13
+rs28665337,A,East Asia,Europe,3.76E-13
+rs7705526,A,America,Africa,4.07E-13
+rs11022157,A,East Asia,South Asia,4.43E-13
+rs4762284,A,East Asia,Africa,4.82E-13
+rs4762284,T,East Asia,Africa,4.82E-13
+rs17079534,A,South Asia,Africa,4.91E-13
+rs1569175,T,America,East Asia,5.08E-13
+rs123509,T,East Asia,Africa,5.47E-13
+rs1044873,C,East Asia,South Asia,5.74E-13
+rs6858698,C,South Asia,Europe,5.90E-13
+rs11636802,G,East Asia,Europe,5.96E-13
+rs142215530,G,East Asia,Europe,5.96E-13
+rs3800461,C,East Asia,South Asia,6.18E-13
+rs6901152,T,America,Europe,6.63E-13
+rs145145722,T,Africa,Europe,7.74E-13
+rs9880772,A,America,Europe,8.48E-13
+rs9308731,A,America,Europe,8.48E-13
+rs123509,T,South Asia,Europe,9.38E-13
+rs2390536,A,South Asia,Africa,9.40E-13
+rs1569175,T,East Asia,Europe,1.02E-12
+rs936094,C,America,Africa,1.06E-12
+rs1476569,G,Africa,Europe,1.12E-12
+rs10821936,C,East Asia,South Asia,1.17E-12
+rs8024033,C,America,East Asia,1.19E-12
+rs4245595,C,Africa,Europe,1.48E-12
+rs77551289,A,America,East Asia,1.51E-12
+rs73062673,C,Africa,Europe,1.51E-12
+rs7578199,T,East Asia,South Asia,1.65E-12
+rs7554607,A,Africa,Europe,1.66E-12
+rs142215530,G,Africa,Europe,1.67E-12
+rs821931,G,America,East Asia,1.82E-12
+rs570684,T,South Asia,Europe,1.82E-12
+rs570684,C,South Asia,Europe,1.82E-12
+rs8023845,G,East Asia,South Asia,1.82E-12
+rs7677291,C,East Asia,Europe,1.83E-12
+rs7677291,T,East Asia,Europe,1.83E-12
+rs1044873,C,America,Africa,1.90E-12
+rs16868899,A,Africa,Europe,1.92E-12
+rs16868899,G,Africa,Europe,1.92E-12
+rs75777619,G,East Asia,Europe,1.96E-12
+rs2236256,C,America,Europe,2.02E-12
+rs630662,A,South Asia,Africa,2.03E-12
+rs7090445,C,East Asia,South Asia,2.26E-12
+rs7090445,T,East Asia,South Asia,2.26E-12
+rs2777899,T,East Asia,Europe,2.38E-12
+rs2777899,G,East Asia,Europe,2.38E-12
+rs76473307,A,America,Africa,2.47E-12
+rs72742684,T,East Asia,Europe,2.48E-12
+rs17032980,G,East Asia,South Asia,2.49E-12
+rs17032980,A,East Asia,South Asia,2.49E-12
+rs9272131,T,East Asia,Africa,2.53E-12
+rs10821936,C,Africa,Europe,2.73E-12
+rs4245595,C,East Asia,South Asia,3.11E-12
+rs6125048,T,America,South Asia,3.18E-12
+rs11636802,G,Africa,Europe,3.34E-12
+rs4762284,A,South Asia,Africa,3.45E-12
+rs4762284,T,South Asia,Africa,3.45E-12
+rs1292034,G,East Asia,Europe,3.59E-12
+rs1292034,A,East Asia,Europe,3.59E-12
+rs8023845,G,South Asia,Africa,3.60E-12
+rs7176508,A,Africa,Europe,3.81E-12
+rs11980379,T,America,East Asia,3.85E-12
+rs4132601,T,America,East Asia,3.85E-12
+rs11980379,C,America,East Asia,3.85E-12
+rs4132601,G,America,East Asia,3.85E-12
+rs2396718,C,Africa,Europe,3.86E-12
+rs738408,T,Africa,Europe,3.93E-12
+rs738409,G,Africa,Europe,3.93E-12
+rs6793295,T,America,Europe,4.00E-12
+rs6793295,C,America,Europe,4.00E-12
+rs757978,T,East Asia,Europe,4.40E-12
+rs9272131,T,America,East Asia,4.51E-12
+rs9958208,A,East Asia,Africa,4.70E-12
+rs9392504,A,America,East Asia,4.72E-12
+rs305061,T,South Asia,Africa,4.78E-12
+rs305061,C,South Asia,Africa,4.78E-12
+rs113941845,A,South Asia,Africa,5.84E-12
+rs17133805,G,America,East Asia,6.10E-12
+rs145145722,T,South Asia,Africa,6.23E-12
+rs9880772,A,America,East Asia,6.28E-12
+rs806321,C,South Asia,Europe,6.60E-12
+rs806321,T,South Asia,Europe,6.60E-12
+rs563507,A,America,East Asia,7.60E-12
+rs60218192,A,America,East Asia,7.60E-12
+rs56929051,C,East Asia,Africa,8.08E-12
+rs56929051,G,East Asia,Africa,8.08E-12
+rs6428370,G,East Asia,Europe,8.36E-12
+rs12711846,G,East Asia,Europe,8.81E-12
+rs9272535,A,Africa,Europe,1.02E-11
+rs2546191,A,South Asia,Europe,1.11E-11
+rs4748813,T,East Asia,South Asia,1.16E-11
+rs11748968,C,East Asia,South Asia,1.25E-11
+rs3935695,C,America,South Asia,1.29E-11
+rs34531324,T,America,Africa,1.29E-11
+rs1804772,A,East Asia,South Asia,1.30E-11
+rs1804772,C,East Asia,South Asia,1.30E-11
+rs131821,A,East Asia,South Asia,1.32E-11
+rs75870332,A,America,Africa,1.41E-11
+rs17007695,C,Africa,Europe,1.46E-11
+rs11715604,A,East Asia,Europe,1.46E-11
+rs11715604,T,East Asia,Europe,1.46E-11
+rs7089424,T,East Asia,South Asia,1.50E-11
+rs7089424,G,East Asia,South Asia,1.50E-11
+rs60440889,T,America,South Asia,1.56E-11
+rs60440889,C,America,South Asia,1.56E-11
+rs11980379,C,South Asia,Africa,1.60E-11
+rs11980379,T,South Asia,Africa,1.60E-11
+rs4132601,G,South Asia,Africa,1.60E-11
+rs4132601,T,South Asia,Africa,1.60E-11
+rs4617118,G,America,South Asia,1.60E-11
+rs72742684,T,Africa,Europe,1.65E-11
+rs9272535,A,America,East Asia,1.68E-11
+rs9290663,T,South Asia,Africa,1.74E-11
+rs113941845,A,Africa,Europe,1.75E-11
+rs2236256,C,South Asia,Europe,1.92E-11
+rs12786200,T,East Asia,Africa,1.96E-11
+rs12786200,C,East Asia,Africa,1.96E-11
+rs7682733,A,America,Europe,2.00E-11
+rs7682733,G,America,Europe,2.00E-11
+rs131821,A,East Asia,Africa,2.26E-11
+rs75094162,T,East Asia,Africa,2.48E-11
+rs7607659,T,America,Europe,2.49E-11
+rs6858698,C,Africa,Europe,2.50E-11
+rs4266947,T,America,Europe,2.56E-11
+rs75094162,T,Africa,Europe,2.59E-11
+rs7115578,A,America,South Asia,2.74E-11
+rs117483095,T,South Asia,Africa,2.75E-11
+rs4982731,C,Africa,Europe,2.91E-11
+rs3824662,C,South Asia,Africa,2.95E-11
+rs3824662,A,South Asia,Africa,2.95E-11
+rs16868899,A,East Asia,Europe,2.96E-11
+rs16868899,G,East Asia,Europe,2.96E-11
+rs11083846,A,America,Africa,3.04E-11
+rs9392017,G,East Asia,Europe,3.10E-11
+rs3755397,G,East Asia,Europe,3.20E-11
+rs210142,C,South Asia,Africa,3.33E-11
+rs210143,C,South Asia,Africa,3.33E-11
+rs2466035,C,East Asia,Europe,3.38E-11
+rs4869818,G,South Asia,Africa,3.47E-11
+rs2041840,C,America,South Asia,3.54E-11
+rs1881797,C,South Asia,Europe,3.62E-11
+rs7941765,C,America,Europe,3.65E-11
+rs7941765,T,America,Europe,3.65E-11
+rs17505102,G,East Asia,South Asia,3.72E-11
+rs17505102,C,East Asia,South Asia,3.72E-11
+rs1879352,C,East Asia,South Asia,3.86E-11
+rs75777619,G,America,South Asia,4.13E-11
+rs75870332,A,East Asia,Africa,4.18E-11
+rs11083846,A,East Asia,Africa,4.44E-11
+rs34004493,G,America,Europe,4.80E-11
+rs75094162,T,South Asia,Africa,4.84E-11
+rs6793295,C,Africa,Europe,4.94E-11
+rs6793295,T,Africa,Europe,4.94E-11
+rs17246404,C,America,East Asia,5.01E-11
+rs6971925,T,East Asia,South Asia,5.30E-11
+rs6125048,T,America,East Asia,5.42E-11
+rs806321,T,America,Europe,5.57E-11
+rs806321,C,America,Europe,5.57E-11
+rs1476569,G,America,Africa,5.83E-11
+rs2466029,G,East Asia,South Asia,6.34E-11
+rs3755397,G,America,Africa,6.38E-11
+rs73062673,C,America,South Asia,6.40E-11
+rs4869818,G,America,Africa,6.96E-11
+rs117233659,C,South Asia,Africa,7.15E-11
+rs117233659,A,South Asia,Africa,7.15E-11
+rs3731217,C,East Asia,Africa,7.54E-11
+rs3731217,A,East Asia,Africa,7.54E-11
+rs391525,A,America,Africa,8.09E-11
+rs391525,G,America,Africa,8.09E-11
+rs7558911,A,East Asia,Africa,8.25E-11
+rs674313,T,America,Africa,8.63E-11
+rs149940960,T,Africa,Europe,8.81E-11
+rs9290663,T,America,East Asia,9.06E-11
+rs4368253,C,East Asia,South Asia,9.08E-11
+rs4723619,C,South Asia,Europe,9.51E-11
+rs12621643,T,East Asia,South Asia,1.08E-10
+rs1576377,C,America,South Asia,1.23E-10
+rs563507,A,East Asia,Europe,1.24E-10
+rs1576377,C,East Asia,Africa,1.26E-10
+rs2052702,A,South Asia,Africa,1.50E-10
+rs149940960,T,South Asia,Africa,1.59E-10
+rs11022157,A,America,East Asia,1.62E-10
+rs16976734,G,America,Africa,1.73E-10
+rs10508343,A,East Asia,Europe,1.75E-10
+rs9836270,A,East Asia,South Asia,1.82E-10
+rs28665337,A,America,South Asia,1.99E-10
+rs28665337,C,America,South Asia,1.99E-10
+rs71372609,C,Africa,Europe,2.02E-10
+rs4406737,G,America,Africa,2.43E-10
+rs7089424,G,America,Europe,2.58E-10
+rs7089424,T,America,Europe,2.58E-10
+rs7554607,A,America,Africa,2.62E-10
+rs116783514,C,East Asia,Africa,2.88E-10
+rs116783514,C,Africa,Europe,2.99E-10
+rs61610071,G,East Asia,South Asia,3.34E-10
+rs920590,C,East Asia,Europe,3.38E-10
+rs149940960,T,East Asia,Africa,3.42E-10
+rs9290663,T,East Asia,Africa,3.77E-10
+rs57214277,T,America,South Asia,3.82E-10
+rs4748813,T,America,Europe,3.88E-10
+rs6893857,C,America,East Asia,4.10E-10
+rs4653367,G,America,South Asia,4.13E-10
+rs10508343,A,East Asia,Africa,4.42E-10
+rs11978267,G,America,East Asia,4.46E-10
+rs11978267,A,America,East Asia,4.46E-10
+rs3731714,T,East Asia,Europe,4.61E-10
+rs3731714,C,East Asia,Europe,4.61E-10
+rs4723619,C,East Asia,South Asia,4.65E-10
+rs79050301,C,South Asia,Africa,4.66E-10
+rs267585,T,East Asia,South Asia,4.96E-10
+rs73005220,G,America,Africa,4.96E-10
+rs4240807,C,East Asia,Europe,4.97E-10
+rs34676223,C,East Asia,Africa,5.12E-10
+rs874460,C,America,Europe,5.21E-10
+rs116783514,C,South Asia,Africa,5.24E-10
+rs35229355,T,Africa,Europe,5.39E-10
+rs1804772,A,America,East Asia,5.43E-10
+rs1804772,C,America,East Asia,5.43E-10
+rs1348850,A,America,East Asia,5.65E-10
+rs17481869,C,America,East Asia,5.91E-10
+rs17481869,A,America,East Asia,5.91E-10
+rs4987852,C,South Asia,Europe,5.96E-10
+rs4987852,T,South Asia,Europe,5.96E-10
+rs12748152,C,America,Africa,6.00E-10
+rs6021191,T,America,Europe,6.15E-10
+rs10508343,A,America,South Asia,6.31E-10
+rs9392504,A,East Asia,South Asia,6.43E-10
+rs12748152,C,South Asia,Africa,6.59E-10
+rs738408,T,East Asia,Europe,6.75E-10
+rs738409,G,East Asia,Europe,6.75E-10
+rs6971925,T,South Asia,Europe,7.25E-10
+rs31490,A,America,Europe,7.72E-10
+rs2396718,C,East Asia,Europe,7.98E-10
+rs7818688,A,East Asia,Europe,8.15E-10
+rs7818688,C,East Asia,Europe,8.15E-10
+rs267759,A,America,East Asia,8.52E-10
+rs117483095,T,Africa,Europe,8.55E-10
+rs73195662,G,America,South Asia,8.59E-10
+rs10821936,C,America,Europe,8.66E-10
+rs9392017,G,America,Africa,9.21E-10
+rs7090445,C,America,Europe,9.53E-10
+rs7090445,T,America,Europe,9.53E-10
+rs2052702,A,Africa,Europe,9.69E-10
+rs61610071,G,Africa,Europe,1.02E-09
+rs1879352,C,America,East Asia,1.06E-09
+rs3096696,A,America,Africa,1.14E-09
+rs1986582,G,East Asia,Africa,1.28E-09
+rs10508343,A,East Asia,South Asia,1.28E-09
+rs7156960,G,South Asia,Africa,1.33E-09
+rs7156960,C,South Asia,Africa,1.33E-09
+rs210142,C,America,South Asia,1.35E-09
+rs210143,C,America,South Asia,1.35E-09
+rs4245595,C,America,Europe,1.37E-09
+rs112769843,C,South Asia,Europe,1.41E-09
+rs6021191,T,South Asia,Europe,1.41E-09
+rs2239633,A,East Asia,Europe,1.46E-09
+rs2239633,G,East Asia,Europe,1.46E-09
+rs1805465,T,East Asia,Africa,1.47E-09
+rs1439287,A,America,Africa,1.52E-09
+rs9272535,A,East Asia,South Asia,1.60E-09
+rs7089424,G,East Asia,Africa,1.68E-09
+rs7089424,T,East Asia,Africa,1.68E-09
+rs73188336,T,East Asia,Africa,1.70E-09
+rs9290663,T,America,South Asia,1.70E-09
+rs61037031,C,America,East Asia,1.77E-09
+rs61037031,A,America,East Asia,1.77E-09
+rs2466035,C,America,South Asia,1.93E-09
+rs3755397,G,East Asia,South Asia,1.96E-09
+rs6489882,G,America,Europe,1.96E-09
+rs3130284,C,America,Africa,1.97E-09
+rs4266947,T,East Asia,Africa,2.14E-09
+rs10949482,T,America,Africa,2.19E-09
+rs71372609,C,East Asia,Europe,2.31E-09
+rs2139953,A,America,Europe,2.39E-09
+rs9272131,T,America,South Asia,2.43E-09
+rs13069553,A,America,South Asia,2.54E-09
+rs13069553,G,America,South Asia,2.54E-09
+rs6550253,A,America,South Asia,2.64E-09
+rs6021191,T,East Asia,South Asia,2.66E-09
+rs757978,T,East Asia,South Asia,2.67E-09
+rs8024033,C,America,Europe,2.74E-09
+rs7705526,A,America,South Asia,2.76E-09
+rs12786200,T,East Asia,Europe,2.85E-09
+rs12786200,C,East Asia,Europe,2.85E-09
+rs11715604,A,East Asia,Africa,3.13E-09
+rs11715604,T,East Asia,Africa,3.13E-09
+rs123509,T,America,Africa,3.15E-09
+rs1496766,C,East Asia,Europe,3.24E-09
+rs305061,T,East Asia,South Asia,3.25E-09
+rs305061,C,East Asia,South Asia,3.25E-09
+rs61037031,C,South Asia,Europe,3.33E-09
+rs61037031,A,South Asia,Europe,3.33E-09
+rs4845725,A,America,Africa,3.35E-09
+rs4845725,G,America,Africa,3.35E-09
+rs67134687,G,East Asia,Africa,3.49E-09
+rs67134687,A,East Asia,Africa,3.49E-09
+rs2296624,C,East Asia,Africa,3.51E-09
+rs3935695,C,South Asia,Africa,3.55E-09
+rs2239630,A,South Asia,Europe,3.56E-09
+rs7128311,C,South Asia,Africa,3.69E-09
+rs112769843,C,East Asia,South Asia,3.74E-09
+rs6683977,C,America,East Asia,3.90E-09
+rs2622849,T,East Asia,Europe,3.94E-09
+rs17505102,C,East Asia,Africa,3.97E-09
+rs17505102,G,East Asia,Africa,3.97E-09
+rs9271176,G,South Asia,Africa,4.04E-09
+rs7682733,G,America,Africa,4.36E-09
+rs7682733,A,America,Africa,4.36E-09
+rs6428370,G,America,South Asia,4.58E-09
+rs9391997,G,East Asia,South Asia,4.70E-09
+rs2290400,T,South Asia,Europe,4.81E-09
+rs343604,T,South Asia,Africa,4.95E-09
+rs148297606,C,South Asia,Africa,5.06E-09
+rs1496766,C,South Asia,Europe,5.19E-09
+rs76473307,A,East Asia,South Asia,5.27E-09
+rs71597109,C,South Asia,Europe,5.50E-09
+rs207954,C,America,South Asia,5.87E-09
+rs73152871,A,Africa,Europe,6.21E-09
+rs73152871,G,Africa,Europe,6.21E-09
+rs10069690,T,East Asia,Europe,6.23E-09
+rs17837497,A,America,Africa,6.77E-09
+rs34531324,T,America,Europe,7.33E-09
+rs7973974,C,East Asia,Europe,7.58E-09
+rs7558911,A,America,East Asia,7.79E-09
+rs3731249,C,Africa,Europe,8.27E-09
+rs113650570,A,Africa,Europe,8.27E-09
+rs3731249,T,Africa,Europe,8.27E-09
+rs898518,A,America,East Asia,8.41E-09
+rs17246404,C,East Asia,South Asia,8.51E-09
+rs11755724,G,America,Europe,8.54E-09
+rs11755724,A,America,Europe,8.54E-09
+rs1476569,G,South Asia,Europe,9.00E-09
+rs34676223,C,America,East Asia,9.87E-09
+rs3800461,C,America,Africa,1.02E-08
+rs17032980,G,America,South Asia,1.02E-08
+rs17032980,A,America,South Asia,1.02E-08
+rs2511714,G,America,Africa,1.03E-08
+rs73331351,G,America,Africa,1.04E-08
+rs41307935,C,Africa,Europe,1.15E-08
+rs9392017,G,Africa,Europe,1.15E-08
+rs9271176,G,East Asia,South Asia,1.18E-08
+rs117233659,C,East Asia,South Asia,1.22E-08
+rs117233659,A,East Asia,South Asia,1.22E-08
+rs149207840,T,America,South Asia,1.24E-08
+rs1348850,A,America,South Asia,1.24E-08
+rs1359742,G,America,South Asia,1.25E-08
+rs71597109,C,East Asia,Europe,1.27E-08
+rs7677291,C,Africa,Europe,1.41E-08
+rs7677291,T,Africa,Europe,1.41E-08
+rs4653367,G,East Asia,South Asia,1.43E-08
+rs9378805,C,America,East Asia,1.54E-08
+rs9391997,G,America,East Asia,1.54E-08
+rs61610071,G,America,Africa,1.61E-08
+rs4723619,C,America,South Asia,1.62E-08
+rs7818688,C,East Asia,South Asia,1.65E-08
+rs7818688,A,East Asia,South Asia,1.65E-08
+rs2466029,G,East Asia,Europe,1.65E-08
+rs305061,C,America,Europe,1.68E-08
+rs305061,T,America,Europe,1.68E-08
+rs10046301,C,East Asia,Africa,1.73E-08
+rs1348850,A,East Asia,Europe,1.81E-08
+rs7941765,T,America,East Asia,1.85E-08
+rs7941765,C,America,East Asia,1.85E-08
+rs1036935,A,Africa,Europe,1.92E-08
+rs1036935,A,America,South Asia,1.99E-08
+rs4982731,C,South Asia,Europe,2.00E-08
+rs34531324,T,East Asia,Africa,2.01E-08
+rs115456075,T,Africa,Europe,2.14E-08
+rs115456075,A,Africa,Europe,2.14E-08
+rs11748968,C,America,East Asia,2.19E-08
+rs34676223,C,East Asia,South Asia,2.19E-08
+rs79050301,C,East Asia,Africa,2.27E-08
+rs1142345,T,South Asia,Africa,2.31E-08
+rs1142345,C,South Asia,Africa,2.31E-08
+rs7607659,T,America,South Asia,2.33E-08
+rs12621643,T,South Asia,Europe,2.36E-08
+rs872071,G,East Asia,South Asia,2.37E-08
+rs72926690,C,Africa,Europe,2.44E-08
+rs72926690,T,Africa,Europe,2.44E-08
+rs12779301,C,America,Europe,2.53E-08
+rs4459895,C,East Asia,South Asia,2.55E-08
+rs3824662,C,East Asia,South Asia,2.57E-08
+rs3824662,A,East Asia,South Asia,2.57E-08
+rs113941845,A,America,East Asia,2.68E-08
+rs73188336,T,South Asia,Europe,2.69E-08
+rs60086424,T,America,Europe,3.15E-08
+rs738408,T,America,East Asia,3.16E-08
+rs738409,G,America,East Asia,3.16E-08
+rs7738636,A,East Asia,South Asia,3.19E-08
+rs73152871,A,East Asia,Europe,3.31E-08
+rs73152871,G,East Asia,Europe,3.31E-08
+rs16868899,G,South Asia,Europe,3.42E-08
+rs16868899,A,South Asia,Europe,3.42E-08
+rs17857135,T,East Asia,Europe,3.42E-08
+rs2546191,A,America,East Asia,3.46E-08
+rs7176508,A,America,East Asia,3.55E-08
+rs10069690,T,East Asia,South Asia,3.56E-08
+rs67134687,A,Africa,Europe,3.64E-08
+rs67134687,G,Africa,Europe,3.64E-08
+rs872071,G,America,East Asia,3.89E-08
+rs7607659,T,America,East Asia,3.91E-08
+rs7115578,A,America,Europe,4.01E-08
+rs72772090,G,South Asia,Europe,4.08E-08
+rs3096696,A,America,Europe,4.18E-08
+rs2236256,C,America,Africa,4.26E-08
+rs6550253,A,East Asia,Africa,4.27E-08
+rs4896310,A,Africa,Europe,4.34E-08
+rs9976326,T,America,East Asia,4.56E-08
+rs75870332,A,South Asia,Europe,4.64E-08
+rs6893857,C,America,Europe,4.66E-08
+rs73005220,G,Africa,Europe,4.81E-08
+rs757978,T,America,East Asia,5.07E-08
+rs3130284,C,America,East Asia,5.15E-08
+rs67134687,A,America,Europe,5.17E-08
+rs67134687,G,America,Europe,5.17E-08
+rs926070,A,East Asia,Europe,5.33E-08
+rs10949482,T,America,South Asia,5.49E-08
+rs6550253,A,America,Europe,5.51E-08
+rs210142,C,East Asia,Europe,5.60E-08
+rs210143,C,East Asia,Europe,5.60E-08
+rs112141546,T,East Asia,Africa,5.72E-08
+rs4723619,C,Africa,Europe,5.84E-08
+rs112141546,T,Africa,Europe,5.90E-08
+rs2622849,T,America,East Asia,5.90E-08
+rs11637565,G,Africa,Europe,6.17E-08
+rs71597109,C,America,Europe,6.20E-08
+rs131821,A,America,Europe,7.18E-08
+rs3731217,C,East Asia,South Asia,7.19E-08
+rs3731217,A,East Asia,South Asia,7.19E-08
+rs73331351,G,East Asia,Africa,7.31E-08
+rs7554607,A,East Asia,South Asia,7.42E-08
+rs76473307,A,South Asia,Africa,7.48E-08
+rs926070,A,America,South Asia,7.61E-08
+rs7818688,A,America,East Asia,7.93E-08
+rs7818688,C,America,East Asia,7.93E-08
+rs343604,T,America,East Asia,8.31E-08
+rs34531324,T,South Asia,Africa,8.57E-08
+rs4240807,C,Africa,Europe,8.64E-08
+rs2901286,A,South Asia,Africa,8.68E-08
+rs3096696,A,America,East Asia,8.80E-08
+rs112141546,T,South Asia,Africa,8.97E-08
+rs10046301,C,America,Europe,9.01E-08
+rs391525,A,South Asia,Europe,9.23E-08
+rs391525,G,South Asia,Europe,9.23E-08
+rs3731217,A,America,East Asia,9.34E-08
+rs3731217,C,America,East Asia,9.34E-08
+rs4240807,C,America,East Asia,9.40E-08
+rs72926690,T,East Asia,Europe,9.61E-08
+rs72926690,C,East Asia,Europe,9.61E-08
+rs7738636,A,East Asia,Africa,1.05E-07
+rs17481869,A,South Asia,Europe,1.06E-07
+rs17481869,C,South Asia,Europe,1.06E-07
+rs1576377,C,East Asia,Europe,1.07E-07
+rs9815073,C,America,South Asia,1.11E-07
+rs4748813,T,America,East Asia,1.14E-07
+rs2290400,T,South Asia,Africa,1.14E-07
+rs3130284,C,America,Europe,1.15E-07
+rs4617118,G,East Asia,Europe,1.24E-07
+rs11637565,G,America,East Asia,1.31E-07
+rs4266947,T,Africa,Europe,1.34E-07
+rs2052702,A,America,East Asia,1.38E-07
+rs10028805,G,East Asia,South Asia,1.40E-07
+rs17079534,A,America,Africa,1.44E-07
+rs17483466,A,East Asia,Africa,1.51E-07
+rs17483466,G,East Asia,Africa,1.51E-07
+rs17505102,G,South Asia,Europe,1.60E-07
+rs17505102,C,South Asia,Europe,1.60E-07
+rs35229355,T,America,Africa,1.75E-07
+rs9378805,C,East Asia,South Asia,1.80E-07
+rs17481869,A,East Asia,South Asia,1.88E-07
+rs17481869,C,East Asia,South Asia,1.88E-07
+rs7578199,T,Africa,Europe,1.91E-07
+rs4459895,C,South Asia,Africa,1.94E-07
+rs60218192,A,East Asia,Europe,2.05E-07
+rs7705526,A,South Asia,Europe,2.05E-07
+rs802734,G,East Asia,South Asia,2.09E-07
+rs802734,A,East Asia,South Asia,2.09E-07
+rs9836270,A,South Asia,Europe,2.11E-07
+rs10936599,C,America,South Asia,2.23E-07
+rs7254272,A,East Asia,South Asia,2.23E-07
+rs6971925,T,Africa,Europe,2.37E-07
+rs9880772,A,America,South Asia,2.37E-07
+rs4525246,C,South Asia,Africa,2.40E-07
+rs60440889,C,East Asia,Europe,2.43E-07
+rs60440889,T,East Asia,Europe,2.43E-07
+rs7677291,T,America,Europe,2.48E-07
+rs7677291,C,America,Europe,2.48E-07
+rs2466024,A,America,South Asia,2.52E-07
+rs4845725,A,East Asia,South Asia,2.54E-07
+rs4845725,G,East Asia,South Asia,2.54E-07
+rs3096696,A,America,South Asia,2.55E-07
+rs391855,A,South Asia,Europe,2.59E-07
+rs6445754,C,America,Europe,2.80E-07
+rs926070,A,East Asia,Africa,2.91E-07
+rs7558911,A,South Asia,Africa,3.03E-07
+rs12638862,A,America,Europe,3.15E-07
+rs4459895,C,America,Europe,3.23E-07
+rs148297606,C,East Asia,South Asia,3.25E-07
+rs9392017,G,America,East Asia,3.32E-07
+rs10873876,T,East Asia,South Asia,3.76E-07
+rs343604,T,Africa,Europe,3.81E-07
+rs6021191,T,America,East Asia,3.91E-07
+rs11715604,A,South Asia,Europe,3.92E-07
+rs11715604,T,South Asia,Europe,3.92E-07
+rs31490,A,America,East Asia,4.00E-07
+rs73192661,C,East Asia,Europe,4.18E-07
+rs60440889,C,South Asia,Africa,4.19E-07
+rs60440889,T,South Asia,Africa,4.19E-07
+rs34676223,C,Africa,Europe,4.20E-07
+rs1348850,A,South Asia,Europe,4.28E-07
+rs7865267,T,America,Europe,4.37E-07
+rs738408,T,East Asia,South Asia,4.42E-07
+rs738409,G,East Asia,South Asia,4.42E-07
+rs123509,T,America,Europe,4.44E-07
+rs1142345,C,East Asia,Africa,4.54E-07
+rs1142345,T,East Asia,Africa,4.54E-07
+rs1476569,G,America,South Asia,4.55E-07
+rs1439112,G,East Asia,South Asia,4.65E-07
+rs1439112,A,East Asia,South Asia,4.65E-07
+rs7089424,T,America,East Asia,4.74E-07
+rs7089424,G,America,East Asia,4.74E-07
+rs3731249,C,East Asia,Europe,4.75E-07
+rs113650570,A,East Asia,Europe,4.75E-07
+rs3731249,T,East Asia,Europe,4.75E-07
+rs7941765,C,South Asia,Europe,4.76E-07
+rs7941765,T,South Asia,Europe,4.76E-07
+rs12638862,A,America,South Asia,4.97E-07
+rs4617118,G,South Asia,Europe,5.08E-07
+rs4546143,C,South Asia,Africa,5.09E-07
+rs4546143,T,South Asia,Africa,5.09E-07
+rs13401811,G,America,Africa,5.16E-07
+rs3130284,C,America,South Asia,5.23E-07
+rs140514603,A,Africa,Europe,5.24E-07
+rs140514603,G,Africa,Europe,5.24E-07
+rs4546143,T,East Asia,Africa,5.32E-07
+rs4546143,C,East Asia,Africa,5.32E-07
+rs10936599,C,America,Europe,5.51E-07
+rs2236256,C,South Asia,Africa,5.56E-07
+rs116783514,C,America,Africa,5.80E-07
+rs17837497,A,America,East Asia,5.91E-07
+rs7115578,A,South Asia,Africa,5.95E-07
+rs2239630,A,East Asia,Europe,6.00E-07
+rs17837497,A,America,Europe,6.06E-07
+rs2089222,A,America,Africa,6.56E-07
+rs58800477,G,East Asia,Africa,6.56E-07
+rs58800477,G,Africa,Europe,6.73E-07
+rs3731249,C,South Asia,Europe,7.00E-07
+rs113650570,A,South Asia,Europe,7.00E-07
+rs3731249,T,South Asia,Europe,7.00E-07
+rs391525,A,East Asia,Africa,7.27E-07
+rs391525,G,East Asia,Africa,7.27E-07
+rs77589546,G,Africa,Europe,7.39E-07
+rs4546143,C,Africa,Europe,7.42E-07
+rs4546143,T,Africa,Europe,7.42E-07
+rs7973974,C,East Asia,South Asia,7.46E-07
+rs2139953,A,South Asia,Europe,7.55E-07
+rs13069553,A,America,Europe,7.57E-07
+rs13069553,G,America,Europe,7.57E-07
+rs79050301,C,America,South Asia,7.61E-07
+rs41271473,G,South Asia,Africa,7.85E-07
+rs1044873,C,America,Europe,8.11E-07
+rs13401811,G,South Asia,Africa,8.28E-07
+rs149940960,T,America,Africa,8.29E-07
+rs17837497,A,America,South Asia,8.67E-07
+rs41307935,C,East Asia,Europe,9.52E-07
+rs2296624,C,America,Africa,9.56E-07
+rs58800477,G,South Asia,Africa,9.60E-07
+rs936094,C,South Asia,Europe,9.78E-07
+rs1036935,A,America,East Asia,1.02E-06
+rs10821936,C,America,East Asia,1.02E-06
+rs117483095,T,East Asia,South Asia,1.07E-06
+rs898518,A,America,Africa,1.07E-06
+rs7156960,G,Africa,Europe,1.14E-06
+rs7156960,C,Africa,Europe,1.14E-06
+rs4845725,A,Africa,Europe,1.15E-06
+rs4845725,G,Africa,Europe,1.15E-06
+rs115456075,A,East Asia,Europe,1.24E-06
+rs115456075,T,East Asia,Europe,1.24E-06
+rs2466024,A,East Asia,Africa,1.26E-06
+rs4987852,T,America,East Asia,1.28E-06
+rs1805465,T,America,East Asia,1.28E-06
+rs4987852,C,America,East Asia,1.28E-06
+rs4762284,A,America,East Asia,1.31E-06
+rs4762284,T,America,East Asia,1.31E-06
+rs79050301,C,Africa,Europe,1.37E-06
+rs1805465,T,East Asia,Europe,1.38E-06
+rs77589546,G,East Asia,Europe,1.38E-06
+rs4459895,C,America,South Asia,1.45E-06
+rs359312,T,Africa,Europe,1.46E-06
+rs7024024,A,America,South Asia,1.46E-06
+rs7024024,A,East Asia,South Asia,1.48E-06
+rs2466029,G,America,South Asia,1.51E-06
+rs4987856,C,East Asia,South Asia,1.68E-06
+rs4845725,G,South Asia,Europe,1.72E-06
+rs4845725,A,South Asia,Europe,1.72E-06
+rs305061,T,America,Africa,1.74E-06
+rs305061,C,America,Africa,1.74E-06
+rs11755724,A,South Asia,Africa,1.76E-06
+rs11755724,G,South Asia,Africa,1.76E-06
+rs674313,T,America,South Asia,1.77E-06
+rs1569175,T,America,Africa,1.79E-06
+rs2290400,T,America,East Asia,1.89E-06
+rs10873876,T,East Asia,Europe,2.01E-06
+rs630662,A,America,Africa,2.01E-06
+rs1945213,G,America,Europe,2.04E-06
+rs1945213,C,America,Europe,2.04E-06
+rs12530134,A,America,South Asia,2.16E-06
+rs31490,A,America,South Asia,2.22E-06
+rs637868,C,America,Africa,2.23E-06
+rs924607,T,East Asia,Europe,2.27E-06
+rs34676223,C,America,Europe,2.30E-06
+rs305061,C,South Asia,Europe,2.32E-06
+rs305061,T,South Asia,Europe,2.32E-06
+rs10949482,T,America,East Asia,2.38E-06
+rs61037031,C,Africa,Europe,2.42E-06
+rs61037031,A,Africa,Europe,2.42E-06
+rs28665337,C,Africa,Europe,2.48E-06
+rs28665337,A,Africa,Europe,2.48E-06
+rs77551289,A,East Asia,South Asia,2.53E-06
+rs123509,T,South Asia,Africa,2.54E-06
+rs71372609,C,South Asia,Europe,2.57E-06
+rs17423910,G,South Asia,Africa,2.63E-06
+rs9836270,A,America,South Asia,2.66E-06
+rs11715604,T,America,East Asia,2.70E-06
+rs11715604,A,America,East Asia,2.70E-06
+rs73062673,C,America,East Asia,2.84E-06
+rs4368253,C,South Asia,Africa,2.99E-06
+rs74709575,C,South Asia,Africa,3.06E-06
+rs12711846,G,America,East Asia,3.10E-06
+rs7090445,C,America,East Asia,3.15E-06
+rs7090445,T,America,East Asia,3.15E-06
+rs9815073,C,America,Europe,3.22E-06
+rs77551289,A,South Asia,Africa,3.30E-06
+rs4245595,C,America,East Asia,3.41E-06
+rs2191566,G,America,East Asia,3.42E-06
+rs41271473,G,South Asia,Europe,3.50E-06
+rs12779301,C,America,Africa,3.51E-06
+rs6489882,G,East Asia,Europe,3.55E-06
+rs13397985,T,Africa,Europe,3.90E-06
+rs13397985,G,Africa,Europe,3.90E-06
+rs17133805,G,America,Africa,3.98E-06
+rs563507,A,America,South Asia,4.05E-06
+rs35837782,G,America,Europe,4.12E-06
+rs35837782,A,America,Europe,4.12E-06
+rs282708,A,South Asia,Europe,4.16E-06
+rs4987852,C,America,Africa,4.45E-06
+rs4987852,T,America,Africa,4.45E-06
+rs674313,T,East Asia,South Asia,4.48E-06
+rs3755397,G,America,East Asia,4.55E-06
+rs7558911,A,America,South Asia,4.73E-06
+rs2003869,G,America,Africa,4.74E-06
+rs7690934,C,America,Africa,4.74E-06
+rs6021191,T,East Asia,Africa,4.76E-06
+rs9958208,A,Africa,Europe,4.77E-06
+rs1496766,C,America,East Asia,4.92E-06
+rs75777619,G,Africa,Europe,5.01E-06
+rs147481775,A,East Asia,Africa,5.02E-06
+rs1805465,T,East Asia,South Asia,5.04E-06
+rs6893857,C,America,South Asia,5.12E-06
+rs147481775,A,Africa,Europe,5.13E-06
+rs2396718,C,South Asia,Africa,5.25E-06
+rs115072237,T,Africa,Europe,5.69E-06
+rs115072237,C,Africa,Europe,5.69E-06
+rs145145722,T,America,East Asia,5.95E-06
+rs343604,T,East Asia,South Asia,6.03E-06
+rs207954,C,America,East Asia,6.04E-06
+rs41271473,G,America,Africa,6.35E-06
+rs11980379,T,East Asia,Africa,6.43E-06
+rs4132601,T,East Asia,Africa,6.43E-06
+rs11980379,C,East Asia,Africa,6.43E-06
+rs4132601,G,East Asia,Africa,6.43E-06
+rs77551289,A,America,Europe,6.63E-06
+rs34676223,C,South Asia,Europe,6.63E-06
+rs3800461,C,America,East Asia,6.66E-06
+rs7089424,T,Africa,Europe,6.66E-06
+rs7089424,G,Africa,Europe,6.66E-06
+rs11022157,A,East Asia,Africa,6.66E-06
+rs2466035,C,America,Europe,6.70E-06
+rs115072237,T,East Asia,Europe,6.83E-06
+rs115072237,C,East Asia,Europe,6.83E-06
+rs1496766,C,America,South Asia,6.84E-06
+rs16868899,A,America,East Asia,6.86E-06
+rs16868899,G,America,East Asia,6.86E-06
+rs147481775,A,South Asia,Africa,6.93E-06
+rs7677291,T,East Asia,South Asia,7.15E-06
+rs7677291,C,East Asia,South Asia,7.15E-06
+rs10028805,G,South Asia,Europe,7.25E-06
+rs12748152,C,East Asia,Europe,7.41E-06
+rs35837782,A,America,Africa,7.42E-06
+rs35837782,G,America,Africa,7.42E-06
+rs1142345,T,America,South Asia,7.84E-06
+rs1142345,C,America,South Asia,7.84E-06
+rs189434316,T,South Asia,Africa,7.99E-06
+rs1439287,A,Africa,Europe,8.07E-06
+rs802734,A,America,East Asia,8.24E-06
+rs802734,G,America,East Asia,8.24E-06
+rs142811167,C,Africa,Europe,8.42E-06
+rs142811167,T,Africa,Europe,8.42E-06
+rs17481869,A,America,Africa,8.47E-06
+rs17481869,C,America,Africa,8.47E-06
+rs4987856,C,America,Europe,8.67E-06
+rs189434316,T,East Asia,South Asia,8.73E-06
+rs4845725,A,East Asia,Africa,8.92E-06
+rs4845725,G,East Asia,Africa,8.92E-06
+rs17423910,G,East Asia,Europe,8.96E-06
+rs56929051,C,Africa,Europe,8.99E-06
+rs56929051,G,Africa,Europe,8.99E-06
+rs35603048,T,America,Europe,9.10E-06
+rs75094162,T,America,Africa,9.11E-06
+rs1359742,G,South Asia,Africa,9.26E-06
+rs4240807,C,America,Africa,9.34E-06
+rs112769843,C,America,Africa,9.53E-06
+rs73152871,A,South Asia,Europe,1.01E-05
+rs73152871,G,South Asia,Europe,1.01E-05
+rs1945213,G,America,Africa,1.07E-05
+rs6586163,A,America,South Asia,1.08E-05
+rs391525,A,America,Europe,1.14E-05
+rs391525,G,America,Europe,1.14E-05
+rs140514603,G,East Asia,Europe,1.17E-05
+rs140514603,A,East Asia,Europe,1.17E-05
+rs2089222,A,East Asia,Africa,1.18E-05
+rs3731249,C,America,Africa,1.21E-05
+rs113650570,A,America,Africa,1.21E-05
+rs3731249,T,America,Africa,1.21E-05
+rs117483095,T,East Asia,Europe,1.23E-05
+rs9271176,G,Africa,Europe,1.25E-05
+rs4987856,C,South Asia,Africa,1.26E-05
+rs4546143,C,America,Europe,1.29E-05
+rs4546143,T,America,Europe,1.29E-05
+rs1800682,A,America,Europe,1.29E-05
+rs189434316,T,America,East Asia,1.29E-05
+rs71372609,C,America,East Asia,1.29E-05
+rs2511714,G,East Asia,South Asia,1.32E-05
+rs9271176,G,America,South Asia,1.33E-05
+rs67134687,G,America,East Asia,1.36E-05
+rs67134687,A,America,East Asia,1.36E-05
